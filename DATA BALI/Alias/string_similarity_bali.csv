@@ -1,0 +1,931 @@
+StoryID,CharactersID,AliasCharacters
+1,Tokoh-1,"Pan Karsa, Pan Karta"
+1,Tokoh-2,"pianakne muani, Pianakne, pianakne"
+1,Tokoh-3,"anake sane mentas ditu, liu anake"
+1,Tokoh-4,"jerone sareng sami, jerone"
+2,Tokoh-1,"I Angsa, Angsa, angsa"
+2,Tokoh-2,"I Kerkuak, Kerkuak, kerkuak"
+2,Tokoh-3,"I Cicing gudig, Cicing, cicing gudig, cicing, cicinge to"
+3,Tokoh-1,Sang Hyang Indra
+3,Tokoh-2,Niwatakawaca
+3,Tokoh-3,detia
+3,Tokoh-4,danawa
+3,Tokoh-5,raksasa
+3,Tokoh-6,dewa
+3,Tokoh-7,para Rsi kahyangane
+3,Tokoh-8,"Sang Arjuna, I Arjuna"
+3,Tokoh-9,kurenan I Arjuna
+3,Tokoh-10,dedari Supraba
+3,Tokoh-11,"widiadarine sane ayu-ayu pitung diri, widiadarine pitung diri punika, Cening widiadari ajak pepitu, cening"
+3,Tokoh-12,Tilottama
+3,Tokoh-13,bapa
+4,Tokoh-1,Ijo Sambu
+4,Tokoh-2,"I Ngurang Rangsasa, Ida Anak Agung Ngurah Rangsasa, I Ngurah Rangsasa, I Ngurah, Ngurah"
+4,Tokoh-3,"I Ngurah Sawe, Ida I Ngurah Sawe, Ida Ngurah Sawe"
+4,Tokoh-4,"Ida Betara, Paduka Betara, Betara"
+4,Tokoh-5,Ida Sanghyang Sambu
+5,Tokoh-1,"wit kepuh ageng, wit kepuhe, batan wit kepuhe"
+5,Tokoh-2,"Jro panunggun kepuh, jro panunggun kepuh"
+5,Tokoh-3,"I Tumtum, Tumtum"
+6,Tokoh-1,"I Nyoman Jater, I Nyoman jater, Nyoman Jater"
+6,Tokoh-2,"I Blenjo, Blenjo, Njo"
+6,Tokoh-3,tukang jaring tokal muah be bano
+6,Tokoh-4,"Meme Wayan, Meme, Meme Nengah, meme"
+6,Tokoh-5,"kliane, klian saren, kliane, Kliane"
+6,Tokoh-6,"i pesaren, pesarene, Jero pesaren, krama pesarene"
+7,Tokoh-1,"I Gancang, Beli Gancang"
+7,Tokoh-2,"I Gancing, Gancing"
+7,Tokoh-3,"I Gancung, Gancung"
+7,Tokoh-4,I Taru
+7,Tokoh-6,"adin-adinne maka dadua, adin beli ajak dadua"
+7,Tokoh-7,"beli, beline, Beli, belin icang maka dadua"
+8,Tokoh-1,Narajana
+8,Tokoh-2,"belibis putih, kedise, kedis Belibis Putih, Belibise, belibise, I Belibis Putih"
+8,Tokoh-3,kedis goak
+8,Tokoh-4,Bapa
+8,Tokoh-5,"Prabu Boya, Sang Prabu, Ida Sang Prabu"
+8,Tokoh-6,cicing gudig
+8,Tokoh-7,"pandita duang diri, panditane maka kalih, Ratu Pandita, Ratu"
+8,Tokoh-8,Ane istri
+8,Tokoh-9,Panditane ane sujati
+8,Tokoh-10,Pandita ane siluman
+9,Tokoh-1,"I Belog, Belog"
+9,Tokoh-2,"memene, Meme, Memenne, memenne, I meme, Memene, Me, Men Belog, memene I Belog"
+9,Tokoh-3,"kurenanne, kurenane, kurenan, kurenan I Belog"
+9,Tokoh-4,"bangken anak luh, bangke, bangkene, anak luh jegeg pisan, Anak luh, anake luh ento, bangkene, bangke, bangken anake luh totonan"
+10,Tokoh-1,"maharaja Pretu, Maharaja Pretu, Maharaja"
+10,Tokoh-2,"panjake, Panjake, panjak, panjaki dane"
+10,Tokoh-3,"Ida Sang Prabu, Ida Sang prabu, sang prabu, ida sang prabu, Ratu sang prabu, Ratu Sang Prabu"
+10,Tokoh-4,"Ida Batari Sri, ida batara, Ida Batara"
+10,Tokoh-5,meme
+10,Tokoh-6,"I kedis kuteh, Kedis kuteh"
+10,Tokoh-7,"I kedis sugem, Kedis Sugem"
+10,Tokoh-8,"kedis dara, Kedis dara"
+10,Tokoh-9,"Cening, ceninge, cening"
+10,Tokoh-10,"kedise petang ukud, kedise"
+11,Tokoh-1,"Bhagawan Domia, Ratu Bhagawan, Ida Bhagawan Domia, Ida Hyang Bhagawan, Ida Bhagawan"
+11,Tokoh-2,"Sang Utamaniu, Sang Utamaniune, Ida Sang Utamaniu"
+11,Tokoh-3,"Sang Arunika, Ida Sang Arunika"
+11,Tokoh-4,"Sang Weda, Ida Sang Weda"
+11,Tokoh-5,"Ida Dang Guru, Dang Guru, dang guru, Dang guru, dang gurujati"
+11,Tokoh-6,bapa
+11,Tokoh-7,Sang Abimanyu
+11,Tokoh-8,bapa Sang Undalaka
+11,Tokoh-9,"Ceninge, Cening"
+12,Tokoh-1,"Men Bekung, Men Bekunge, Men bekung"
+12,Tokoh-2,Pan Bekung
+12,Tokoh-3,"I Bintang Lara, Bintang Lara, I Bintang Larane, adi Bintang Lara, adi, I adi, Adi Bintang Lara, Adi"
+12,Tokoh-4,"Anak Agung, Anake Agung, Ida Anake Agung, Ratu Anak Agung, Ratu Dewa Agung, Ratu Dewa Anak Agung, Anake agung, Ida Anak Agung, anake agung"
+12,Tokoh-5,"parekanidane, parekane, i parekan, parekan, I Parekan, Parekan-parekan"
+12,Tokoh-6,Anak Agung istri
+12,Tokoh-7,"memene, Meme, meme, me"
+12,Tokoh-8,bapanne
+12,Tokoh-9,"anak odah, Anake odah, jero anak odah"
+12,Tokoh-10,"rabinida, rabin Anake Agung"
+12,Tokoh-11,"Rangsasa, I Rangsasa, I Raksasa"
+12,Tokoh-12,"Ni Cili, Cili"
+12,Tokoh-13,"widiadari ajaka lelima, dedarine buin dadua, dedarine dedari, I Dedari, Ni Dedari"
+12,Tokoh-14,"Dewi Gagarmayang,dedari Gargamayang"
+12,Tokoh-15,"Dewi Supraba, dedari Supraba, Ida Dedari Supraba, Ni Supraba, Ni supraba, dedari Suprabane"
+12,Tokoh-16,"I Gagak Petak, Gagak Petak, I Gagak Petake, Gagak Petake, gagak petak, gagak petake"
+12,Tokoh-17,baudandanidane
+12,Tokoh-18,tanda mantri parbekel
+12,Tokoh-19,"kurenanne, kurenane"
+12,Tokoh-20,"Cening, cening"
+12,Tokoh-21,"pianakne, pianak Meme, pianak tiange, panakne, pianakne muani, pianak Men Bekung"
+12,Tokoh-22,"cucunne I Raksasa, Cucu, cucunne, Cucu, cucune"
+12,Tokoh-23,"Dong Kaki, Kaki, kaki, Kaki-kaki, kakine"
+12,Tokoh-24,embok
+12,Tokoh-25,"anak luh dadua jegeg-jegeg, anak luh"
+13,Tokoh-1,"Ni Murdani, Murdani"
+13,Tokoh-2,"Bojog lua ento,  I bojog lua"
+13,Tokoh-3,"Sang Hyang Embang, Embang, Ida Sanghyang Embang"
+13,Tokoh-4,Bhatara Wisnu
+13,Tokoh-5,"Kedis-kedise, Kedis"
+13,Tokoh-6,anak jegeg listuayu ento
+14,Tokoh-1,Pan Badung
+14,Tokoh-2,Ni Badung
+14,Tokoh-3,"bapane, bapan ipun"
+14,Tokoh-4,"ula aya ageng pisan, ula aya punika, ula ayane punika, Ula ayane punika, ulane punika, ula"
+14,Tokoh-5,"pianakne, panakne, pianaknyane, pianak ipune, pianak ipun"
+15,Tokoh-1,Men Bekung
+15,Tokoh-2,Ni Bulan Kuning
+15,Tokoh-3,"I raksasa, I Raksasa, Raksasane"
+16,Tokoh-1,"Cicing Alas, I Cicing Alas"
+16,Tokoh-2,"Beburon di Alas Jenggala Sila, beburone"
+16,Tokoh-3,I Landak
+16,Tokoh-4,I Kuwuk
+16,Tokoh-5,"Kedis Cerukcuk, I Kedis Cerukcuk"
+16,Tokoh-6,"I Lembu, Lembu"
+16,Tokoh-7,I Kedis Cangak
+16,Tokoh-8,Kedis mabatis lantang ento
+17,Tokoh-1,"Ni Jepun, Dadong Jepun, Dadong, Dong"
+17,Tokoh-2,"anak luih jegeg, anake luh ento, Anake luh jegeg ento, luh ento, anak luh jegeg"
+17,Tokoh-3,"anak muani bajang, anake bajang ento, anake muani ento, Anake muani ento, anake ento, anak bajang ento, anake bajang ene, anak bajange ento, anak bajang, anake"
+17,Tokoh-4,"jelema, jelema gede-gede siteng"
+17,Tokoh-5,"I krama lenan, krama desane, krama desa, Krama desa"
+17,Tokoh-6,"sang natha ratu, natha ratu"
+17,Tokoh-7,Sang Maha Wirya
+17,Tokoh-8,"Ida Sang Raja, Sang Raja, Sang Maha Raja"
+18,Tokoh-1,Raja Sura
+18,Tokoh-2,Wasudewa
+18,Tokoh-3,Dewi Pritha
+18,Tokoh-4,"Raja Kuntibhoja, sang raja"
+18,Tokoh-5,"Dewi Kunti, Dewi Kanti"
+18,Tokoh-6,Rsi Durvasa
+18,Tokoh-7,"brahmana sakti, sang brahmana sakti, Sang Brahmana, Sang Brahma"
+18,Tokoh-8,"Sang Dewi, Dewi"
+18,Tokoh-9,"Hyang Baskara, Hyang, Betara Hyang Betara"
+18,Tokoh-10,Betara Surya
+18,Tokoh-11,"Cening, cening"
+19,Tokoh-1,"sang Ekalawya, Sang Ekalawya, Ekalawya, sang ekalawya"
+19,Tokoh-2,"bhagawan Drona, Hyang Bhagawan, Sang guru Drona, Dang Hyang Drona, Sang Bhagawan, Guru Drona"
+19,Tokoh-3,"Sang Arjuna, Arjuna, sang arjuna, sag Arjuna, cening Sang Arjuna"
+19,Tokoh-4,"sisian Ida Bhagawan Drona, sisiane,sisian hyang bhagawan, sisia, sisian Sang Bhagawan, sisian bapa"
+19,Tokoh-5,"Jero anak lanang, Jero"
+19,Tokoh-6,"Bapa, bapa"
+20,Tokoh-1,"sang Prabu Beksa, sang prabu, Sang prabu"
+20,Tokoh-2,"Galuh Pradnyawati, Raden Galuh Pradnyawati"
+20,Tokoh-3,Galuh Puspawati
+20,Tokoh-4,Galuh Marmawati
+20,Tokoh-5,Galuh Wijasantun
+20,Tokoh-6,"Galuh martasari, Raden Galuh martasari"
+20,Tokoh-7,Galuh Sumanasa
+20,Tokoh-8,"Biang raden galun, biang Raden Galuh, biang galuh, Biang Raden Galuh, I Biang, Biang"
+20,Tokoh-9,"okan-okane, okane"
+20,Tokoh-10,"rakan ceninge, rakane"
+20,Tokoh-11,Mbok galuh
+20,Tokoh-12,"cening galuh, cening"
+20,Tokoh-13,"raden galuh, Raden Galuh, Raden Galuh Pitu, galuh pepitu, Galuh Pitu, Ida Raden Galuh, Raden Galuh pitu,galuh pitu punika, Raden Galuh ajaka papitu, Raden Galuh makasami, Raden Galuh Pitu makasami"
+20,Tokoh-14,"raksasa, I Raksasa"
+21,Tokoh-1,I Getap
+21,Tokoh-2,"memene, meme"
+21,Tokoh-3,"bapane I Getap, bapane, Bapane I Getap"
+22,Tokoh-1,"I Kedis Puuh, I Puuh"
+22,Tokoh-2,"alu gede gati, Alune ento, alu, I Alu, Alu, alune ento"
+23,Tokoh-1,"I Balu Kawanan, Beli Kawanan"
+23,Tokoh-2,I Balu Kanginan
+23,Tokoh-3,"Beli Wayan, Beli, Bli, beli, bli"
+23,Tokoh-4,Luh
+23,Tokoh-5,"pianak muani, pianakne"
+24,Tokoh-1,"I Baluan, Baluan"
+24,Tokoh-2,"Ida Sang Prabu Singa, Ida Sang Prabu, ratu sang prabu, Ratu Sang Prabu, Ratu sang Prabu, Ida sang Prabu Singa"
+24,Tokoh-3,"I Blatuk, Blatuk"
+24,Tokoh-4,"I Temisi, Temisi"
+24,Tokoh-5,"I Kunang-Kunang, Kunang-Kunang, I Kunang-kunang"
+24,Tokoh-6,"I Beduda, Beduda, I Bedudane, Baduda"
+24,Tokoh-7,"I Sampi, Sampi, I Sampine"
+24,Tokoh-8,"Anake Agung, Ida Anake Agung"
+25,Tokoh-1,Ida Sang Prabu
+25,Tokoh-2,"prameswarine, Sri Prameswari"
+25,Tokoh-3,"I Basang Siap, basang siap"
+25,Tokoh-4,I Mantri
+25,Tokoh-5,I Galuh
+25,Tokoh-6,"anak cerik, anak cerik bagus, anake cerik ento, anake cenik ento"
+25,Tokoh-7,"pianak titiange, panake"
+25,Tokoh-8,"biang I Dewane, biange"
+25,Tokoh-9,"Cening, i cening"
+26,Tokoh-1,I Belog
+26,Tokoh-2,Luh Sari
+26,Tokoh-3,Pan Sari
+26,Tokoh-4,"Dewa Palsu I Belog, Dewa Palsu Belog"
+26,Tokoh-5,"Betara, Ida Betara, Ratu Betara, I Ratu"
+26,Tokoh-6,pianakne
+27,Tokoh-1,"I Belog, Belog"
+27,Tokoh-2,"memene, Me, meme, Meme, i meme, memenne, memene I Belog"
+27,Tokoh-3,"kurenane, Kurenanne, knurenane, Kurenan I Beloge"
+27,Tokoh-4,"Beli, Bli, bli"
+27,Tokoh-5,"anak luh, Makejang anake luh, Anake luh ento, Luh"
+28,Tokoh-1,"I Belog, Belog"
+28,Tokoh-2,"Pan Sari, Pan sari"
+28,Tokoh-3,"Luh Sari, Luh sari"
+28,Tokoh-4,"Bapa, bapa, bapanne, bapane, Bapa Pan Sari"
+28,Tokoh-5,"panakne, pianakne"
+29,Tokoh-1,"I Belog, Belog"
+29,Tokoh-2,"memenne, Meme, Memenne, meme, meme I Belog"
+29,Tokoh-3,"bangken anak luh, bangkene, bangken anake luh ento, bangkene ento"
+29,Tokoh-4,"Anake ento, anak luh jegeg pisan, anake luh ento, anake ento"
+29,Tokoh-5,"kurenanne, kurenan icange"
+30,Tokoh-1,Pan Meri
+30,Tokoh-2,"merine ento, Merine bengil ento, merine, ri, merin titiange, merin icange, meri, merine Pan Meri, meri icange, Meri icange, merine bengil ento, meri Pan Meri"
+30,Tokoh-3,"Anake gede selem, I gede selem, I Gede selem, anake gede selem ento"
+31,Tokoh-1,"I Belog, belog"
+31,Tokoh-2,"memene, Memene"
+31,Tokoh-3,"dagang bebeke, dagang bebek"
+31,Tokoh-4,Jero
+32,Tokoh-1,"I Bikul, Bikul, I bikul, bikul cenik"
+32,Tokoh-2,"Semal, I Semal"
+32,Tokoh-3,"meong gede tur mokoh, I Meong"
+33,Tokoh-1,"kedis sangsiah luh muani, i kedis, i kedise, Kedis Sangsiah, kedis"
+33,Tokoh-2,"bojog, bojoge, Bojog, I Bojog, I bojog"
+34,Tokoh-1,I Botol
+34,Tokoh-2,"samong, Sang Samong, Samong, I Samong"
+34,Tokoh-3,I Jaran
+34,Tokoh-4,I Sampi
+34,Tokoh-5,"I Kedis Sikep, I Kedise, I Sikep"
+34,Tokoh-6,"Panak icange, panak icange"
+34,Tokoh-7,"Sang Kancil, I Kancil"
+34,Tokoh-8,"manusa, manusane, I manusa"
+35,Tokoh-1,I Rumpuh
+35,Tokoh-2,I Buta
+35,Tokoh-3,"sudagar kacang tanah, sudagare ento"
+35,Tokoh-4,"Beli, beline, Bell"
+36,Tokoh-1,"I Celempung, Celempung"
+36,Tokoh-2,Ni Gadung
+36,Tokoh-3,"Kelian banjar, Jro Kelian Banjar, jro kelian, Jro kelian, jero kelian, jrone, jro kelian banjar"
+36,Tokoh-4,I Anggrek
+36,Tokoh-5,"cicing, Cicing, cicing tiang punika,  Cicing tiange puniki, cicing caine, cicingne I Celempung, cicingne, cicinge totonan, Cicinge totonan, cicinge, Cicingne, cicing tiange, Cicing caine, cicing tiannge, kuluk tiange"
+36,Tokoh-6,Luh
+36,Tokoh-7,bli
+36,Tokoh-8,"krama, krama banjara, kramane, para krama banjara, krama banjare, krama banjar"
+37,Tokoh-1,"I Cicing Gudig, Cicing Gudig, Cicing gudig"
+37,Tokoh-2,dagang nasine
+37,Tokoh-3,"Batari Durga, Ida Betari Durga, paduka Betari"
+37,Tokoh-4,"Ida Sang Prabu, Sang Prabu, Ratu Sang Prabu"
+37,Tokoh-5,"I Patih, Patih, Pepatih"
+37,Tokoh-6,"Raden Mantri, Ida Raden Mantri"
+37,Tokoh-7,"maadar, anake ento"
+37,Tokoh-8,"tokoh Anak Agung, Agung"
+37,Tokoh-9,okan Anak Agung
+37,Tokoh-10,jerone
+38,Tokoh-1,"cicing, I Cicing, cicinge"
+38,Tokoh-2,"kambing, I Kambing, kambinge"
+38,Tokoh-3,"burone, burone cenik"
+39,Tokoh-1,"I Cita, Cita"
+39,Tokoh-2,"I Macan, Macan"
+39,Tokoh-3,"Manusa, i manusa"
+39,Tokoh-4,I Jaran
+39,Tokoh-5,"I Sampi, Sampi"
+39,Tokoh-6,I Kedis Crukcuk
+39,Tokoh-87,I Kancil
+40,Tokoh-1,I Clalongan
+40,Tokoh-2,"kedis perit, kedise"
+40,Tokoh-3,petikan
+40,Tokoh-4,glatik
+40,Tokoh-5,sangsiah
+40,Tokoh-6,Kakul
+40,Tokoh-7,yuyu
+40,Tokoh-8,udang
+40,Tokoh-9,katake
+40,Tokoh-10,capung
+40,Tokoh-11,"semut anyud, I semut, I Semut"
+40,Tokoh-12,I Matul
+41,Tokoh-1,"I Congeh, Congeh"
+41,Tokoh-2,"kurenan I Congeh, kurenanne"
+41,Tokoh-3,pianak ipune
+41,Tokoh-4,somah ipune
+41,Tokoh-5,"Ulame sane ageng punika, ulame punika, Ulame punika, ulam mewarna selem"
+42,Tokoh-1,"Ni Luh Arum, Ni Luh Arume, Luh Arume, Luh Arum, Luh, Luh arum"
+42,Tokoh-2,"bapan Luh Arum, bapa, bapane, bapanne, Bapan Luh Arum, Bapan Luh Arume, pa, Bapa"
+42,Tokoh-3,"I Donglen, Gede Donglen"
+42,Tokoh-4,"beline, Beli, beli"
+42,Tokoh-5,"I juru pikat, I Juru pikat"
+42,Tokoh-6,"kedis curik lue muani, I Curik ane muani, curike ane luane, curike ane muani, jrone kedis curik, jrone, kedise, I kedis curik"
+43,Tokoh-1,"I Rajapala, Irajapala"
+43,Tokoh-2,ken Sulasih
+43,Tokoh-3,"I Durma, I durma, Cening Durma, cening Durma, cening"
+43,Tokoh-4,"memene, meme"
+43,Tokoh-5,"pianakne, pianak bapa"
+43,Tokoh-6,"bapa, Bapane, bapane"
+43,Tokoh-7,"Jero Dukuh, jero Dukuh"
+43,Tokoh-8,anake agung
+43,Tokoh-9,Para punggawa
+43,Tokoh-10,tandamantri
+44,Tokoh-1,"i empas luh muani, I Empas ajaka dadua luh muani, empas ajak dadua, I Empas ajaka dadua, I Empas makadadua, empase ajak dadua"
+44,Tokoh-2,"Beli, Beli Empas, Beline"
+44,Tokoh-3,"empase ane lua, empas lua, Empas Lua, i empas lua, I Empas lua, Luh, empase luh"
+44,Tokoh-4,"empase muani, I Empas muani, i empas muani"
+44,Tokoh-5,"i angsa luh muani, angsa mabulu putih luh muani, angsa ajak dadua"
+44,Tokoh-6,"angsa muani, I Angsa muani"
+44,Tokoh-7,"Embok Angsa, Embok"
+44,Tokoh-8,I Angsa Lua
+44,Tokoh-9,I Dakep
+44,Tokoh-10,"Ni Dangal, Dangal"
+44,Tokoh-11,"empas, Empas, I Empas, empase"
+44,Tokoh-12,"i angsa, angsa, Angsa"
+44,Tokoh-13,"kuluk medem ajaka dadua, kuluk luh muani, kuluke muani"
+44,Tokoh-14,"Bapane, Pa"
+44,Tokoh-15,I Kuluk
+45,Tokoh-1,I Durbudi
+45,Tokoh-2,Ni Kacapa
+45,Tokoh-3,Ni Cenkrenggi
+45,Tokoh-4,I Cengkrengga
+45,Tokoh-5,"I angsa, I angse, angsane punika, Beli Angsa, angsa, I Angsa"
+45,Tokoh-6,"I empas, i empas, empas"
+45,Tokoh-7,"Ratu, I Ratune, I Ratu"
+45,Tokoh-8,I Angsang
+45,Tokoh-9,Ni Angsing
+45,Tokoh-10,I Asu
+45,Tokoh-11,"empas kekalih lua muani, I empas makakalih"
+45,Tokoh-12,"angsa akeh ipun kekalih luh muani, I angsa lua muani, I angsa lua muani makakalih"
+45,Tokoh-13,asu kakalih lua muani
+46,Tokoh-1,"I Wayan Tigaron, I Tigaron"
+46,Tokoh-2,"I Gede Basur, I Basur"
+46,Tokoh-3,"I Nyoman Karang, I Nyoman Karange, Nyoman Karang, Nyoman"
+46,Tokoh-4,"Ni Sukesti, I Sukasti, Ni Sukasti"
+46,Tokoh-5,I Rijasa
+46,Tokoh-6,Ni Rempag
+46,Tokoh-7,Ni Subandar
+46,Tokoh-8,Ni Garu
+46,Tokoh-9,"I Made Tanu, I Tanu"
+46,Tokoh-10,"I Wayan Tirta, I Tirta, Wayan Tirta, beli Wayan Tirta"
+46,Tokoh-11,I Pondal
+46,Tokoh-12,"Beli Gede, Beli, beli"
+46,Tokoh-13,bapa Made
+46,Tokoh-14,"Cening, cening"
+47,Tokoh-1,"jaran, I Jaran, Jaran"
+47,Tokoh-2,"pianakne dadua lua muani, panak Nyaine buka dadua"
+47,Tokoh-3,"pianakne, panakne, panak jarane, panak Jarane, panak I Jarane, pianake, panak Nyaine, pianak kaine, panak wakene"
+47,Tokoh-4,inan jarane
+47,Tokoh-5,"I Macam, I Macan, Macan"
+48,Tokoh-1,"Kasiapa Kepuh, Kasiape Kepuh, I Kasiape Kepuh, punyan Kasiape Kepuh"
+48,Tokoh-2,"kedis Goak luh muani, goak, Goak, I Goak, I Paksi Gagak, Goaknyane"
+48,Tokoh-3,"I Lelipi, lelipi"
+48,Tokoh-4,"Ida Sang Prabu Mangsalia, Sang Prabu Mangsalia, Dewa Sang Prabu, I Dewa, sang prabu"
+48,Tokoh-5,"Ida Pedanda, Ratu Peranda"
+48,Tokoh-6,"I naga Taksaka, I Naga taksaka, I Naga Taksaka, Naga"
+48,Tokoh-7,"pepatih idane, panjak idewane, panjak-panjak idane, Panjake sami, panjak-panjak idane, panjak-panjak"
+48,Tokoh-8,"I Rare Angon, I Rare angon"
+49,Tokoh-1,"I Kecut, I kecut, Kecut"
+49,Tokoh-2,"Dadong Getget, dadong, Dadong, I Dadong, I Dadong Getget"
+49,Tokoh-3,timpalne
+49,Tokoh-4,"I meme, meme, memene, memen icange"
+49,Tokoh-5,"bapa, bapanne"
+49,Tokoh-6,I reraman ipun
+49,Tokoh-7,Batara Sri
+50,Tokoh-1,"kedis gelatik, i kedis gelatik"
+50,Tokoh-2,meme bape i kedis gelatik
+50,Tokoh-3,"Bapa Gelatik, i Bapa Gelatik, Bapa, bape"
+50,Tokoh-4,"panak panak ne, panakne, panak panakne ento, panak-pamak gelatik, panak-panak cange"
+50,Tokoh-5,"i singa, I singa, singa"
+50,Tokoh-6,"raksasa gede tur jele, raksasane ento"
+50,Tokoh-7,cening
+51,Tokoh-1,"I Keker, Keker, I keker"
+51,Tokoh-2,"I Lutung, Lutung, I Liutung"
+52,Tokoh-1,"sang prabu, Ida sang prabu, Ida Sang Prabu, Ratu Sang Prabu"
+52,Tokoh-2,"I Blanguyang, asu Blanguyang, I Blangyang"
+52,Tokoh-3,"burone, buron"
+52,Tokoh-4,"I Samong, I Samonge"
+52,Tokoh-5,"Kelesih, I Kelesih"
+52,Tokoh-6,"asune ento, Asune ento, asune"
+53,Tokoh-1,"punyan kepuh gede tur tegeh, I Kepuh, Kepuh"
+53,Tokoh-2,"kedis goak, I Goak, Goak, I Goal"
+53,Tokoh-3,"i pangangon, I pangangon, pangangon"
+53,Tokoh-4,"I Lelipi Raja, I Lelipi"
+53,Tokoh-5,"Krama desa Mandara Giri, krama desane, para krama desane"
+53,Tokoh-6,"Dane Bendesa Mandara Giri, Bendesa Mandara Giri"
+53,Tokoh-7,Para pacalang
+54,Tokoh-1,I Kerug
+54,Tokoh-2,kelihan desa
+54,Tokoh-3,"anak muani pisagane I Kerug, pisagane, Pisagane I Kerug, pisagane I Kerug"
+55,Tokoh-1,"beburonan, beburon ane lenan, beburon, beburon ane liwat, liu burone, buron, Makejang burone, burone, para wadua burone, sarwa burone"
+55,Tokoh-2,"I Macang Poleng, I Macan"
+55,Tokoh-3,"panak celeng, kucit, kucit liu, kucit ane paling mokoha, kucit ane lenan, Kucite, I Kucit"
+55,Tokoh-4,"I Bojog, bojog, Bojog, bojog cekah, I Bojog Ireng"
+55,Tokoh-5,"I Kidang, Kidang"
+55,Tokoh-6,I Kebo
+55,Tokoh-7,I Rase
+55,Tokoh-8,"Angsa ajak dadua, I Angsa"
+55,Tokoh-9,"macan lenan, macan ane lenan, Macane ento, macanne ento"
+56,Tokoh-1,I Lacur
+56,Tokoh-2,"timpal-timpalne, timpal I Lacure"
+56,Tokoh-3,I Klaleng
+56,Tokoh-4,"Ki Dukuh Sakti, I Kaki Dukuh, Ki Dukuh, Jero Dukuh"
+56,Tokoh-5,"Ida Raden Galuh Daha, Ida Raden Galuh"
+57,Tokoh-1,"I Langgana, langgana, Langgana, I Langganane"
+57,Tokoh-2,Pan Cening
+57,Tokoh-3,"Ida Dukuh, I Kaki Dukuh"
+57,Tokoh-4,"Cening Sang Langgana, Cening, cening"
+58,Tokoh-1,I Lara
+59,Tokoh-1,"Ida Betara Indra, Betara Indra, Betara indra"
+59,Tokoh-2,"beburone, buron, baburone, para burone"
+59,Tokoh-3,I Gajah
+59,Tokoh-4,I Macan
+59,Tokoh-5,I kebo
+59,Tokoh-6,"I Lelipi, Lipi, I lelipi"
+59,Tokoh-7,lipan
+59,Tokoh-8,celedu
+59,Tokoh-10,"I Lasan, I lelasan, I lasan, i lasan, lelasane"
+59,Tokoh-11,"jeleme, jelema, jelemane, jelema ento, jelemane ento"
+59,Tokoh-12,"buron ajak mekejang, makejang burone, burone ane gede-gede makejang, burone gede ento"
+60,Tokoh-1,"I Sangmong, Ida Sang Prabu, Sang Prabu I Sangmong, Sang Ratu Prabu"
+60,Tokoh-2,"I Lutung, Jero Lutung"
+60,Tokoh-3,"I Tumisi, Tumisi"
+60,Tokoh-4,"I Capung Bangkok, Capung Bangkok"
+60,Tokoh-5,"I Blatuk, Kedis Blatuk"
+60,Tokoh-6,"I Kunang-kunang, Kunang-kunang"
+60,Tokoh-7,"I Beduda, Beduda"
+60,Tokoh-8,"I Sampi, Sampi"
+60,Tokoh-9,"I Lelasan, Lelasan"
+60,Tokoh-10,"I Lelipi, Lelipi"
+61,Tokoh-1,"I Karitaka, Sang Karitaka"
+61,Tokoh-2,"I Lelipi Gadang, Lelipi Gadang, lelipi gadang gede, I Lelipi"
+61,Tokoh-3,"katak, katake, I Katak"
+61,Tokoh-4,"Lelipine ento, lelipi, lelipine ento"
+61,Tokoh-5,katake makejang
+61,Tokoh-6,Katake ane cenik-cenik
+61,Tokoh-7,"retunne, ratunne, ratun katak, ratun katake, Ratun Katake, I Ratun Katak"
+61,Tokoh-8,"ane ngelahang carike, anake ane ngelahang carike"
+62,Tokoh-1,"Sang Winata, Sang Winatane, sang Winata"
+62,Tokoh-2,"Sang Kadru, Sang Kadrune"
+62,Tokoh-3,"Sang Garuda, Garuda, Dewa Sang Garuda"
+62,Tokoh-4,Sang Hyang Brahma
+62,Tokoh-5,Sang Hyang Siwa
+62,Tokoh-6,"Ida Batara Wisnu, Batara Wisnu, Ida batara Wisnu, Batara"
+62,Tokoh-7,"meme, Meme, memene, memenne, memen Caine, memen tiange"
+63,Tokoh-1,"I Lengar, Lengar, I Lengar paing keliha, I Lengar paling keliha, Ane paling keliha"
+63,Tokoh-2,"I Mandalane, I Mandala"
+63,Tokoh-3,Ni Luh Layang
+63,Tokoh-4,I Widara
+63,Tokoh-5,"pianak I Mandalane, pianakne, pianak icange"
+63,Tokoh-6,"adin-adinne, Adi-adinne, adinne"
+64,Tokoh-1,"I Lutung, Lutung, Tung, I utung"
+64,Tokoh-2,"I Kekua, Kekua"
+65,Tokoh-1,"I Lutung, Lutung, I Lutunge"
+65,Tokoh-2,"I Kakua, I Kakuane, Kakuane, kakuane"
+65,Tokoh-3,"Pekak Dukuh, I Pekak Dukuh, I Dukuh"
+65,Tokoh-4,"Luh Kancrung, Luh, Luh Kancerung"
+65,Tokoh-5,"Pekak, pekak"
+65,Tokoh-6,"cucunne, cucunne Pekak Dukuh"
+66,Tokoh-1,I Menceng
+66,Tokoh-2,"I Polos, Polos"
+66,Tokoh-3,"Bli Menceng, bli, bline"
+67,Tokoh-1,"sampi, i sampi, I Sampi"
+67,Tokoh-2,"kambing, I Kambing, I kambing"
+67,Tokoh-3,memeri
+67,Tokoh-4,kedis
+67,Tokoh-5,"I Kedis Perit, Prit, I Perit"
+67,Tokoh-6,I Kedis Curik
+67,Tokoh-7,"I Kedis Goak, I Goak, Goak"
+67,Tokoh-8,"Baburon, baburon, beburone, baburone, Baburon lenan"
+67,Tokoh-9,baburon maawak gede tur situh ento
+67,Tokoh-10,baburon cenikan
+68,Tokoh-1,"I Sangging Lobangkara, Sangging Lobangkara"
+68,Tokoh-2,Bhatara klungkung
+68,Tokoh-3,"Ida Batara, Ratu Bhatara"
+69,Tokoh-1,"I Kancil, Kancil"
+69,Tokoh-2,"I Siput, I Siputane, Siput"
+69,Tokoh-3,timpal-timpalne
+69,Tokoh-4,siput-siput uling alase
+69,Tokoh-5,Siput ane malunan
+69,Tokoh-6,"sipute liu pesan, sipute liu, siput-sipute"
+70,Tokoh-1,"tuma, I Tuma"
+70,Tokoh-2,"ida anake agung, Ida anake agung"
+70,Tokoh-3,"I Titih, Titih, Tittih, I Titih lua muani"
+70,Tokoh-4,"jero gede, jerone"
+70,Tokoh-5,sisian jerone
+70,Tokoh-6,sisian I Tuma
+70,Tokoh-7,"parekanne, Parekanne"
+71,Tokoh-1,I Pudak
+71,Tokoh-2,"kurenane, Kurenane"
+71,Tokoh-3,Ni Tuwung Kuning
+71,Tokoh-4,dedarine
+71,Tokoh-5,Wayan
+71,Tokoh-6,dadongne
+71,Tokoh-7,"meme, Meme, memene, memen anake cerik ento, memen anake cerik"
+71,Tokoh-8,I cening
+71,Tokoh-9,"bapane, bapanne"
+71,Tokoh-10,anake cerik
+72,Tokoh-1,"I Ubuh, U-buh, Ubuh"
+72,Tokoh-2,"pekakne, Pekakne, pekak"
+72,Tokoh-3,"I Gede Urub, Gede Urub"
+72,Tokoh-4,Sang Prabu
+72,Tokoh-5,"Anake agung, anake agung ento"
+72,Tokoh-6,"I Tonya, tonyane ento, tonya"
+73,Tokoh-1,I Wingsata
+73,Tokoh-2,"I Sigara, I Segara, Sigara"
+73,Tokoh-3,"I Kaki Buyut, Ki Buyut"
+73,Tokoh-4,"anake lingsir ento, anak tua matengkuluk, jero anak lingsir, anake lingsir, Jero anak lingsir, Jerone"
+73,Tokoh-5,"Bapa, bapa"
+73,Tokoh-6,Cening
+74,Tokoh-1,"I Jayaprana, Jayaprana, I Jayaprna, I jayaprana, Jayaprane"
+74,Tokoh-2,"Ni Layonsari, Layonsari, layonsari"
+74,Tokoh-3,"Ida Anake Agung, anake agung, Ida anake Agung, Ida Anake agung, Ida anake agung"
+74,Tokoh-4,"Jero Bendesa, Jero bendesa"
+74,Tokoh-5,I Saunggaling
+74,Tokoh-6,"prabekel sami, prabekel sareng sinamian, prebekel"
+75,Tokoh-1,"gurun pagep, dane Gurun Pagep, Dane gurun pagep, dane gurun pagep"
+75,Tokoh-2,"rare ngeling, rare ne ngeling punika, rarene punika, rare punika, Rarene punika"
+75,Tokoh-3,"leyak ajak kakalih, leyak punika, Leyake punika"
+75,Tokoh-4,"ni penek, Ni Penek, ni penak, penak"
+75,Tokoh-5,"pianak ipun, pianake, pianaknyaine"
+75,Tokoh-6,brayan ipun ni penak
+76,Tokoh-1,"Prabu Suliawana, Sang Prabu Suliawana, Ida Sang Prabu, Gusti Prabu"
+76,Tokoh-2,"kedis Geruda, Geruda, I Geruda, kedis Gerudane, Kedis Geruda, Kedise ento"
+76,Tokoh-3,Juru borose
+76,Tokoh-4,"Gusti Patih, pepatih, patih idane"
+76,Tokoh-5,"I Bikul, bikul, Bikule, bikule, Kul"
+76,Tokoh-6,"juru carik, juru carik purine"
+76,Tokoh-7,kramane
+76,Tokoh-8,"panyatusan bikul, para bikule"
+76,Tokoh-9,timpal-timpalne
+76,Tokoh-10,"panjak-panjak idane, Panjak Puri Kertha Bumine, Panjak-panjak Puri Kertha Bumi, panjak-panjak Puri Kertha Bumi, panjak idane"
+77,Tokoh-1,Ni Mesaba
+77,Tokoh-2,Ni Wingsali
+77,Tokoh-3,"I Macan, macan"
+77,Tokoh-4,"I Bojog, Bojog"
+77,Tokoh-5,"memene, Meme, meme"
+77,Tokoh-6,"Beli, beli"
+78,Tokoh-1,"Gajah ageng, I Gajah"
+78,Tokoh-2,"I Siung, Siung"
+78,Tokoh-3,"I Paksi Siung luh, Siunge luh, luhnyane"
+78,Tokoh-4,"beline, beli, Beli"
+78,Tokoh-5,meme
+78,Tokoh-6,Belibis Buyang kalih
+78,Tokoh-7,"paksi Gowak Gadagan, I Gowak"
+78,Tokoh-8,paksi Belatuk
+79,Tokoh-1,"I Kidang, I Kidange, kidang, Kidang"
+79,Tokoh-2,"I Cekcek, cekcek, Cekcek"
+79,Tokoh-3,"timpale, timpalne makejang, timpalne, timpal-timpalne"
+79,Tokoh-4,beli
+80,Tokoh-1,"I Singa, prabu Singa, I singane, I Sing, Singa"
+80,Tokoh-2,"I lutung, I Lutung"
+80,Tokoh-3,"I Blatuk, Blatuk"
+80,Tokoh-4,I kekawa
+80,Tokoh-5,"I tumisi, Tumisi, I Tumisi"
+80,Tokoh-6,"i kunang-kunang, I kunang-kunang, I Kunang-kunang"
+80,Tokoh-7,"I Beduda, beduda"
+80,Tokoh-8,"I Lembune, I Lembu, lembu, Lembu"
+80,Tokoh-9,"I Lelasan, Lelasan"
+80,Tokoh-10,"jero pecalang, jerone, jero pecalang"
+81,Tokoh-1,"I Lutung, Lutung"
+81,Tokoh-2,"I Beduda, Beduda, beduda"
+82,Tokoh-1,"I Lutung, Lutung"
+82,Tokoh-2,"I Kekua, Kekua"
+82,Tokoh-3,"dane Dukuh Kantrungan, Jero Dukuh, dukuh Kantrungan, jero, Dukuh Kantrungan, dane dukih, dane jero Dukuh, Jero Dukuh Kantrungan, dane Jero Dukuh Kantrungan"
+82,Tokoh-4,"Luh Ayu Kantrungan, Luh Ayu, Ni Ayu Kantrungan"
+83,Tokoh-1,"I Lutung, Sang Lutung"
+83,Tokoh-2,"I Kekua, Kekua, I kekua"
+83,Tokoh-3,I Kaki Perodong
+84,Tokoh-1,I Lutung
+84,Tokoh-2,"I kambing, kambing, I Kambing"
+85,Tokoh-1,"I Lutung, Lutung, Tung"
+85,Tokoh-2,"I Kancil, Kancil, Cil"
+86,Tokoh-1,"macan, I Macan, Macan"
+86,Tokoh-2,"meng, I Meng, Meng, adi Meng"
+86,Tokoh-3,"belie, i beli, bli"
+86,Tokoh-4,"burone lenan, Burone ane lenlenan, burone, buron"
+87,Tokoh-1,"Maya Danawa, Sang Maya Danawa, Sang Prabu Maya Danawa, I Maya Danawa, I Maya danawa"
+87,Tokoh-2,para ratu
+87,Tokoh-3,"Sang Kul Putih, Sang Kul Putihe"
+87,Tokoh-4,"Ida Bhatara Indra, Ida Batara Indra, Ida Bhatara Indrane"
+87,Tokoh-5,"Kala Wong, I Kala Wong"
+87,Tokoh-6,patihnyane
+87,Tokoh-7,"para panjake,Panjake, panjake, panjaknyane, para panjak suargane, panjak Ida Bhatara Indrane"
+87,Tokoh-8,"Cening, Ceninge"
+87,Tokoh-9,para janane
+88,Tokoh-1,"Pan Brayut, De Brayut"
+88,Tokoh-2,Men Brayut
+88,Tokoh-3,"Pangerain Jempong, Pangeran Jembong"
+88,Tokoh-4,"pianakne, pianake, pianak, pianakne Pan Brayut, pianak-pianakne, pianak-pianak Pan Brayut"
+88,Tokoh-5,"bapanne, Bapanne, i bapa"
+88,Tokoh-6,"Memene, i meme"
+88,Tokoh-7,"Jero Wayan, Jerone"
+88,Tokoh-8,"mantune, mantu, Mantunne luh muani, matunne, mantunne"
+89,Tokoh-1,Men Sugih
+89,Tokoh-2,"Men Tiwas, Tiwas"
+89,Tokoh-3,"Sang Kidang, kidang"
+90,Tokoh-1,"Nang Cubling, Nang Cublinge"
+90,Tokoh-2,"bojog, I Bojog, bojoge, Bojoge"
+90,Tokoh-3,"kurenanne, Kurenan icange"
+90,Tokoh-4,Men Cubling
+90,Tokoh-5,bojog gede
+90,Tokoh-6,bojog cenik
+90,Tokoh-7,"bojog ajaka liu, Makejang bojoge, bojoge makejang, Bojog makejang"
+91,Tokoh-1,Ni Bawang
+91,Tokoh-2,Ni Kesuna
+91,Tokoh-3,"meme, memene, memenne"
+91,Tokoh-4,"kedis crukcuk kuning, Kedis Crukcuk Kuninge, I Kedis Crukcuk Kuning, I Crukcuk Kuning"
+91,Tokoh-5,embokne
+92,Tokoh-1,"Ni Daha Tua, Daha Tua"
+92,Tokoh-2,Pan Bergah
+92,Tokoh-3,"anak istri sampun lingsir, anake lingsir punika"
+92,Tokoh-4,"anake jada punika, anake jada"
+92,Tokoh-5,"sudagare, Sudagare, sudagar, I Sudagar"
+92,Tokoh-6,"Pepatih Agung, patih, I Patih Agung"
+92,Tokoh-7,Pepatih Ida Sang Anyakrawerti
+92,Tokoh-8,Ida Sang Maha Patih
+92,Tokoh-9,"anake agung, Agung, Ida Anake Agung, Anak Agung"
+92,Tokoh-10,"anake odah, Anake odah punika"
+92,Tokoh-11,"Ratu, ratu, para ratu, para ratune"
+92,Tokoh-12,Ida Sang Prabhu
+93,Tokoh-1,"sang nata Prabu Aiswaryadala, ida Sang Prabu Aiswaryadala, sang prabu Aiswaryadala, Aiswaryadala"
+93,Tokoh-2,"sang prabu, ida sang prabu, Sang prabu, prabu"
+93,Tokoh-3,"Ki Patih Bandeswarya, KI patih Bandeswarya, KI Bandeswarya"
+93,Tokoh-4,para punggawa
+93,Tokoh-5,para tanda mantri
+93,Tokoh-6,Ni Diah Tantri
+93,Tokoh-7,para wikune
+93,Tokoh-8,I Gusti Ayu Biang
+93,Tokoh-9,biange
+93,Tokoh-10,"ajine, Ajindane"
+93,Tokoh-11,"panyeroane, i panyeroan, I panyeroan, panyeroan asiki"
+93,Tokoh-12,"Bagawan Daksa, Ida Bagawan Daksa"
+93,Tokoh-13,Dewi Nilawati
+93,Tokoh-14,ida sang prabu Aji Darma
+93,Tokoh-15,"Maharaja Manu, Ida Sang Prabu Manu"
+93,Tokoh-16,Maharaja Ikswaku
+93,Tokoh-17,para istrine
+93,Tokoh-18,parekan
+94,Tokoh-1,"Ida Sang Prabu Daha, Ida Sang Prabu, Sang Prabu, Ratu Sang Prabu"
+94,Tokoh-2,"Ida Raden Galuh Daha, Ida Raden Galuh, Raden Galuh, Ida Raden Gal uh, I Galuh Daha, Cening Nanak Galuh"
+94,Tokoh-3,biangida
+94,Tokoh-4,"Mantri koripan, Raden Mantri, Ida Raden Mantri, I Mantri Koripan, mantri Koripan"
+94,Tokoh-5,"Men Bekung, Men Bekunge"
+94,Tokoh-6,I Punta Jrudeh
+94,Tokoh-7,"Prameswari, kalih prameswari"
+94,Tokoh-8,putrane
+94,Tokoh-9,"baliane, balian"
+94,Tokoh-10,"Ni Dukun Sakti, Jero Dukun, Jerone"
+94,Tokoh-11,"bapa, Bapa"
+94,Tokoh-12,I Aji
+94,Tokoh-13,prabunidane
+94,Tokoh-14,parekanidane
+94,Tokoh-15,"anake tua ento, anak tua"
+94,Tokoh-16,"anake luh ento, anake luh"
+95,Tokoh-1,"para dewatane, para dewata"
+95,Tokoh-2,"Detia, detia"
+95,Tokoh-3,danawane
+95,Tokoh-4,"Sangiang Narayana, Sang"
+95,Tokoh-5,Sang Ananta Boga
+95,Tokoh-6,Sang Akupa
+95,Tokoh-7,Sanghiang Indra
+95,Tokoh-8,Sanghiang Basuki
+96,Tokoh-1,"Pan Angklung Gadang, Bapa Angklung Gadang, Pan Angklung Gadange, Angklung Gadang, I Angklung Gadang"
+96,Tokoh-2,"Ida Anake Agung, Ida, Ratu Dewa Agung, Idane"
+96,Tokoh-3,"kurenannya, kurenanne, Kurenanne"
+96,Tokoh-4,"krama banjare, kramane, Krama banjare, krama banjar, Krama banjar"
+96,Tokoh-5,"Jro Kelian, Jero Kelian, Jero Klian, Jero Kalian, jero, jerone"
+96,Tokoh-6,I Sendi
+96,Tokoh-7,I Tampul
+96,Tokoh-8,I Lambang
+96,Tokoh-9,"kulukne, Kuluk, kuluk, kuluke"
+96,Tokoh-10,"cicingne, cicing, Cicingne"
+96,Tokoh-11,"I Wayan Sebetan, Jero Wayan"
+96,Tokoh-12,"bapane, bapa, Bapa, Bapane"
+96,Tokoh-13,dagang nasine
+96,Tokoh-14,Memenne
+96,Tokoh-15,I Giur
+97,Tokoh-1,"Pan Balang Tamak, Pan Balang Tamake"
+97,Tokoh-2,"krama desane, kramane, Krama desane"
+97,Tokoh-3,klihan desane
+97,Tokoh-4,"panyarikan desane, jero panyarikan, jerone, jero desa, jero, penyarikanne, Jerone"
+97,Tokoh-5,"anak makita masakit basang, anake ne masakit basang"
+97,Tokoh-6,timpalne
+97,Tokoh-7,kurenan Pan Balang Tamake
+97,Tokoh-8,anake agung
+97,Tokoh-9,"kurenanne, kurenan"
+97,Tokoh-10,Men Balang Tamak
+97,Tokoh-11,jero mangku
+98,Tokoh-1,"Pan Jempenit, pan jempenit, Pan jempenit"
+98,Tokoh-2,"Men Jempenit, Men jempenit"
+98,Tokoh-3,"anak ngaba lelipi, anake ngaba lelipi, anak makta lelipi matali"
+98,Tokoh-4,jero
+98,Tokoh-5,"naga ngredep janggarne, nagane"
+98,Tokoh-6,cucun kaine
+98,Tokoh-7,"lelipine, lelipi"
+98,Tokoh-8,kurenane
+98,Tokoh-9,bapane
+98,Tokoh-10,memene
+98,Tokoh-11,dagange
+98,Tokoh-12,"pandene, pande"
+98,Tokoh-13,"i bikul, bikul"
+98,Tokoh-14,"i meong, I meong, meong, i meonge"
+98,Tokoh-15,"i cicing, cicing, I cicing"
+98,Tokoh-16,"timpalne, timpal-timpalne"
+98,Tokoh-17,"kedis muwun, i kedis muwun, i kedis muun"
+98,Tokoh-18,"i dadeleg, i deleg, deleg"
+98,Tokoh-19,putun idewane
+98,Tokoh-20,ane muani
+99,Tokoh-1,"Pan Poleng, pan Poleng, Pan Polenge totonan"
+99,Tokoh-2,"Men Poleng, men Poleng"
+99,Tokoh-3,"kurenanne, kurenane"
+99,Tokoh-4,"anak ngba cicing berag, anake ngabe cicinge totonan"
+99,Tokoh-5,anak ngbe meyong
+99,Tokoh-6,"anak ngabe bikul, anake ngbe bikule ento"
+99,Tokoh-7,anak lakar ngematiang lipi
+99,Tokoh-8,"anake totonan, anake ento, anake"
+99,Tokoh-9,"Lipine, lelipine, lipine entto, Lipine totonan, lipi, lipine to"
+99,Tokoh-10,"kaki, kakine, Kaki"
+99,Tokoh-11,"pandene, Pandene, pandene ento"
+99,Tokoh-12,"cicinge, cicicnge, I cicing, cicing, I cicinge, cicing berag gatine; cicing berag; cicinge ento; cicinge, cicinge to"
+99,Tokoh-13,"meyonge, I meyong, meyong, i meyong, meyong, meyonge ento, meyong tiange, meyonge ento"
+99,Tokoh-14,"bikule, bikul, I bikul, bikule totonan, bikul, bikule ento"
+99,Tokoh-15,"timpal-timpalne, timpalne"
+99,Tokoh-16,"gadagan sarapa, I gadagan, gadagane, gadaganne"
+100,Tokoh-1,Pan Tuung Kuning
+100,Tokoh-2,Men Tuung Kuning
+100,Tokoh-3,"bikul, I Bikul, Bikule ento, bikule ento"
+100,Tokoh-4,"Mantri Koripan,  Ida Mantri Koripan"
+100,Tokoh-5,"Raden Galuh, Cening Galuh, cening"
+100,Tokoh-6,"rabi Mantri Koripan, rabin idane"
+100,Tokoh-7,"i biang, biang ceninge, biange, biangne, biang"
+100,Tokoh-8,"Aji, aji, ajin idane"
+100,Tokoh-9,"okan idane, okane"
+101,Tokoh-1,Pan Mangut
+101,Tokoh-2,Jro Kelihan Desa
+101,Tokoh-3,"Liu anake, liu anake, anak makita matakon"
+101,Tokoh-4,krama desane
+102,Tokoh-1,"I Kedis cangak, I Kedis Cangak, Sang Cangak, sang cangak, Sang cangak, sang cangake"
+102,Tokoh-2,"padanda baka, Sang Pedanda Baka, pedanda baka"
+102,Tokoh-3,"ulame, ulam, akeh ulame, para ulame, makasami ulame, Makasami ulame, ulame sami, Para ulame"
+102,Tokoh-4,para mendega
+102,Tokoh-5,"i yuyu, sang yuyu, I yuyu"
+102,Tokoh-6,bapa
+103,Tokoh-1,Prabu Pajajaran
+103,Tokoh-2,"Raden Jajarpikatan, Ida Raden Jajarpikatan"
+103,Tokoh-3,tukang tenung
+103,Tokoh-4,"Widiadari Nilotama, Widiadari"
+103,Tokoh-5,Raden Bang Paguyangan
+103,Tokoh-6,okan beline
+103,Tokoh-7,"rabine, rabinida"
+103,Tokoh-8,"jerone, Jerone"
+103,Tokoh-9,"Beli, beli"
+104,Tokoh-1,Sang Prabu Manu Tuturan Surya Wangsa
+104,Tokoh-2,Sang Prabhu Dasaratha
+104,Tokoh-3,"para baudanda, baudandan Ida"
+104,Tokoh-4,"para wikune, para wiku, wikune"
+104,Tokoh-5,"Ida Sang Prabhu, Sang Prabhu"
+104,Tokoh-6,para panjake
+104,Tokoh-7,Panangkilane
+104,Tokoh-8,lanang-lanang
+104,Tokoh-9,istri-istri
+104,Tokoh-10,Para bala wargin Ida
+104,Tokoh-11,para agung
+104,Tokoh-12,"Ida Rsi Srengga, Ida Rsi"
+104,Tokoh-13,Ida Bhatara Brahma
+104,Tokoh-14,Sang Rama
+104,Tokoh-15,Sang Bharata
+104,Tokoh-16,Sang Laksmana
+104,Tokoh-17,Ida Sang Satrugna
+104,Tokoh-18,pramisuarin Ida Sang Prabhu
+104,Tokoh-19,"rabin Ida Sang Prabhu, para rabin Idane"
+105,Tokoh-1,"Ida Sang Prabhu, Ida Sang Prabhune, Ida sang Prabhu, Prabhune"
+105,Tokoh-2,"Ida Raden Galuh Daha, I Nanak Galuh, Raden Galuh, Ida Raden Galuh, Raden Galuhe, Raden Galuh, Galuh Daha, raden galuh, I Raden Galuhe, I Radem Galuh, i raden galuh, ratu Raden Galuh, galuh Daha, I Galuh Daha"
+105,Tokoh-3,"ajine, Ratu aji"
+105,Tokoh-4,"anake agung, Ratu Dewa Agung"
+105,Tokoh-5,"panyrowane, panyrowan"
+105,Tokoh-6,I Nginte
+105,Tokoh-7,"I Ngemban, Ngemban"
+105,Tokoh-8,"I Sampi Wadak, I Sampi, Jro Sampi, I Sampine, Sang Sampi, Sampi, I sampi, I sampi wadak, sampi wadak, I Sampi Wadake"
+105,Tokoh-9,"Jro Istri, Jrone"
+105,Tokoh-10,"okan Sang Prabhu Daha, okane"
+105,Tokoh-11,"Me Lutung, I Lutung, Lutung, Men Lutunge, I Lutunge, meme Lutung, me Lutung"
+105,Tokoh-12,"Ratu Dewa Ayu, I Dewa Ayu, Ratu dewa ayu, dewa ayu, ratu dewa ayu"
+105,Tokoh-13,bapa
+105,Tokoh-14,"I Mantri Koripan, I Mantrin Koripan, ida mantrin Koripan, Ida Raden Mantri, ida Raden Mantri, Raden Mantri, I Raden Mantri"
+105,Tokoh-15,"Kedis-kedise, Kedise, kedis, kedise"
+105,Tokoh-16,"I Rangsasam I rangsasa, I Rangsasane"
+105,Tokoh-17,"meme, memene"
+105,Tokoh-18,"I Patih, Kaka patih, kaka patih"
+105,Tokoh-19,parekane
+105,Tokoh-20,"Prameswari, Ida Prameswari"
+106,Tokoh-1,"Ingtai Nyonyah, Nyonyah Ingtai, Nyonyah Ingati, Ni Ingtai, I Nyonyah Ingtai, Ni Nyonyah, Ni Nyonyah Ingtai"
+106,Tokoh-2,biang
+106,Tokoh-3,ajine
+106,Tokoh-4,I Babah Sampik
+106,Tokoh-5,I Congliwat
+106,Tokoh-6,"I Bandar Macun, I Macun"
+107,Tokoh-1,"Sang Prabhu Aji Dharma, Sang Prabhu Aji Dharma Wirosa, Sang Prabu Aji Dharma, Sang Aji Dharma"
+107,Tokoh-2,"Ida Sang Prabhu, sang Prabhu, Sang Prabhu, Sang Prabu, Ida Sang Prabu, Dewa Sang Prabhu, I Dewa"
+107,Tokoh-3,"Tandamantri, tanda mantrinida, tanda mantrine"
+107,Tokoh-4,Baudanda
+107,Tokoh-5,"panjakidane, panjake"
+107,Tokoh-6,"para istrine, sang isteri"
+107,Tokoh-7,para buronne
+107,Tokoh-8,parekane
+107,Tokoh-9,"Ida Ula Deles, Ula Deles"
+107,Tokoh-10,"Naga Gini, Sang Naga Gini"
+107,Tokoh-11,Sang Ananta Boga
+107,Tokoh-12,"prameswari, prameswarine"
+107,Tokoh-13,"i cekcek luh, cekceke, cekcek, cekcek luh"
+107,Tokoh-14,muanine
+107,Tokoh-15,"rabinne, rabi"
+107,Tokoh-16,"Bli Aji Dharma, Beli, beli, Bli"
+107,Tokoh-17,kambing
+107,Tokoh-18,I Kambing muani
+107,Tokoh-19,kurenane
+107,Tokoh-20,"Luh, I Kambing Luh"
+107,Tokoh-21,Ida Pedanda Siwa Budha
+107,Tokoh-22,adi
+107,Tokoh-23,putran Sang Ananta Boga
+108,Tokoh-1,"para krama ring Majeti, ikrama"
+108,Tokoh-2,"Sang Aji Saka, Aji Saka"
+108,Tokoh-3,"I Sambada, Bapa Sambada, I sambada"
+108,Tokoh-4,"I Dora, Bapa Dora, Dora"
+108,Tokoh-5,"panjake, ipanjak, I panjak, panjak Medang Kemulan"
+108,Tokoh-6,"parekane, parekanne, Makakalih parekane, parekan makakalih, makakalih parekane, parekane makaklih"
+108,Tokoh-7,Bapa
+108,Tokoh-8,"pandita, Sang Pandita, Ida Sang pandita Bekung, sang Pandita, Ida bekung"
+108,Tokoh-9,Sang Nata Ratu
+108,Tokoh-10,"Dewata Nawa Cengkar, Dewata Cengkar, Dewata cengkar, Dewate Cengkar"
+108,Tokoh-11,Ratu Sang Prabu
+108,Tokoh-12,kaula-kaulane
+108,Tokoh-13,"kalih pandita, Makakalih Sang Pandita"
+109,Tokoh-1,"Dewi Kunti, Ida Dewi Kunti"
+109,Tokoh-2,biang
+109,Tokoh-3,Sang Darma Wangsa
+109,Tokoh-4,"Sang Bima, Cening Sang Bima, Ida Sang Bima"
+109,Tokoh-5,Sang Arjuna
+109,Tokoh-6,Sang Nakula
+109,Tokoh-7,Sang Sahadewa
+109,Tokoh-8,Sang Panca Padawa
+109,Tokoh-9,Ida Sang Brahmana
+109,Tokoh-10,"I Detyabaka, I Detya Baka"
+109,Tokoh-11,Ida Brahmana lanang
+109,Tokoh-12,"I Raksasa Baka, Raksasa Baka, I Raksasabaka, I Raksasa, Raksasa"
+109,Tokoh-13,panjake di Ekacakra
+109,Tokoh-14,Ida Brahmana Istri
+109,Tokoh-15,okanne ane maraga isteri
+109,Tokoh-16,Ibu
+109,Tokoh-17,"I Aji, Aji, aji"
+109,Tokoh-18,adin titiange
+109,Tokoh-19,putrane sane lanang
+109,Tokoh-20,"Ratu Pedanda, Pedanda, Ratu"
+109,Tokoh-21,"Sang Pandita, Ida Sang Pandita"
+109,Tokoh-22,pianak titiange
+109,Tokoh-23,"Krama desane, para krama Desa Ekacakra, karma Desa Ekacakrane"
+110,Tokoh-1,"kedise cerik-cerik, Kedise ane cerik-cerik, kedis cenik, kedise lenan"
+110,Tokoh-2,Sang Muun
+110,Tokoh-3,Sang Lanjana
+110,Tokoh-4,jerone
+110,Tokoh-5,"kedis gede pesan, kedise ane gede tur galak ento, kedis gede"
+111,Tokoh-1,"paksine, paksi, Paksine sane lianan, paksi sane lianan"
+111,Tokoh-2,"paksi Muun, i paksi Muun, Sang Muun"
+111,Tokoh-3,"paksi Lanjana, Sang Lanjana"
+112,Tokoh-1,"Sang Nandaka, Sang Nandakane, I Nandaka, Nandaka"
+112,Tokoh-2,"Sang Prabu Singa, prabu Singa, Prabu Singa, Sang Singa"
+112,Tokoh-3,"Patih Sambada, I Patih Sambada, I Sambada, Sambada"
+112,Tokoh-4,I Nohan
+112,Tokoh-5,I Tatit
+112,Tokoh-6,"sawatek asu alase, sawatek asune, asune makejang"
+112,Tokoh-7,"Ratu Pranda, I ratu, I Ratu"
+112,Tokoh-8,I Lembu
+112,Tokoh-9,Ratu Sri Mregapati
+113,Tokoh-1,"Sang Rama, Ida Sang Rama, Dewa Sang Rama"
+113,Tokoh-2,"Ida Sang Laksmana, Sang Laksmana, Ida Sang laksmana"
+113,Tokoh-3,"Ida Dewi Sita, Dewi Sita"
+113,Tokoh-4,Ida Maharesi Atri
+113,Tokoh-5,Ida Sang Ragutama
+113,Tokoh-6,"I Wirada, I raksasa, i raksasa Wirada"
+113,Tokoh-7,I Kala Mertiyu
+113,Tokoh-8,Bagawan Sarabangga
+113,Tokoh-9,"I dewa, I Dewa"
+113,Tokoh-10,"Ida Sang Yogi Sutiksna, Ida Sang Resi Yogi Sutiksna, Ida Resi Sutiksna"
+113,Tokoh-11,"Ida Sang Maharesi, Ida Sang Resi, ida sang maharesi"
+113,Tokoh-13,Ida Sang Barata
+114,Tokoh-1,"I Semut Api, Semut Api"
+114,Tokoh-2,rombonganne I Sidem
+114,Tokoh-3,I Sidem
+114,Tokoh-4,"semute-semute, Semute ento, Semute, Semut-semut, semut-semut, Makatelu semute ento"
+114,Tokoh-5,timpal-timpalne
+114,Tokoh-6,I Semangah
+114,Tokoh-7,nyaman-nyamanne
+114,Tokoh-8,"semut mewarna coklat, semut coklat ane mara teka ento"
+115,Tokoh-1,"I Pagul, Bli Pagul, Beli Pagul, Bli, Beli"
+115,Tokoh-2,"Ni Luh Lancah, Luh Lancah, Luh LAncah"
+115,Tokoh-3,I Badeng
+115,Tokoh-4,I Biing
+115,Tokoh-5,"I Grungsung, I Grungsang, I grungsang"
+115,Tokoh-6,"I Saa-sangkur, Saa-sangkur, I Siap Saa-sangkur, Siap I Saa-sangkur"
+115,Tokoh-7,I Selem
+115,Tokoh-8,"tukang emasne, Jero tukang, I tukang emas"
+115,Tokoh-9,"siapne, siape, Makejang siapne"
+116,Tokoh-1,"I Siap Selem, I Siap selem, Siap Selem"
+116,Tokoh-2,"I Doglagan, Cening Doglagan, Doglagan"
+116,Tokoh-3,"Meng Kuuk, Jero Meong, I Meng Kuuk, jero para meong"
+116,Tokoh-4,"panak-panakne, pianakne kelihan, pianakne lianan, pianak-pianakne, pianak-pianak, panakne, pianakne, pianak I Siap Seleme, pianakne ane paling keliha, pianakne lenan"
+116,Tokoh-5,"Me, me, meme, Meme"
+117,Tokoh-1,"I Ketimun Mas, Ketimun Mas"
+117,Tokoh-2,"memene, meme, i meme, memenne, Meme, Memenne, memenne I Ketimun Mas, Men Ketimun Mas"
+117,Tokoh-3,"I Raksasa, I Raksasa ento"
+117,Tokoh-4,"i pengangon bebek, i pengangon, anak ngangon bebek, pangangon ento, jero pengangon bebek"
+117,Tokoh-5,"buta, Buta, I Buta"
+117,Tokoh-6,"bongol, Bongol, I Bongol"
+117,Tokoh-7,"meong, Sang Meong, meonge, I Meong"
+117,Tokoh-8,"bikul, Sang Bikul, I Bikul"
+117,Tokoh-9,"Cening, cening"
+118,Tokoh-1,I Aget
+118,Tokoh-2,Ida Sang Prabu
+118,Tokoh-3,"kurenan I Agete, kurenane"
+118,Tokoh-4,papatih Idane
+118,Tokoh-5,"Ida Anake Agung, anake agung"
+118,Tokoh-6,"anake luh ento, anake luh, Ane luh, anake eluh ento, anake ento"
+118,Tokoh-8,anak luh bajang
+119,Tokoh-1,"pedando, Ida Pedanda"
+119,Tokoh-2,"yuyu punika, yuyune punika, Yuyune punika, I Yuyu, I Yuyune"
+119,Tokoh-3,I Lelipi
+119,Tokoh-4,"I Guak, I guak"
+120,Tokoh-1,"I Lutung, Lutung, lutung, I lutung"
+120,Tokoh-2,"I Kekua, I kekua, Kekua, kekua"
+120,Tokoh-3,"I Pekak Dukuh, I Pekak, I Pekak dukuh, I pekak dukuh, dukuh"
+120,Tokoh-4,"niluh kancrung, luh, lauh kancrung"
+120,Tokoh-5,"cucune pekak dukuh, cucune"
+120,Tokoh-6,"Beli Lutung, beli"
+120,Tokoh-7,"pekakne, Pekak, pekak"
+120,Tokoh-8,"Ida sang prabu, Ida Sang Prabu, Ida Sang Prabhu, Sang prabu, ida Sang prabu"
+120,Tokoh-9,parekane
+120,Tokoh-10,I Yuyu
+120,Tokoh-11,"I Udang, udange"
+120,Tokoh-12,"kebone, kebone gede"
+120,Tokoh-13,"adi kekua, adi"

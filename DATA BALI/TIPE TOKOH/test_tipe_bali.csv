@@ -1,0 +1,822 @@
+story_id,person,aliases,type,sentence_id,text,is_dialogue,count_lexicon,is_subject,is_object
+25,Tokoh-7,"['pianak titiange', 'panake']",Protagonist,14, Nuju kone I Mantri buin maboros kema lantas kaaksi ada anak cerik bagus ngon ida sarwi mapineh Ne nyen ngelah panake teka soleh tan pabiang tan paaji ngraga dini dadi moglong,0,0.0,1,0
+105,Tokoh-11,"['Me Lutung', 'I Lutung', 'Lutung', 'Men Lutunge', 'I Lutunge', 'meme Lutung', 'me Lutung']",Protagonist,211, Nyen ento I Lutung,0,0.0,1,1
+67,Tokoh-5,"['I Kedis Perit', 'Prit', 'I Perit']",Antagonist,25, Apa buin di sampingne ada I kambing I Kedis Perit miwah I Kedis Curik manguci,0,0.0,1,0
+51,Tokoh-2,"['I Lutung', 'Lutung', 'I Liutung']",Antagonist,39, Nak kengken budin Ibane dadi sahasa mutbut bulun kampid wakene Sing pean Iba marasa suba katulungin kanti mokoh buka jani Mara keto I Keker ngraos masaut jani I Lutung kene,0,-5.0,1,1
+46,Tokoh-8,['Ni Garu'],Protagonist,48, Pamragat satuane I Gede Basur kekalahang ban Ni Garu disubane ia maan pica uli Ida Batari Durga,0,2.0,1,0
+53,Tokoh-2,"['kedis goak', 'I Goak', 'Goak', 'I Goal']",Protagonist,18, Nah cai Goak terusang legan caine Yening icang seger icang tusing bani piwal teken legan muah tresnan caine,0,8.0,1,0
+51,Tokoh-2,"['I Lutung', 'Lutung', 'I Liutung']",Antagonist,59, Kalahina I Lutung makeber ban I Keker,0,-4.0,1,1
+95,Tokoh-7,['Sanghiang Indra'],Protagonist,12, Sanghiang Indra malinggih ring muncuknyane pinaka paneteh,0,0.0,1,0
+14,Tokoh-2,['Ni Badung'],Protagonist,7, Asapunika serahina geginan ipun Ni Badung,0,0.0,1,0
+14,Tokoh-2,['Ni Badung'],Protagonist,5, Nyabran rahina semeng Ni Badung luas ke tengahing bet ngrereh saang ngantos tajeg Ida SangHyang Surya wawu ipun rauh saking bete,0,0.0,1,0
+6,Tokoh-1,"['I Nyoman Jater', 'I Nyoman jater', 'Nyoman Jater']",Protagonist,53, Buin jemakanga nasi ban I Nyoman Jater,0,0.0,1,1
+104,Tokoh-12,"['Ida Rsi Srengga', 'Ida Rsi']",Protagonist,20, Kacerita buat wikune ane ngrajengang yadnyan Idane mapesengan Ida Rsi Srengga wiku luih pratiaksa ring saluiring yadnya,0,0.0,1,1
+27,Tokoh-1,"['I Belog', 'Belog']",Antagonist,29, Keto abet memene lantas ngajakin I Belog mulih,0,-5.0,1,1
+9,Tokoh-1,"['I Belog', 'Belog']",Antagonist,39, I Belog lantas ngomong Ih Meme nguda bengu bon Memene sinah Meme suba mati nenenan,0,-8.0,1,1
+11,Tokoh-3,"['Sang Arunika', 'Ida Sang Arunika']",Protagonist,17, Ditu kone lantasan Sang Arunika ngebahang raga di pundukane ane embid ngempelin toyane di kala wengi,0,0.0,1,0
+120,Tokoh-12,"['kebone', 'kebone gede']",Protagonist,106, Ditu kone kebone celepanga kesongne I Yuyu nanging tuara nyidayang sawireh kebone gede ditu I Yuyu masih bengkung nagih nyelepang kebone sambilanga magending seng sengan senssengan tanduk ibane ditengah linggah disisi cupit sedeng itehe ia magending sambilanga matek - matek talin kebone jek bakat enjekina kone tundun I Yuyu teken kebone,0,3.0,1,1
+24,Tokoh-4,"['I Temisi', 'Temisi']",Antagonist,24, Kacerita di Jalan tepukina I Temisi ileh-ileh ngaba umahne,0,0.0,1,1
+44,Tokoh-1,"['i empas luh muani', 'I Empas ajaka dadua luh muani', 'empas ajak dadua', 'I Empas ajaka dadua', 'I Empas makadadua', 'empase ajak dadua']",Antagonist,40, batak amonto tusing ja keweh apa ento pasautne I Empas ajaka dadua sada pongah,0,0.0,1,0
+26,Tokoh-5,"['Betara', 'Ida Betara', 'Ratu Betara', 'I Ratu']",Antagonist,11, Jani Pan Sari matur nunas pangampura Inggih naweg nunas lugra titiang Ratu Betara yening kalugra titiang nunas galah jagi ngaturang rayunan wengine benjang,0,4.0,1,1
+63,Tokoh-1,"['I Lengar', 'Lengar', 'I Lengar paing keliha', 'I Lengar paling keliha', 'Ane paling keliha']",Protagonist,18, Ban dotne ngelah kurenan muah ampahne kaliwat jeg inceg I Lengar paling keliha masaut Nggih Bapa tiang sanggup ngamatiang i lelipi tur nuduk taluhne,0,0.0,1,1
+67,Tokoh-7,"['I Kedis Goak', 'I Goak', 'Goak']",Antagonist,22, I Goak lantas makeber magedi uling tongosne I Sampi ngilag padang,0,0.0,1,1
+8,Tokoh-1,['Narajana'],Protagonist,31, Laut matujuhin Narajana ka tongose ento,0,0.0,1,0
+88,Tokoh-4,"['pianakne', 'pianake', 'pianak', 'pianakne Pan Brayut', 'pianak-pianakne', 'pianak-pianak Pan Brayut']",Protagonist,46, Disubane pragat saupakarane makejang pianak mantu pada nututin ada ngaba tikeh galeng tapih kasur pangorengan penyanyan belah payuk prungpung makejang abana ka padukuhan,0,0.0,1,0
+35,Tokoh-2,['I Buta'],Protagonist,12, Makejang anake kapiolasan kangen ningalin undikne I Buta teken I Rumpuh,0,0.0,1,0
+17,Tokoh-3,"['anak muani bajang', 'anake bajang ento', 'anake muani ento', 'Anake muani ento', 'anake ento', 'anak bajang ento', 'anake bajang ene', 'anak bajange ento', 'anak bajang', 'anake']",Protagonist,66, dewa ratu Idadane ajak makejang ento nguda kanti ada unduk buka kene Iwasin Dadong anake bajang ento kajagurin katendangin,0,2.0,1,1
+15,Tokoh-1,['Men Bekung'],Protagonist,1,Ada kone anak luh balu madan Men Bekung,0,0.0,1,0
+6,Tokoh-2,"['I Blenjo', 'Blenjo', 'Njo']",Antagonist,2, Kacerita ada anak muani madan I Nyoman Jater ngelah kone ia kurenan madan I Blenjo,0,0.0,1,1
+24,Tokoh-2,"['Ida Sang Prabu Singa', 'Ida Sang Prabu', 'ratu sang prabu', 'Ratu Sang Prabu', 'Ratu sang Prabu', 'Ida sang Prabu Singa']",Protagonist,64, Ida sang Prabu Singa sedek malinggih di bale panangkilan,0,0.0,1,1
+91,Tokoh-1,['Ni Bawang'],Protagonist,16, Ni Bawang laut megedi sambilange ngeling sigsigan,0,0.0,1,0
+22,Tokoh-2,"['alu gede gati', 'Alune ento', 'alu', 'I Alu', 'Alu', 'alune ento']",Antagonist,11, Kacerita ada alu gede gati,0,2.0,1,1
+61,Tokoh-2,"['I Lelipi Gadang', 'Lelipi Gadang', 'lelipi gadang gede', 'I Lelipi']",Antagonist,36, Sabilang wai kone I Lelipi Gadang nginutin apa ane titaha teken soroh katake ditu,0,0.0,1,1
+67,Tokoh-8,"['Baburon', 'baburon', 'beburone', 'baburone', 'Baburon lenan']",Antagonist,26, Tajeg surya ri kala beburone iteh ngamah I Sampi glalang gliling nanggehang sakit,0,-2.0,1,0
+51,Tokoh-1,"['I Keker', 'Keker', 'I keker']",Protagonist,45, Nimbal I Keker kasakitan,0,0.0,1,1
+24,Tokoh-7,"['I Sampi', 'Sampi', 'I Sampine']",Antagonist,61, Kasautin olih I Sampi ngudiang Beduda Ne cai kapangandikaang tangkil jani ka purian ring Anake Agung Keto pamunyinI Bedudane,0,0.0,1,1
+12,Tokoh-20,"['Cening', 'cening']",Protagonist,33, Yan jero anak odah sueca patujuhin ja titiang ring dije wenten gagak petak Lantas masaut anake odah Uduh Cening dini tusing ada gagak petak kemo laku kelod kangin ditu ada umah Rangsasa nanging Cening da jeg macelep mulihan yan bangun I Rangsasa sinah Cening tadaha,0,0.0,1,1
+54,Tokoh-1,['I Kerug'],Antagonist,38, Ngangseg bengong I Kerug ngebah di ampik umahne,0,0.0,1,0
+44,Tokoh-3,"['empase ane lua', 'empas lua', 'Empas Lua', 'i empas lua', 'I Empas lua', 'Luh', 'empase luh']",Protagonist,21, Sedek nuju dina anu sawetara nu dauh ro raine ngomong i empas lua,0,1.0,1,1
+51,Tokoh-2,"['I Lutung', 'Lutung', 'I Liutung']",Antagonist,4, Masaut I Keker Saja Lutung,0,0.0,1,0
+66,Tokoh-1,['I Menceng'],Antagonist,21, Mara tingalina teken I Menceng ia nguel krana pagaene I Polos pelih,0,0.0,1,0
+12,Tokoh-12,"['Ni Cili', 'Cili']",Antagonist,90, Ditu lantas I Raksasa nguber palaibne I Gagak Petak nganti suba paak baana ngepung teken I Raksasa lantas toliha teken Ni Cili palaib kakine ngangsarang dogen ditu lantas entungina manik toya lantas dadi yeh kone gede pesan masih tuuke dogen teken I Raksasa buin kone entungina manik endut masih tuuka dogen,0,2.0,1,1
+69,Tokoh-1,"['I Kancil', 'Kancil']",Antagonist,15, I Kancil mapikeneh lamun iadadi sane paling becat ngitarin alas ia lakar liu ngelah timpal cara I Siput,0,3.0,1,1
+51,Tokoh-2,"['I Lutung', 'Lutung', 'I Liutung']",Antagonist,25, Nah Lutung Kai lega masi maan mapitulung teken Iba,0,0.0,1,0
+44,Tokoh-2,"['Beli', 'Beli Empas', 'Beline']",Protagonist,30, Sakewala kene Beli Empas,0,0.0,1,1
+62,Tokoh-3,"['Sang Garuda', 'Garuda', 'Dewa Sang Garuda']",Protagonist,10, Masaut para nagane Kene Garuda yen Cai maan ja ngalih amerta tuah ento ane dadi kanggon nebus memen Caine,0,0.0,1,0
+73,Tokoh-2,"['I Sigara', 'I Segara', 'Sigara']",Protagonist,53, Kacerita jani I Sigara buin luas ka tukade ditu ia ngaba pusaka ane picaanga teken I Kaki Buyut seleta di bangkiangne aji senteng,0,3.0,1,1
+42,Tokoh-1,"['Ni Luh Arum', 'Ni Luh Arume', 'Luh Arume', 'Luh Arum', 'Luh', 'Luh arum']",Antagonist,82, Apan peteng di metenan Luh Arum sing ja pedas teken goban I Donglene,0,0.0,1,1
+64,Tokoh-1,"['I Lutung', 'Lutung', 'Tung', 'I utung']",Antagonist,74, I Kekua kedek ngelkel nepukin I Lutung puun sakewala ia masih merasa pedalem ningalin I utung kesakitan,0,-5.0,1,1
+31,Tokoh-1,"['I Belog', 'belog']",Antagonist,14, I Belog bengong ninggalin bebeke kambang tur ia ngrengkeng kene bebek puyung bakat beli,0,-5.0,1,1
+112,Tokoh-1,"['Sang Nandaka', 'Sang Nandakane', 'I Nandaka', 'Nandaka']",Protagonist,27, Punika patut kayunin I Ratu sampunang I Ratu tleman Gelisang pegatang pasawitran I Ratune ring I Nandaka,0,4.0,1,1
+98,Tokoh-15,"['i cicing', 'cicing', 'I cicing']",Protagonist,127, Takonina i cicing gigin tiange sampunang sangiha sakewala caling tiange lanyingang,0,0.0,1,1
+120,Tokoh-1,"['I Lutung', 'Lutung', 'lutung', 'I lutung']",Antagonist,12, Lutung ulungin ja icang biu abulih basang icange suba layah masaut I Lutung Nah antosin ja malu binjep baangaya,0,0.0,1,1
+106,Tokoh-4,['I Babah Sampik'],Protagonist,21, Irika raris I Babah Sampik kaliwat bendu ring utusanne Ni Nyonyah tur ngawangun iyeg banget pisan kantos ngawetuang siat,0,-2.0,1,0
+93,Tokoh-1,"['sang nata Prabu Aiswaryadala', 'ida Sang Prabu Aiswaryadala', 'sang prabu Aiswaryadala', 'Aiswaryadala']",Protagonist,5, Munggwing pesenganidda sang nata Prabu Aiswaryadala,0,0.0,1,1
+115,Tokoh-2,"['Ni Luh Lancah', 'Luh Lancah', 'Luh LAncah']",Antagonist,45, Buin manine sesampune pada ngopi I Pagul ka tegal Luh Lancah kapeken,0,0.0,1,1
+99,Tokoh-15,"['timpal-timpalne', 'timpalne']",Antagonist,58, Keto pitungan cicinge ajake timpal-timpalne,0,0.0,1,1
+74,Tokoh-2,"['Ni Layonsari', 'Layonsari', 'layonsari']",Protagonist,13, Wastannyane Ni Layonsari okan Jero Bendesa saking banjar Sekar,0,0.0,1,1
+108,Tokoh-1,"['para krama ring Majeti', 'ikrama']",Protagonist,4, Sakewanten kala punika para krama ring Majeti tan pisan uning ring kaweruhan pertanian kantun tambet-tambet napi malih kaweruhan aksara agama sastra kalih piranti-piranti lianan during uningin ipun,0,0.0,1,0
+87,Tokoh-4,"['Ida Bhatara Indra', 'Ida Batara Indra', 'Ida Bhatara Indrane']",Protagonist,23, Kala ento kone Ida Bhatara Indra ngamijilang panah kapanah tanahe ane ada di klebutan yeh ane misi cetik ento mawasta medal toya klebutan ane dadi kanggon tamba ban panjak Ida Bhatara Indrane makasami ane suba padem sida mawali urip,0,0.0,1,1
+49,Tokoh-2,"['Dadong Getget', 'dadong', 'Dadong', 'I Dadong', 'I Dadong Getget']",Protagonist,47, Nah kene Dadong jani matelah-telah malu aji yeh semer ambul suba suud Dadong mambuh aji yeh semer icang mara dadi ngajak pules,0,1.0,1,1
+53,Tokoh-3,"['i pangangon', 'I pangangon', 'pangangon']",Antagonist,17, I pangangon apanga suud mai,0,0.0,1,1
+117,Tokoh-8,"['bikul', 'Sang Bikul', 'I Bikul']",Protagonist,67, Kacerita pongponga grobage ban I Bikul,0,0.0,1,1
+48,Tokoh-6,"['I naga Taksaka', 'I Naga taksaka', 'I Naga Taksaka', 'Naga']",Antagonist,47, Nah cai panjak-panjak gelah lautang kandik I Kasiape Kepuh tur matiang apang tusing buin ada Naga maumah ditu,0,0.0,1,0
+105,Tokoh-11,"['Me Lutung', 'I Lutung', 'Lutung', 'Men Lutunge', 'I Lutunge', 'meme Lutung', 'me Lutung']",Protagonist,185, Matakon I Rangsasa teken I Lutung,0,0.0,1,1
+100,Tokoh-5,"['Raden Galuh', 'Cening Galuh', 'cening']",Protagonist,31, Buin manine buin kone Raden Galuh kemo mangelingin layon biangne,0,0.0,1,0
+8,Tokoh-2,"['belibis putih', 'kedise', 'kedis Belibis Putih', 'Belibise', 'belibise', 'I Belibis Putih']",Protagonist,26, Ditu ia iju ngejuk kedise baan jala,0,0.0,1,0
+99,Tokoh-11,"['pandene', 'Pandene', 'pandene ento']",Antagonist,44, Pan Polenge totonan bange buungkung len tekening pandene,0,0.0,1,1
+109,Tokoh-4,"['Sang Bima', 'Cening Sang Bima', 'Ida Sang Bima']",Protagonist,37, Irika raris Dewi Kunti ngandikain putrane Sang Bima mangda mapitulung ring Ida Sang Pandita sane katiben sebala,0,0.0,1,0
+105,Tokoh-5,"['panyrowane', 'panyrowan']",Antagonist,8, Mamargi lantas Raden Galuh iringang panyrowan I Nginte teken I Ngemban,0,0.0,1,0
+12,Tokoh-12,"['Ni Cili', 'Cili']",Antagonist,41, Masaut Ni Cili Dong Kaki dija ja ada manusa bani mai Nah yen keto jemakang kaki nasi Itep I Raksasa madaar,0,0.0,1,1
+69,Tokoh-6,"['sipute liu pesan', 'sipute liu', 'siput-sipute']",Protagonist,24, Di sisintlagane majerjer sipute liu pesan,0,1.0,1,1
+118,Tokoh-1,['I Aget'],Protagonist,60, Jani sawireh tusing ada Agung buin di desane ento I Aget lantas jenenganga agung teken para panjakne makejang,0,0.0,1,0
+17,Tokoh-1,"['Ni Jepun', 'Dadong Jepun', 'Dadong', 'Dong']",Protagonist,81, Dadong Jepun lantas ngucap,0,0.0,1,1
+114,Tokoh-4,"['semute-semute', 'Semute ento', 'Semute', 'Semut-semut', 'semut-semut', 'Makatelu semute ento']",Antagonist,55, Semut-semut ane mamusuh ento makejang kekeh makejang paturu ngaku beneh,0,1.0,1,1
+82,Tokoh-4,"['Luh Ayu Kantrungan', 'Luh Ayu', 'Ni Ayu Kantrungan']",Antagonist,10, Ento iwasin Luh Ayu sedek ngaenang wake boreh,0,3.0,1,0
+41,Tokoh-1,"['I Congeh', 'Congeh']",Protagonist,6, I Congeh ngenehang padidi apa ane lakar katiba tekening dewek ipune,0,0.0,1,1
+61,Tokoh-3,"['katak', 'katake', 'I Katak']",Protagonist,9, Sawireh di carike telah suba katake amaha ne jani ia ngungsi tongos telaga eninge ngalih amah,0,0.0,1,0
+12,Tokoh-3,"['I Bintang Lara', 'Bintang Lara', 'I Bintang Larane', 'adi Bintang Lara', 'adi', 'I adi', 'Adi Bintang Lara', 'Adi']",Protagonist,147, Ditu lantas I Bintang Lara nemu kasukaan tan patanding,0,0.0,1,1
+20,Tokoh-9,"['okan-okane', 'okane']",Protagonist,24, Disampune punika sami okane matangi tur samian nunas laklake punika,0,0.0,1,0
+93,Tokoh-6,['Ni Diah Tantri'],Protagonist,8, Caritayang KI patih Bandeswarya madrewe putri istri adiri mapesengan Ni Diah Tantri kalintang ayu munggwuing warna wyakti tan patandingan iriki sasoring akasa wyadin antuk kagunan kawicaksanayan tur kapradnyanan sampun kajanapriya makadi sampun puput indik saraswatine kaincep antuk Ni Diah Tantri,0,3.0,1,0
+91,Tokoh-4,"['kedis crukcuk kuning', 'Kedis Crukcuk Kuninge', 'I Kedis Crukcuk Kuning', 'I Crukcuk Kuning']",Protagonist,17, Di subane ngutang umah neked kone ia di tukade ketemu ajak kedis crukcuk kuning,0,0.0,1,0
+53,Tokoh-4,"['I Lelipi Raja', 'I Lelipi']",Antagonist,35, Nanging I Lelipi sahasa nagih ngamatiang I Kepuh tur mamunyi Nah nyen bani teken awake,0,3.0,1,0
+89,Tokoh-1,['Men Sugih'],Antagonist,42, Mara keto lantas seluka jit kidange laut kijem jit kidange Men Sugih paide abana ka dui-duine,0,1.0,1,0
+42,Tokoh-3,"['I Donglen', 'Gede Donglen']",Protagonist,42, Mara getakanga rengas sampine jeneng bane tumben nota malaib sampine maid tenggala glantingina dogen baan I Donglen kadeyen-yen Ia,0,0.0,1,0
+114,Tokoh-5,['timpal-timpalne'],Antagonist,30, Sing makelone timpal-timpalne mapitulung ento makada siate rame sajan tan bina perang di Kurusetra,0,0.0,1,0
+98,Tokoh-1,"['Pan Jempenit', 'pan jempenit', 'Pan jempenit']",Protagonist,3, Mara keto matakon lantas Pan Jempenit,0,0.0,1,1
+8,Tokoh-1,['Narajana'],Protagonist,6, Tibanan suba Narajana nyalanang geginane ento,0,0.0,1,0
+98,Tokoh-13,"['i bikul', 'bikul']",Protagonist,78, Kacarita jani i bikul kecag-kecig ngalih-ngalihin petine,0,0.0,1,1
+52,Tokoh-2,"['I Blanguyang', 'asu Blanguyang', 'I Blangyang']",Antagonist,17, Ri sedek Ida ngrayunang tumuli I Kelesih dengak-dengok uli di selagan raab nebe ento makrana I Blangyang kecas-kecos,0,0.0,1,0
+117,Tokoh-7,"['meong', 'Sang Meong', 'meonge', 'I Meong']",Protagonist,80, I Meong nyuang be bajone asok I Bikul makatang padine abodag,0,0.0,1,1
+97,Tokoh-10,['Men Balang Tamak'],Protagonist,76, Lantas Men Balang Tamak nuutang buka pabesen Pan Balang Tamake,0,0.0,1,0
+61,Tokoh-6,['Katake ane cenik-cenik'],Protagonist,5, Katake ane cenik-cenik setata orina ngalih legu anggona tetedan,0,0.0,1,0
+99,Tokoh-1,"['Pan Poleng', 'pan Poleng', 'Pan Polenge totonan']",Protagonist,28, Sube nengked ditu ngomong lantas lelipine tekening pan Poleng jani kemu cai mulih dini umah kakine,0,1.0,1,1
+109,Tokoh-4,"['Sang Bima', 'Cening Sang Bima', 'Ida Sang Bima']",Protagonist,50, Sakewala Sang Bima iteh ngajengang carune ento,0,-2.0,1,0
+46,Tokoh-1,"['I Wayan Tigaron', 'I Tigaron']",Antagonist,33, Teked jumahne kajajagin ban I Wayan Tigaron Kengken bapa tunden tiang luas mapadik Sida sing sidane nang tuturang ken tiang,0,0.0,1,0
+105,Tokoh-17,"['meme', 'memene']",Protagonist,170, Be dadi nira akwang meme,0,0.0,1,0
+60,Tokoh-1,"['I Sangmong', 'Ida Sang Prabu', 'Sang Prabu I Sangmong', 'Sang Ratu Prabu']",Antagonist,47, Lantas jag dengeka bungkil tiinge ban I Sangmong kanti ocel gigine engsut di bungkil tiinge,0,0.0,1,0
+81,Tokoh-1,"['I Lutung', 'Lutung']",Antagonist,11, I Lutung laut iya sirep pas sirep ngipi kone iya,0,0.0,1,1
+119,Tokoh-1,"['pedando', 'Ida Pedanda']",Protagonist,7, Sang kalih masobaya jagi nyedayang Ida Pedanda,0,0.0,1,0
+11,Tokoh-3,"['Sang Arunika', 'Ida Sang Arunika']",Protagonist,12, Keto pawuwus Ida Bhagawan Domia ring Sang Arunika,0,0.0,1,0
+75,Tokoh-3,"['leyak ajak kakalih', 'leyak punika', 'Leyake punika']",Antagonist,12, Tan wenten suwe dane mayuda kning gisiange leyak punika makakalih tur ipun nyumbah ring gurun pagep ngidih urip tur rare punika tunas ipun,0,3.0,1,0
+108,Tokoh-2,"['Sang Aji Saka', 'Aji Saka']",Protagonist,40, Indik sepadem parekan makakalih kapireng olih Sang Aji Saka pramangkin Ida Parisesel ring raga rumase ring raga iwang ngicen tugas ring parekane makaklih wastu ngemasin padem,0,-1.0,1,1
+120,Tokoh-1,"['I Lutung', 'Lutung', 'lutung', 'I lutung']",Antagonist,54, Jani I Lutung ane matekep dibeten guungane laut I Kekua malab turmaning gageson macemplung katukade,0,0.0,1,1
+61,Tokoh-7,"['retunne', 'ratunne', 'ratun katak', 'ratun katake', 'Ratun Katake', 'I Ratun Katak']",Antagonist,46, I Ratun Katak ajaka katake makejang tusing nyidang pesu uli goane ento,0,0.0,1,1
+81,Tokoh-2,"['I Beduda', 'Beduda', 'beduda']",Protagonist,7, Beduda kene bo amun belog ubuhin,0,-5.0,1,1
+20,Tokoh-13,"['raden galuh', 'Raden Galuh', 'Raden Galuh Pitu', 'galuh pepitu', 'Galuh Pitu', 'Ida Raden Galuh', 'Raden Galuh pitu', 'galuh pitu punika', 'Raden Galuh ajaka papitu', 'Raden Galuh makasami', 'Raden Galuh Pitu makasami']",Antagonist,14, Dugase ento galuh pitu makejang pada sirep,0,0.0,1,0
+67,Tokoh-10,['baburon cenikan'],Antagonist,7, Makelo-kelo mara baburon cenikan bani maekin I Sampi,0,2.0,1,0
+31,Tokoh-2,"['memene', 'Memene']",Protagonist,4, Ditu lantas ia nyemakin memene pis,0,0.0,1,1
+115,Tokoh-2,"['Ni Luh Lancah', 'Luh Lancah', 'Luh LAncah']",Antagonist,19, Buka anak nundun I Pagul muah Ni Luh Lancah uli pasareane,0,0.0,1,1
+92,Tokoh-5,"['sudagare', 'Sudagare', 'sudagar', 'I Sudagar']",Antagonist,55, Dereng wenten apakpakan base I Sudagar ngrimik kadi ring ajeng kagiat malih rauh anake odah sane dumun naenin asung ring pasikian I Sudagar punika,0,-2.0,1,1
+9,Tokoh-2,"['memene', 'Meme', 'Memenne', 'memenne', 'I meme', 'Memene', 'Me', 'Men Belog', 'memene I Belog']",Protagonist,41, Meme anak nu idup,0,0.0,1,0
+17,Tokoh-1,"['Ni Jepun', 'Dadong Jepun', 'Dadong', 'Dong']",Protagonist,37, Dadong Jepun usap-usap bangun sada bengong mengenehang unduk ipiane ento,0,0.0,1,1
+8,Tokoh-5,"['Prabu Boya', 'Sang Prabu', 'Ida Sang Prabu']",Protagonist,89, Mawinan ledang pesan kayun Ida Sang Prabu,0,0.0,1,1
+9,Tokoh-2,"['memene', 'Meme', 'Memenne', 'memenne', 'I meme', 'Memene', 'Me', 'Men Belog', 'memene I Belog']",Protagonist,35, Sasubanne memenne suud ngentungang bangken anake luh totonan lantas ia mulih,0,0.0,1,1
+20,Tokoh-13,"['raden galuh', 'Raden Galuh', 'Raden Galuh Pitu', 'galuh pepitu', 'Galuh Pitu', 'Ida Raden Galuh', 'Raden Galuh pitu', 'galuh pitu punika', 'Raden Galuh ajaka papitu', 'Raden Galuh makasami', 'Raden Galuh Pitu makasami']",Antagonist,86, Raden Galuh ajaka papitu jani nongos di umahne I Raksasa,0,0.0,1,1
+14,Tokoh-5,"['pianakne', 'panakne', 'pianaknyane', 'pianak ipune', 'pianak ipun']",Protagonist,13, Duk punika Pan Badung ngintip panakne mataki-taki ayat luas ngarereh saang,0,0.0,1,0
+120,Tokoh-3,"['I Pekak Dukuh', 'I Pekak', 'I Pekak dukuh', 'I pekak dukuh', 'dukuh']",Protagonist,60, I Pekak dukuh lantas maekin cucune turmaning mapajar eng,0,0.0,1,1
+96,Tokoh-9,"['kulukne', 'Kuluk', 'kuluk', 'kuluke']",Antagonist,64, Ih Bapa Angklung Gadang icang ja baang meli kuluk bapane bayaha ja siu,0,0.0,1,1
+97,Tokoh-1,"['Pan Balang Tamak', 'Pan Balang Tamake']",Antagonist,12, Kacarita manine semangan mara tuun siyap lus desane makejang nanging Pan Balang Tamak masih enu jumah padidian krana ia ngantiang siapne tuun uli bengbengane,0,0.0,1,0
+99,Tokoh-1,"['Pan Poleng', 'pan Poleng', 'Pan Polenge totonan']",Protagonist,15, De be matiange tiang bang meli keto Pan Poleng ngomong,0,1.0,1,1
+10,Tokoh-1,"['maharaja Pretu', 'Maharaja Pretu', 'Maharaja']",Protagonist,1,kacerita maharaja Pretu dadi ratu luih dijagate,0,0.0,1,1
+27,Tokoh-2,"['memene', 'Me', 'meme', 'Meme', 'i meme', 'memenne', 'memene I Belog']",Protagonist,67, Aget enggal ada anak ngalangin pamuput kanti amingguan memene daah duuh naanang ngaap tur sakit awakne makaukud,0,0.0,1,0
+68,Tokoh-1,"['I Sangging Lobangkara', 'Sangging Lobangkara']",Protagonist,18, Suba telah bana ngambar lantas I Sangging Lobangkara mulih,0,0.0,1,1
+49,Tokoh-1,"['I Kecut', 'I kecut', 'Kecut']",Antagonist,32, Nah Kecut Kecut mai ja malu,0,0.0,1,0
+115,Tokoh-2,"['Ni Luh Lancah', 'Luh Lancah', 'Luh LAncah']",Antagonist,31, Neked Luh Lancah jumah I Biing uli bengbengane Kok-kok katekok kok-kok katekok katekok Sambehina jagung mapikpik,0,0.0,1,1
+23,Tokoh-2,['I Balu Kanginan'],Antagonist,28, Beli Wayan tetanin Beline suba telah amaha teken siape keto I Balu Kanginan Nah amaha ya teken siape jani siap ya gelahang beli keto I Balu Kawanan,0,0.0,1,0
+73,Tokoh-2,"['I Sigara', 'I Segara', 'Sigara']",Protagonist,77, To makrana jani suud kone I Sigara mondong idup sengsara,0,0.0,1,1
+16,Tokoh-5,"['Kedis Cerukcuk', 'I Kedis Cerukcuk']",Protagonist,15, Cukcuk icange bawak turin cenik sing nyidang ngesisiang tulang ane nyelekak di kolongan caine saut I Kedis Cerukcuk,0,-3.0,1,1
+62,Tokoh-7,"['meme', 'Meme', 'memene', 'memenne', 'memen Caine', 'memen tiange']",Protagonist,4, Kacerita panak Sang Winatane ane madan Sang Garuda marasa sedih nepukin memene dadi pangayah wiadin juru empu,0,-5.0,1,0
+106,Tokoh-1,"['Ingtai Nyonyah', 'Nyonyah Ingtai', 'Nyonyah Ingati', 'Ni Ingtai', 'I Nyonyah Ingtai', 'Ni Nyonyah', 'Ni Nyonyah Ingtai']",Antagonist,1,Kacritayang wenten sengke pangkat Mayor magenah ring Waciu negari madue pianak mawasta Ingtai Nyonyah utawi Nyonyah Ingtai sane sampun truni utawi menek bajang,0,2.0,1,1
+67,Tokoh-9,['baburon maawak gede tur situh ento'],Antagonist,4, Sawireh baburon maawak gede tur situh ento pangenahne sumbung,0,2.0,1,0
+98,Tokoh-1,"['Pan Jempenit', 'pan jempenit', 'Pan jempenit']",Protagonist,18, Pan Jempenit yan keto terusang tresnan ibane elusin jani talin cucun kaine nen upahina ja,0,0.0,1,1
+51,Tokoh-1,"['I Keker', 'Keker', 'I keker']",Protagonist,1,Di alase kaja ada kone I Keker sedekan indeng-indeng ngalih amah-amahan,0,0.0,1,1
+117,Tokoh-3,"['I Raksasa', 'I Raksasa ento']",Antagonist,34, Galak i Raksasa Yen tusing nyak ia tendasne kamah,0,-5.0,1,0
+75,Tokoh-1,"['gurun pagep', 'dane Gurun Pagep', 'Dane gurun pagep', 'dane gurun pagep']",Protagonist,1,Ring desa pendem sane dumun kabaos wenten dalang lintang pradnyan mawasta gurun pagep kasub ring jagat Jembrana antuk wikane ngawayang,0,0.0,1,0
+101,Tokoh-1,['Pan Mangut'],Protagonist,13, Jro Kelihan Desa lantas nunden Pan Mangut ngadas sampine,0,0.0,1,0
+40,Tokoh-1,['I Clalongan'],Protagonist,17, Lantas tepukina I Clalongan matinggah di carang nyuhe,0,0.0,1,0
+60,Tokoh-5,"['I Blatuk', 'Kedis Blatuk']",Antagonist,13, Wih Iba Kedis Blatuk Nak ngudaing Iba ngedig kulkul bulus Kanti pesu I Capung Bangkok ngaba tumbak poleng,0,0.0,1,0
+94,Tokoh-16,"['anake luh ento', 'anake luh']",Antagonist,35, Mara cingaka antuk Ida Raden Mantri eling ida teken anake luh mati di alase ane rurubin ida aji tugelan wastranidane nanging ida tan purun nyujatiang,0,-4.0,1,0
+4,Tokoh-2,"['I Ngurang Rangsasa', 'Ida Anak Agung Ngurah Rangsasa', 'I Ngurah Rangsasa', 'I Ngurah', 'Ngurah']",Antagonist,15, Ngurah apa kabuatang Ngurah dini nangun tapa I Ngurah Rangsasa raris macingakan ulap panyuryanidane sue-sue raris terang kacingak i rika wau ida matur saha sembah,0,4.0,1,1
+97,Tokoh-1,"['Pan Balang Tamak', 'Pan Balang Tamake']",Antagonist,41, sengap desane belog-beloga baan Pan Balang Tamak,0,0.0,1,0
+79,Tokoh-4,['beli'],Antagonist,23, Keto masi di mlipetane beli nyautin pakaukanne I Kidang,0,0.0,1,0
+14,Tokoh-1,['Pan Badung'],Antagonist,17, Duaning Pan Badung do nawang ngenken sujatine pianaknyane laut katugtug uli duri Ni Badung ke tengah bete olih bapane,0,0.0,1,0
+116,Tokoh-3,"['Meng Kuuk', 'Jero Meong', 'I Meng Kuuk', 'jero para meong']",Antagonist,49, Apa ento Siap Selem mtakon lantas I Meng Kuuk,0,0.0,1,1
+71,Tokoh-3,['Ni Tuwung Kuning'],Protagonist,50, Ni Tuwung Kuning siluranga aji gedebong,0,0.0,1,0
+28,Tokoh-2,"['Pan Sari', 'Pan sari']",Antagonist,42, Gelisin satua enggal suba kone jani ia neked di jumahne pejanga eduke di sanggahne tur ngorta lantas Pan Sari teken pianakne ngorahang I Belog suba mati amah macan,0,-8.0,1,1
+25,Tokoh-2,"['prameswarine', 'Sri Prameswari']",Protagonist,3, Gelising cerita mobot kone Sri Prameswari tur suba medal madue oka basang siap,0,0.0,1,0
+32,Tokoh-1,"['I Bikul', 'Bikul', 'I bikul', 'bikul cenik']",Protagonist,17, To makrana ia nyautin Men yen saja buka keto kengken jani Apa ane dadi tulungin icang jani buat Cai dini Kene to Bikul,0,0.0,1,0
+75,Tokoh-4,"['ni penek', 'Ni Penek', 'ni penak', 'penak']",Protagonist,14, Kabaos manngkin ni penek sane nglah pianak padem semeng semeng ipun kasetra pabajangan makta sagi upakaran rare padem,0,3.0,1,1
+42,Tokoh-6,"['kedis curik lue muani', 'I Curik ane muani', 'curike ane luane', 'curike ane muani', 'jrone kedis curik', 'jrone', 'kedise', 'I kedis curik']",Protagonist,105, Kedise ento kedis cerik lue muani matinggah dipunyan kayune sada endep malu mamunyi ane luane,0,0.0,1,0
+92,Tokoh-1,"['Ni Daha Tua', 'Daha Tua']",Antagonist,11, Geginan Pan Bergah taler pateh sakadi Ni Daha Tua ngrahina ngrereh saang ka alase,0,4.0,1,1
+4,Tokoh-2,"['I Ngurang Rangsasa', 'Ida Anak Agung Ngurah Rangsasa', 'I Ngurah Rangsasa', 'I Ngurah', 'Ngurah']",Antagonist,3, Kawentenanne kadi punika pecak sane dumun wenten ratu lintang wibuh mabiseka I Ngurang Rangsasa Anak Agung ring Pecangakan,0,0.0,1,0
+36,Tokoh-2,['Ni Gadung'],Protagonist,18, Ningeh pasadok kurenane buka keto Ni Gadung marasa lega kenehne sawireh tusing ja liu lakar ngulehang pipis,0,1.0,1,0
+52,Tokoh-2,"['I Blanguyang', 'asu Blanguyang', 'I Blangyang']",Antagonist,2, Ida madue asu asiki kawastanin I Blanguyang,0,0.0,1,0
+88,Tokoh-1,"['Pan Brayut', 'De Brayut']",Protagonist,54, Pamragat satuuane Pan Brayut jani nukuhin prasida nemu rahayu rahajeng buina pianak mantunne makejang sida labdakarya pakedek pakenyung,0,5.0,1,0
+11,Tokoh-1,"['Bhagawan Domia', 'Ratu Bhagawan', 'Ida Bhagawan Domia', 'Ida Hyang Bhagawan', 'Ida Bhagawan']",Protagonist,7, Singgih Ratu Bhagawan paragayan Hyang Pramesti Guru,0,0.0,1,0
+86,Tokoh-1,"['macan', 'I Macan', 'Macan']",Antagonist,6, Kacarita jani I Macan suba dueg pesan sai sai ia tusing kuangan pabuktian,0,3.0,1,1
+49,Tokoh-5,"['bapa', 'bapanne']",Antagonist,52, kenken adi meme bapa pada nyakitang basang,0,0.0,1,0
+41,Tokoh-1,"['I Congeh', 'Congeh']",Protagonist,4, Kacarita ne mangkin wenten asiki bendega sane maparab I Congeh,0,0.0,1,1
+105,Tokoh-8,"['I Sampi Wadak', 'I Sampi', 'Jro Sampi', 'I Sampine', 'Sang Sampi', 'Sampi', 'I sampi', 'I sampi wadak', 'sampi wadak', 'I Sampi Wadake']",Protagonist,82, Ngenggalang lantas I sampi malipetan ngalih I Lutung,0,0.0,1,1
+40,Tokoh-2,"['kedis perit', 'kedise']",Protagonist,13, Kenehne liang pesan maan macanda ngajak kedise sane pasliwer,0,0.0,1,0
+51,Tokoh-1,"['I Keker', 'Keker', 'I keker']",Protagonist,3, Wih Keker ne masan langite terak nguding Iba jeg mokoh lemuh Wake kene men berag tegres lepas kena wake amah-amahan,0,-4.0,1,0
+49,Tokoh-2,"['Dadong Getget', 'dadong', 'Dadong', 'I Dadong', 'I Dadong Getget']",Protagonist,39, Dadi keto kone pesautne I Dadong,0,0.0,1,1
+77,Tokoh-4,"['I Bojog', 'Bojog']",Antagonist,35, Ni Mesaba masebeng egar tur mamunyi Uh cai Bojog teka,0,0.0,1,0
+19,Tokoh-2,"['bhagawan Drona', 'Hyang Bhagawan', 'Sang guru Drona', 'Dang Hyang Drona', 'Sang Bhagawan', 'Guru Drona']",Antagonist,22, Ekalawya Inan limane raris kaenjuhang kagetep olih Sang Bhagawan katempelang ring limane sang Arjuna,0,0.0,1,0
+27,Tokoh-1,"['I Belog', 'Belog']",Antagonist,107, Suba makelo ia di patununan ngelapang kurenane ngulungang tundakne ka luanan laut ia makaukan Wih Belog Belog dudukang jep icang tundake,0,-10.0,1,0
+82,Tokoh-3,"['dane Dukuh Kantrungan', 'Jero Dukuh', 'dukuh Kantrungan', 'jero', 'Dukuh Kantrungan', 'dane dukih', 'dane jero Dukuh', 'Jero Dukuh Kantrungan', 'dane Jero Dukuh Kantrungan']",Antagonist,18, I Lutung nimbal nyawis Inggih jero Dukuh mangdane uning yening ngolah ulam Lutung mangda nenten pahit kadi kantawali sampunang bacin tiange medal,0,0.0,1,1
+47,Tokoh-4,['inan jarane'],Protagonist,7, Mara keto makebles inan jarane teka nyagjagin panakne,0,0.0,1,0
+95,Tokoh-2,"['Detia', 'detia']",Protagonist,1,Kacerita para dewatane Detia miwah danawane parum ring pucak gunung Mahameru sane kabaosang indik upayane mangda mikolihang Tirta Amreta,0,0.0,1,1
+20,Tokoh-12,"['cening galuh', 'cening']",Antagonist,23, Nah cening galuh kewala da sambatanga teken rakan ceninge Kenten pabesen biangne,0,0.0,1,1
+74,Tokoh-3,"['Ida Anake Agung', 'anake agung', 'Ida anake Agung', 'Ida Anake agung', 'Ida anake agung']",Antagonist,16, Luire Ida Anake Agung nerima kecutetannyane miwah ngaryanin suarapatra,0,0.0,1,1
+83,Tokoh-2,"['I Kekua', 'Kekua', 'I kekua']",Protagonist,4, Saget tepukina I Kekua berag akig sajan mirib tuna amah,0,1.0,1,1
+99,Tokoh-2,"['Men Poleng', 'men Poleng']",Protagonist,82, Teked jumah bange Men Poleng bungkunge ento jemake lantas bungkunge ento tekening Men Poleng,0,0.0,1,1
+18,Tokoh-9,"['Hyang Baskara', 'Hyang', 'Betara Hyang Betara']",Protagonist,17, Dewi sampun mamuja Hyang wus Betara sane kaacep ring kayun miwah mangkin pacang mapica nugraha ring Dewi kenten sabda Betara Surya,0,0.0,1,0
+80,Tokoh-1,"['I Singa', 'prabu Singa', 'I singane', 'I Sing', 'Singa']",Antagonist,36, I Singa mamunyi bangras ih Lelasan nyalah-nyalah kai ngelawan iba gediang awak ibane dosan I Lembu gede pesan ia pantes kene denda mati I Lelasan ngucap ih Singa eda iba liunan pete mai metanding,0,-2.0,1,1
+46,Tokoh-1,"['I Wayan Tigaron', 'I Tigaron']",Antagonist,21, nunas ica kapinin Cai Beli ngidih papojolan pianak Caine Ni Sukasti bakal baang beli I Tigaron,0,0.0,1,0
+6,Tokoh-1,"['I Nyoman Jater', 'I Nyoman jater', 'Nyoman Jater']",Protagonist,108, Masaut jani I Nyoman Jater To awake nunden ngaenang basa gede tidik payas gede gaenang tendas celenge,0,4.0,1,1
+99,Tokoh-1,"['Pan Poleng', 'pan Poleng', 'Pan Polenge totonan']",Protagonist,14, Nengked bedangina nepukin anak lakar ngematiang lipi ngomong lantas pan Poleng Bakal kenkenang lipine entto bakal matiang tiang keto anake mesaut,0,1.0,1,1
+99,Tokoh-1,"['Pan Poleng', 'pan Poleng', 'Pan Polenge totonan']",Protagonist,13, Buin lantas Pan Poleng nganginang pejalanne,0,0.0,1,1
+61,Tokoh-3,"['katak', 'katake', 'I Katak']",Protagonist,1,Di telaga ane ening misi bungan tunjung tur mabunga nedeng kembang liu ada katak pada megonggang girang,0,1.0,1,0
+88,Tokoh-5,"['bapanne', 'Bapanne', 'i bapa']",Protagonist,25, Yen buat tusing nekang apa-apa kengkenang men tungkula suba uyak pianak Buka bapanne nuju malali ka pisaga yadin diwangan teked jumah tuah ngenbusin kamben dogen gaene nuju icang ngendihang api di paon teka ngedeng lima ngajak ka balene kanti buung nyakan keto pasaut Men brayut sada pongah,0,0.0,1,1
+28,Tokoh-2,"['Pan Sari', 'Pan sari']",Antagonist,32, Menek Pan Sari ngalap eduk lantas ulung-ulunganga,0,0.0,1,1
+74,Tokoh-2,"['Ni Layonsari', 'Layonsari', 'layonsari']",Protagonist,54, Gumentos sahasa Ni Layonsari ngunus keris raris nebekin ragan ipun,0,0.0,1,1
+79,Tokoh-3,"['timpale', 'timpalne makejang', 'timpalne', 'timpal-timpalne']",Antagonist,17, Disubane suud makeneh I Cekcek lantas ataga timpalne makejang,0,0.0,1,1
+116,Tokoh-3,"['Meng Kuuk', 'Jero Meong', 'I Meng Kuuk', 'jero para meong']",Antagonist,16, ih cai Siap Selem ngujang cai mai Jero Meong tiang mriki jagi maembon mawinan tiang madue pianak-pianak kari alit,0,4.0,1,0
+23,Tokoh-2,['I Balu Kanginan'],Antagonist,5, Kacerita I Balu Kawanan demen teken I Balu Kanginan sakewala I Balu Kanginan tusing demen teken I Balu Kawanan,0,6.0,1,0
+10,Tokoh-7,"['I kedis sugem', 'Kedis Sugem']",Protagonist,54, Kkeberang olih I kedis sugem,0,0.0,1,1
+50,Tokoh-3,"['Bapa Gelatik', 'i Bapa Gelatik', 'Bapa', 'bape']",Protagonist,8, Sakewala i Bapa Gelatik sing takut,0,-3.0,1,1
+57,Tokoh-1,"['I Langgana', 'langgana', 'Langgana', 'I Langganane']",Protagonist,34, Mara katuturin keto jengah kone bayun I Langganane lantas ia mesaut Aduh Pan Cening ipian tiange ento jeg pasti seken-seken ada,0,0.0,1,0
+96,Tokoh-10,"['cicingne', 'cicing', 'Cicingne']",Antagonist,73, Bening ia anak mula ajum teken pagelahan jani mabudi ninggarang kamelikan cicingne kanti nyelap ia luas mabalih tusing mabekel pipis kacager kulukne lakar ngadianang pipis,0,0.0,1,1
+118,Tokoh-6,"['anake luh ento', 'anake luh', 'Ane luh', 'anake eluh ento', 'anake ento']",Protagonist,35, Ditu lantas ia makeneh ngintip apang tawanga pasajane pesan nyen ke anake luh ento dewa apa manusa,0,0.0,1,1
+117,Tokoh-3,"['I Raksasa', 'I Raksasa ento']",Antagonist,66, I Raksasa sedekan di paon repot munduhang bakal basa,0,-4.0,1,0
+96,Tokoh-11,"['I Wayan Sebetan', 'Jero Wayan']",Protagonist,72, kacerita buin manine I Wayan Sebetan luas mabalih prajani ia meseh mapanganggo ane melah-melah,0,0.0,1,0
+83,Tokoh-1,"['I Lutung', 'Sang Lutung']",Antagonist,17, I Lutung sambilanga kejengat-kejengit negak ditundun I Kekuane,0,0.0,1,0
+42,Tokoh-2,"['bapan Luh Arum', 'bapa', 'bapane', 'bapanne', 'Bapan Luh Arum', 'Bapan Luh Arume', 'pa', 'Bapa']",Antagonist,31, Mamunyi bapane,0,0.0,1,0
+85,Tokoh-2,"['I Kancil', 'Kancil', 'Cil']",Protagonist,56, I Kancil kedek uli tongosne mengkeb sambila ngilag nyambu,0,0.0,1,1
+42,Tokoh-3,"['I Donglen', 'Gede Donglen']",Protagonist,104, Saking sueca Ida Hyang Widi dadi ada tepukina kedis ngeraos mamunyi cara jelma sela dingeha baan I Donglen,0,0.0,1,0
+49,Tokoh-1,"['I Kecut', 'I kecut', 'Kecut']",Antagonist,43, Tur lantas I Kecut matakon teken bapanne Kenken abete jani apang buung makurenan ngajak I Dadong,0,0.0,1,1
+18,Tokoh-4,"['Raja Kuntibhoja', 'sang raja']",Protagonist,2, Raja Sura puniki madue misan sane mapesengan Raja Kuntibhoja sane ten madue putra,0,0.0,1,0
+89,Tokoh-1,['Men Sugih'],Antagonist,16, Lantas api teken saange apesel gede juanga baan Men Sugih,0,3.0,1,0
+12,Tokoh-12,"['Ni Cili', 'Cili']",Antagonist,104, Di makirene majalan raris matur I Bintang Lara teken dedari Supraba muah Ni Cili Inggih Cokor I Dewa driki dumun titiang pacang tangkil ring Ida Anake Agung ngaturang Gagak Petake puniki,0,4.0,1,1
+105,Tokoh-11,"['Me Lutung', 'I Lutung', 'Lutung', 'Men Lutunge', 'I Lutunge', 'meme Lutung', 'me Lutung']",Protagonist,225, Maklyeng lantas I Lutung nyaru-nyaru mulih lantas makecos ya ke nebe,0,0.0,1,1
+15,Tokoh-2,['Ni Bulan Kuning'],Protagonist,14, Ni Bulan Kuning tengkejutningeh sabda,0,0.0,1,0
+74,Tokoh-3,"['Ida Anake Agung', 'anake agung', 'Ida anake Agung', 'Ida Anake agung', 'Ida anake agung']",Antagonist,35, Sane mangkin akeh aminggu Jayaprane miwah Layonsari merabian wenten utus Ida Anake agung nganikayang mangda I Jayaprana lunga ka Celuk Trima,0,4.0,1,1
+73,Tokoh-1,['I Wingsata'],Antagonist,72, Pusakane jeg malesat buka roket nambung ngalahin I Wingsata,0,0.0,1,0
+76,Tokoh-8,"['panyatusan bikul', 'para bikule']",Protagonist,42, Becat sajan para bikule mutbutin bulun Gerudane,0,2.0,1,0
+37,Tokoh-3,"['Batari Durga', 'Ida Betari Durga', 'paduka Betari']",Protagonist,7, Ah kene baan nyanan petenge lakar mabakti ke Pura Dalem mapinunas teken Batari Durga apang dadi manusa,0,3.0,1,0
+44,Tokoh-5,"['i angsa luh muani', 'angsa mabulu putih luh muani', 'angsa ajak dadua']",Antagonist,27, Sakewala krana icang ajak dadua tusing nyidang makeber sinah nyak Cai Angsa ajak dadua nulungin icang makisid uli dini I Empas ngidih olas,0,3.0,1,0
+17,Tokoh-3,"['anak muani bajang', 'anake bajang ento', 'anake muani ento', 'Anake muani ento', 'anake ento', 'anak bajang ento', 'anake bajang ene', 'anak bajange ento', 'anak bajang', 'anake']",Protagonist,63, Mara ningalin Dadong Jepun teka mara suud anake bajang ento kajagurin,0,2.0,1,1
+108,Tokoh-2,"['Sang Aji Saka', 'Aji Saka']",Protagonist,8, Kasuen-suen uning panjake indik kaweruhan iwau sane kaicenin Sang Aji Saka,0,0.0,1,1
+115,Tokoh-2,"['Ni Luh Lancah', 'Luh Lancah', 'Luh LAncah']",Antagonist,58, Luh Lancah ngabag bengbengan I Biing misi abungkul jemaka,0,0.0,1,1
+42,Tokoh-1,"['Ni Luh Arum', 'Ni Luh Arume', 'Luh Arume', 'Luh Arum', 'Luh', 'Luh arum']",Antagonist,77, Suba peteng nyarepetang teka Luh Arum ngenyitang damar di balene lantas Ia ka meten dapetanga I Donglen suba ditu magulung baan tikeh ngruguh dunduna ban Luh Arum,0,0.0,1,1
+56,Tokoh-3,['I Klaleng'],Antagonist,10, Tonden teked baduur I Klaleng ulung,0,0.0,1,0
+117,Tokoh-1,"['I Ketimun Mas', 'Ketimun Mas']",Protagonist,47, Tekepina I Ketimun Mas aji grobag tetehina aji lesing batu,0,0.0,1,1
+24,Tokoh-3,"['I Blatuk', 'Blatuk']",Antagonist,17, Awinan palungguh Cokor I Dewa nauhin titiang napi sane wenten wacanaang ring titiang Ngandika Ida Sang Prabu Ih cai Blatuk ne ada panguning I Baluan tekening icang,0,4.0,1,0
+98,Tokoh-10,['memene'],Antagonist,65, memene kengkenang bungkunge jani dadi tusing nyak mas ane tapleka Masaut Men jempenit,0,0.0,1,0
+105,Tokoh-2,"['Ida Raden Galuh Daha', 'I Nanak Galuh', 'Raden Galuh', 'Ida Raden Galuh', 'Raden Galuhe', 'Raden Galuh', 'Galuh Daha', 'raden galuh', 'I Raden Galuhe', 'I Radem Galuh', 'i raden galuh', 'ratu Raden Galuh', 'galuh Daha', 'I Galuh Daha']",Protagonist,121, Suba ya neked jumah ngandika raden galuh,0,4.0,1,1
+14,Tokoh-1,['Pan Badung'],Antagonist,11, Nganinin indike punika raris Pan Badung ngrincikan jaga ngintip leluasan pianakne ngarereh saang,0,0.0,1,0
+9,Tokoh-1,"['I Belog', 'Belog']",Antagonist,27, Lantas ia pesu ngalih I Belog,0,-5.0,1,1
+97,Tokoh-1,"['Pan Balang Tamak', 'Pan Balang Tamake']",Antagonist,40, Mara neked ditu enota Pan Balang Tamak jerit-jerit lantas takonina Apa kendehang Pan Balang Tamak Masaut Pan Balang Tamak kene pasautne Pangkung tra ada titina,0,0.0,1,0
+111,Tokoh-2,"['paksi Muun', 'i paksi Muun', 'Sang Muun']",Antagonist,9, Sang Muun raris meju sastsat kadi taluh bebek ageng bacin ipune,0,5.0,1,0
+36,Tokoh-3,"['Kelian banjar', 'Jro Kelian Banjar', 'jro kelian', 'Jro kelian', 'jero kelian', 'jrone', 'jro kelian banjar']",Antagonist,65, Iteh jro kelian ngisep kanti bek bibihne misi tain cicing,0,-2.0,1,1
+29,Tokoh-1,"['I Belog', 'Belog']",Antagonist,5, I Belog lantas ngomong Luh-luh nyak mekurenan ngajak icang,0,-4.0,1,1
+100,Tokoh-5,"['Raden Galuh', 'Cening Galuh', 'cening']",Protagonist,25, Suba jani sanja mantuk kone Raden Galuh,0,0.0,1,0
+85,Tokoh-2,"['I Kancil', 'Kancil', 'Cil']",Protagonist,12, Ih Kancil mula belog cai,0,-5.0,1,0
+117,Tokoh-1,"['I Ketimun Mas', 'Ketimun Mas']",Protagonist,51, Ngarod I Ketimun Mas ngeling di tengah grobage mateteh lesung,0,0.0,1,1
+17,Tokoh-2,"['anak luih jegeg', 'anake luh ento', 'Anake luh jegeg ento', 'luh ento', 'anak luh jegeg']",Protagonist,35, Suud keto anak luh jegeg ilang dadi kakupu putih makeber ngiterin Dadong Jepun,0,2.0,1,0
+80,Tokoh-6,"['i kunang-kunang', 'I kunang-kunang', 'I Kunang-kunang']",Antagonist,16, I Kunang-kunang dabdab nyutin mangkin dumun jero pecalang,0,0.0,1,1
+102,Tokoh-1,"['I Kedis cangak', 'I Kedis Cangak', 'Sang Cangak', 'sang cangak', 'Sang cangak', 'sang cangake']",Antagonist,7, Punika mawinan akeh ulame pade bengong ngantenang sang cangak matiosan saha purun mapitaken napi mawinan Sang cangak nenten kayun malih mamangsa soroh ulam Sang Cangak makenyir saha mapajar ring para ulame mungguing napi sane kalaksanayang wantah titah Ida Sang Hyang Embang,0,4.0,1,1
+96,Tokoh-15,['I Giur'],Protagonist,142, Dadi buka tujuang ditu singala pianakne I Giur ne maotonan,0,0.0,1,0
+13,Tokoh-1,"['Ni Murdani', 'Murdani']",Antagonist,59, Ni Murdani nyuti rupa dadi Dewi,0,0.0,1,1
+54,Tokoh-1,['I Kerug'],Antagonist,34, Tusing kerasa pitung dina I Kerug nongosin palalian pipisne dasa yuta suba telah,0,0.0,1,0
+74,Tokoh-1,"['I Jayaprana', 'Jayaprana', 'I Jayaprna', 'I jayaprana', 'Jayaprane']",Protagonist,42, Sakemanten daging sualapatra Anake Agung ketiba ring Jayaprana,0,0.0,1,0
+37,Tokoh-3,"['Batari Durga', 'Ida Betari Durga', 'paduka Betari']",Protagonist,37, Ida Betari Durga lugra,0,0.0,1,0
+27,Tokoh-5,"['anak luh', 'Makejang anake luh', 'Anake luh ento', 'Luh']",Protagonist,72, Anake luh ento suba nawang urah arih anak nganten,0,0.0,1,1
+29,Tokoh-2,"['memenne', 'Meme', 'Memenne', 'meme', 'meme I Belog']",Protagonist,29, Memenne lantas macelep mulihan saget dapetanga ada bangke sube berek,0,0.0,1,1
+100,Tokoh-4,"['Mantri Koripan', 'Ida Mantri Koripan']",Antagonist,38, Ditu lantas nagis Ida Mantri Koripan,0,0.0,1,1
+102,Tokoh-3,"['ulame', 'ulam', 'akeh ulame', 'para ulame', 'makasami ulame', 'Makasami ulame', 'ulame sami', 'Para ulame']",Protagonist,20, Punika mawinan para ulame magarang nagih mangda gelis kakisidang kagenahe punika,0,1.0,1,1
+44,Tokoh-3,"['empase ane lua', 'empas lua', 'Empas Lua', 'i empas lua', 'I Empas lua', 'Luh', 'empase luh']",Protagonist,8, Luh apa nyai suba nawang Ento ditu tolih Jani nyai suba ngelah timpal di tlagane ene,0,0.0,1,0
+108,Tokoh-2,"['Sang Aji Saka', 'Aji Saka']",Protagonist,34, Pinunas I panjak kadagingin raris Sang Aji Saka dados Prabu Medang Kamulan,0,0.0,1,1
+28,Tokoh-1,"['I Belog', 'Belog']",Protagonist,33, Disubane beten duduka ban I Belog tur punduhanga,0,-5.0,1,1
+17,Tokoh-1,"['Ni Jepun', 'Dadong Jepun', 'Dadong', 'Dong']",Protagonist,45, Kadirasa sakancan isin gumine bungah prajani mara ningehang Dadong Jepun mupuh,0,0.0,1,1
+8,Tokoh-2,"['belibis putih', 'kedise', 'kedis Belibis Putih', 'Belibise', 'belibise', 'I Belibis Putih']",Protagonist,92, Di nujune mutusang wicara ane keweh-keweh Narajana setata ngidih itungan teken I Belibis Putih,0,0.0,1,1
+79,Tokoh-1,"['I Kidang', 'I Kidange', 'kidang', 'Kidang']",Protagonist,22, Yan prade I Kidang makaukan lantas cai masaut,0,0.0,1,1
+29,Tokoh-2,"['memenne', 'Meme', 'Memenne', 'meme', 'meme I Belog']",Protagonist,42, Sambilanga ngomong keto lantas memenne kejuk tur kapaid ka aba ka semer,0,1.0,1,1
+34,Tokoh-2,"['samong', 'Sang Samong', 'Samong', 'I Samong']",Antagonist,8, Yen nyak cai nulungin awake mesuang uli dini awake masanggup tuara lakar mencanen sesaman ibane dadi manusa I Botol ne mula medalem Sang Samong tusing buin ia minehin lakar kadadianne mani puan,0,4.0,1,1
+88,Tokoh-1,"['Pan Brayut', 'De Brayut']",Protagonist,43, Masaut De Brayut buka suarga rasan keneh bapanne nepukin pianak mantune makejang nah jani lakar luas nukuhin,0,0.0,1,0
+111,Tokoh-2,"['paksi Muun', 'i paksi Muun', 'Sang Muun']",Antagonist,5, Masaut Sang Muun ah mapi-mapi iba tuara nawang degag tingkah ibane teken kai ne tui ratuning paksi uli delod pasih,0,-5.0,1,0
+80,Tokoh-2,"['I lutung', 'I Lutung']",Antagonist,31, I Singa ngeraos ih I Lutung adakeh iba nepukin pakeweh nabdabang gumine I Lutung mesaut nawegan sang prabu ipun lembu sane purun tempal ring iratu manah ioune mebalik ipun jagi ngadu ring iratu,0,0.0,1,1
+94,Tokoh-4,"['Mantri koripan', 'Raden Mantri', 'Ida Raden Mantri', 'I Mantri Koripan', 'mantri Koripan']",Protagonist,31, Teked di puri lantas tambanina Raden Mantri lantas prajani ilang punyan nyuhe teken punyan padine,0,0.0,1,0
+13,Tokoh-4,['Bhatara Wisnu'],Protagonist,29, Wus masabdha Bhatara Wisnu matulak ka kahyangan,0,0.0,1,0
+66,Tokoh-1,['I Menceng'],Antagonist,4, I Menceng anak mula menceng pesan demen ngorah-ngorahin timpal,0,3.0,1,0
+6,Tokoh-1,"['I Nyoman Jater', 'I Nyoman jater', 'Nyoman Jater']",Protagonist,88, Kabatek baan lengahne I Nyoman Jater enggal ia mulih nyuun pelasne ento,0,0.0,1,1
+63,Tokoh-4,['I Widara'],Protagonist,48, Teked jumah I Mandalane I Widara ngorahang bangkene suba pragat matanem,0,0.0,1,0
+92,Tokoh-5,"['sudagare', 'Sudagare', 'sudagar', 'I Sudagar']",Antagonist,41, Nah yen cai makeneh dadi sudagar misi pinunas caine,0,0.0,1,0
+17,Tokoh-1,"['Ni Jepun', 'Dadong Jepun', 'Dadong', 'Dong']",Protagonist,74, Sajaan ento Dong,0,0.0,1,0
+69,Tokoh-1,"['I Kancil', 'Kancil']",Antagonist,26, I Kancil lantas ngaukin I Siput Siput dija caine I Siput masaut Icang dini dimuka caine,0,0.0,1,1
+28,Tokoh-1,"['I Belog', 'Belog']",Protagonist,26, Kacarita suba pragat paitungane bakal ngajak I Belog ka alase ngalih duk,0,-5.0,1,1
+23,Tokoh-1,"['I Balu Kawanan', 'Beli Kawanan']",Protagonist,23, Buin manine buin I Balu Kawanan kema,0,0.0,1,0
+53,Tokoh-2,"['kedis goak', 'I Goak', 'Goak', 'I Goal']",Protagonist,32, Sawireh keto munyin I Kepuhe lantas ditu I Goak mataluh telung bungkul,0,0.0,1,1
+20,Tokoh-8,"['Biang raden galun', 'biang Raden Galuh', 'biang galuh', 'Biang Raden Galuh', 'I Biang', 'Biang']",Antagonist,22, Biang icen ja tiang laklak abungkul tiang seduk pesan,0,0.0,1,0
+65,Tokoh-3,"['Pekak Dukuh', 'I Pekak Dukuh', 'I Dukuh']",Antagonist,15, Gelising satua sedek iteha Pekak Dukuh ngae basa teka lantas I Lutung sig I Kakuane,0,0.0,1,0
+96,Tokoh-1,"['Pan Angklung Gadang', 'Bapa Angklung Gadang', 'Pan Angklung Gadange', 'Angklung Gadang', 'I Angklung Gadang']",Antagonist,28, Pan Angklung Gadang masih bareng nglesitang kamben nyongkok duur batune di luanan Ida Anake Agung tur ia maseden mligedan mesuang bacin,0,0.0,1,1
+99,Tokoh-14,"['bikule', 'bikul', 'I bikul', 'bikule totonan', 'bikul', 'bikule ento']",Antagonist,85, Jani cicinge bikule miwah meyonge sayangange lebihan tekening nyayangang jelema tekening Men Poleng ajaka Pan Poleng,0,4.0,1,0
+18,Tokoh-8,"['Sang Dewi', 'Dewi']",Protagonist,15, Raris Sang Dewi ngambil sekar miwah dupa mamuja nguncarang mantra punika,0,0.0,1,1
+42,Tokoh-1,"['Ni Luh Arum', 'Ni Luh Arume', 'Luh Arume', 'Luh Arum', 'Luh', 'Luh arum']",Antagonist,30, Masaut I Donglen Nah Luh masare suba maluan icang bin kejepan kadong matan icange ulap sing bani teken damar,0,2.0,1,0
+108,Tokoh-2,"['Sang Aji Saka', 'Aji Saka']",Protagonist,6, Gelisang satua Sang Aji Saka sampun duur tur madue pusaka keris kadulurin parekan kakalih sane mawasta I Sambada sareng I Dora,0,0.0,1,1
+11,Tokoh-2,"['Sang Utamaniu', 'Sang Utamaniune', 'Ida Sang Utamaniu']",Antagonist,53, Kapiwelasan Ida Hyang Bhagawan nyingak Sang Utamaniu lantas kawantu kanti sida munggah uli semere,0,0.0,1,0
+74,Tokoh-1,"['I Jayaprana', 'Jayaprana', 'I Jayaprna', 'I jayaprana', 'Jayaprane']",Protagonist,7, I Jayaprana kakasuban ring panjake sami mawinan kebagusan nyane,0,0.0,1,1
+18,Tokoh-7,"['brahmana sakti', 'sang brahmana sakti', 'Sang Brahmana', 'Sang Brahma']",Protagonist,8, Drika Dewi Kunti taler sareng ngaturang ayah nyanggra pangrauh sang brahmana sakti,0,2.0,1,1
+117,Tokoh-3,"['I Raksasa', 'I Raksasa ento']",Antagonist,13, I Raksasa tusing ampakina jlanan,0,0.0,1,0
+120,Tokoh-2,"['I Kekua', 'I kekua', 'Kekua', 'kekua']",Antagonist,19,Ditu I Kekua pedih Nah,0,-5.0,1,1
+98,Tokoh-13,"['i bikul', 'bikul']",Protagonist,92, Mara neked asetengahan tukad takonina i meong teken i bikul,0,0.0,1,1
+116,Tokoh-3,"['Meng Kuuk', 'Jero Meong', 'I Meng Kuuk', 'jero para meong']",Antagonist,41, Nyanan yen lakar amaha teken I Meng Kuuk duegang bane madaya,0,0.0,1,1
+96,Tokoh-5,"['Jro Kelian', 'Jero Kelian', 'Jero Klian', 'Jero Kalian', 'jero', 'jerone']",Antagonist,37, kacerita jani krama banjare suba pepek masangkepan ditu laut Jero Klian ngujangang kramane ne mutranin,0,0.0,1,1
+94,Tokoh-2,"['Ida Raden Galuh Daha', 'Ida Raden Galuh', 'Raden Galuh', 'Ida Raden Gal uh', 'I Galuh Daha', 'Cening Nanak Galuh']",Protagonist,6, kacerita Mantri Koripan sedek maboros di alase ento kairing ban parekanidane lantas panggihin Ida Raden Galuh,0,0.0,1,1
+118,Tokoh-2,['Ida Sang Prabu'],Antagonist,54, Ditu lantas Ida Sang Prabu matandang wirang teken I Aget,0,0.0,1,0
+23,Tokoh-3,"['Beli Wayan', 'Beli', 'Bli', 'beli', 'bli']",Protagonist,47, Nah anggo nguup baas ja jani baas ya gelahang beli keto I Balu Kawanan,0,0.0,1,1
+21,Tokoh-3,"['bapane I Getap', 'bapane', 'Bapane I Getap']",Protagonist,39, Suba luung bayune mara matakon bapane nguda dadi kene unduk pianakne,0,0.0,1,0
+85,Tokoh-1,"['I Lutung', 'Lutung', 'Tung']",Antagonist,48, Kacerita teka suba I Lutung ngaba nyambu teken kayu anggona ngebug,0,0.0,1,1
+96,Tokoh-12,"['bapane', 'bapa', 'Bapa', 'Bapane']",Protagonist,94, Buin duk sangkepane ne abulan masih bapa tusing mayah putra sangkal nikel ina,0,1.0,1,1
+8,Tokoh-2,"['belibis putih', 'kedise', 'kedis Belibis Putih', 'Belibise', 'belibise', 'I Belibis Putih']",Protagonist,30, Belibise ngorahang dewekne nawang tongos bene mapunduh,0,0.0,1,1
+105,Tokoh-2,"['Ida Raden Galuh Daha', 'I Nanak Galuh', 'Raden Galuh', 'Ida Raden Galuh', 'Raden Galuhe', 'Raden Galuh', 'Galuh Daha', 'raden galuh', 'I Raden Galuhe', 'I Radem Galuh', 'i raden galuh', 'ratu Raden Galuh', 'galuh Daha', 'I Galuh Daha']",Protagonist,288, Prajani lantas Ida maputusan ka Daha nguningang okan Idane Raden Galuh suba di Koripan kakeniang di alase antuk I Raden Mantri,0,0.0,1,1
+17,Tokoh-5,"['I krama lenan', 'krama desane', 'krama desa', 'Krama desa']",Antagonist,96, Sujatine Dadong keto masih krama desa ajak makejang,0,0.0,1,1
+105,Tokoh-2,"['Ida Raden Galuh Daha', 'I Nanak Galuh', 'Raden Galuh', 'Ida Raden Galuh', 'Raden Galuhe', 'Raden Galuh', 'Galuh Daha', 'raden galuh', 'I Raden Galuhe', 'I Radem Galuh', 'i raden galuh', 'ratu Raden Galuh', 'galuh Daha', 'I Galuh Daha']",Protagonist,181, suba maan saang lantas epot raden galuh nepeng,0,0.0,1,1
+120,Tokoh-8,"['Ida sang prabu', 'Ida Sang Prabu', 'Ida Sang Prabhu', 'Sang prabu', 'ida Sang prabu']",Protagonist,93,keto pinunasne I Lutung raris Ida sang prabu gelis mapaica,0,5.0,1,1
+82,Tokoh-1,"['I Lutung', 'Lutung']",Antagonist,9, Tan panaen saget teka I Lutung nelokin I Kekua sambilanga kedek ingkel-ingkel sambilana ngraos Kaden wake iba suba bangka I Kekua masut Uduh iba Lutung pelih pisan tetenger ibane wireh dinane mani wake lakar keantenang ngajak Luh Ayu Kantrungan tur wake dini maura baan amah-amahan,0,6.0,1,1
+54,Tokoh-1,['I Kerug'],Antagonist,28, I Kerug lantas milu maceki kanti makelemah,0,0.0,1,0
+86,Tokoh-1,"['macan', 'I Macan', 'Macan']",Antagonist,1,Kacarita di tengah alase ada macan makasian teken meng,0,0.0,1,1
+10,Tokoh-9,"['Cening', 'ceninge', 'cening']",Protagonist,38, Uduh Cening Maharaja Pretu Luih pesan parilaksanan ceninge nitahang panjak,0,3.0,1,1
+16,Tokoh-1,"['Cicing Alas', 'I Cicing Alas']",Antagonist,50, I Cicing Alas salah tampi,0,0.0,1,1
+108,Tokoh-2,"['Sang Aji Saka', 'Aji Saka']",Protagonist,38, Nanging I Dora tan nguehin kerise I sambada duaning wenten piteket Sang Aji Saka duke dumun Dora yan ada anak nagih pusakane elenan teken titiang da pesan banga,0,1.0,1,1
+72,Tokoh-1,"['I Ubuh', 'U-buh', 'Ubuh']",Protagonist,93, Liwat I Ubuh uli bangbange,0,2.0,1,1
+55,Tokoh-2,"['I Macang Poleng', 'I Macan']",Antagonist,78, Dadi anyud kone I Macan ngelur katulung-tulung sing ada ane ngerunguang,0,0.0,1,0
+96,Tokoh-10,"['cicingne', 'cicing', 'Cicingne']",Antagonist,84, Dening basang cicing suba puntedan kanti ngencotang pesan I Wayan Sebetan ngiup jit cicingne kandugi magadeblos memesu tai katos macelep ngliwat kakolongan cangkemne masih bek ngemu tai,0,0.0,1,1
+45,Tokoh-6,"['I empas', 'i empas', 'empas']",Protagonist,32, Gelisang satua I empas sampun kekeberang olih I angsa ngalerang,0,0.0,1,1
+29,Tokoh-1,"['I Belog', 'Belog']",Antagonist,50, Payu I Belog mati,0,-9.0,1,1
+51,Tokoh-2,"['I Lutung', 'Lutung', 'I Liutung']",Antagonist,27, I Lutung matakon Kengken idep Ibane Keker Jalan jenek lantas dini nyak Kai demen pesan dini eda suba buin malipetan ka tongose pidan apang Kai mokohan malu bin abedik I Keker nyautin Lutung wake ada perlu abedik buin mani lakar mulih yen Iba kan dini pang wake dogen mulih bin mani nah Iba selegang suba malu dini Mara keto I Keker ngraos sada jejeh kenehne I Lutung lakar kalahina ban I Keker mulih,0,-4.0,1,1
+6,Tokoh-2,"['I Blenjo', 'Blenjo', 'Njo']",Antagonist,74, I Blenjo inceg jani ngalih don tlujungan pitung papah laut nyakcak bawang jae muah kunyit ulian apaso lantas nyemak nyuh abungkul laut polesa aji basanne lantas kaputa aji don tlujungan suba keto mara kuskusa,0,0.0,1,1
+105,Tokoh-2,"['Ida Raden Galuh Daha', 'I Nanak Galuh', 'Raden Galuh', 'Ida Raden Galuh', 'Raden Galuhe', 'Raden Galuh', 'Galuh Daha', 'raden galuh', 'I Raden Galuhe', 'I Radem Galuh', 'i raden galuh', 'ratu Raden Galuh', 'galuh Daha', 'I Galuh Daha']",Protagonist,276, Ditu lantas I Raden Galuh nuturang raga,0,0.0,1,1
+64,Tokoh-1,"['I Lutung', 'Lutung', 'Tung', 'I utung']",Antagonist,9, I Lutung lantas maakin,0,0.0,1,1
+100,Tokoh-1,['Pan Tuung Kuning'],Antagonist,10, Pan Tuung Kuning nelokin jeetne ka bianne depanga lantas I Bikul kena jeet suba mati,0,-4.0,1,0
+115,Tokoh-1,"['I Pagul', 'Bli Pagul', 'Beli Pagul', 'Bli', 'Beli']",Protagonist,41, Buin ajahine teka I Pagul uli abiane negeh nyuh roras bungkul muah nengteng kisa misi umbi-umbian,0,0.0,1,0
+98,Tokoh-18,"['i dadeleg', 'i deleg', 'deleg']",Antagonist,118, suba keto alihina lantas bungkunge makelo-kelo bakatanga lantas ban i deleg laut baanga i kedis muwun,0,0.0,1,1
+95,Tokoh-6,['Sang Akupa'],Protagonist,11, Sang Akupa ratun empase katunasicain mangda nyangga Mandara Girine pinaka dasar,0,0.0,1,0
+30,Tokoh-3,"['Anake gede selem', 'I gede selem', 'I Gede selem', 'anake gede selem ento']",Protagonist,40, Suba keto teka I Gede selem ngaba meri bulune alus awakne kedas tur jangih pesan munyine,0,6.0,1,1
+12,Tokoh-3,"['I Bintang Lara', 'Bintang Lara', 'I Bintang Larane', 'adi Bintang Lara', 'adi', 'I adi', 'Adi Bintang Lara', 'Adi']",Protagonist,100, Keto munyine I Bintang Lara,0,0.0,1,1
+96,Tokoh-1,"['Pan Angklung Gadang', 'Bapa Angklung Gadang', 'Pan Angklung Gadange', 'Angklung Gadang', 'I Angklung Gadang']",Antagonist,23, Bumara ia masila tur nunas lugra lantas Ida ngadeg nglaut ninjak tendas Pan Angklung Gadange kadulurin pangandikan bangras kaki klewaran ibane ngajahin sangkan bisa iba menpenin kompek gelahe tain jaran Mara amonto Ida ngandika buin ningtingang cokor ukuh ninjak enggalan kagelut cokor Idane teken Pan Angklung Gadang sambilanga matur sisip Inggih Ratu Dewa Agung duaning Cokor I Dewa ngandikaang titiang lamun ada ulung uli di jarane duduk nyen penpen di kompeke asapunika pangandikan cokor idewa ring titiang,0,8.0,1,1
+36,Tokoh-3,"['Kelian banjar', 'Jro Kelian Banjar', 'jro kelian', 'Jro kelian', 'jero kelian', 'jrone', 'jro kelian banjar']",Antagonist,37, Sampunang ngandika sakadi punika jro kelian,0,4.0,1,1
+67,Tokoh-7,"['I Kedis Goak', 'I Goak', 'Goak']",Antagonist,19, He sampi dadi icang masuwitra ngajak cai Gak gak gak saut I Goak,0,0.0,1,1
+54,Tokoh-1,['I Kerug'],Antagonist,17, Ada pitung lemeng I Kerug matanja mara payu tegalne belina teken kelihan desa aji dasa yuta,0,0.0,1,0
+117,Tokoh-1,"['I Ketimun Mas', 'Ketimun Mas']",Protagonist,17, Morahan I Ketimun Mas Meme ibusan ada anak kauk-kauk,0,0.0,1,1
+2,Tokoh-2,"['I Kerkuak', 'Kerkuak', 'kerkuak']",Antagonist,24, Masaut lantas I Kerkuak yiihhh ngudiang bene telah ilang nyen ja ngamah ne bisa ada cicing mai dibi petengne iya mirib ngamah bene onyangan,0,0.0,1,1
+102,Tokoh-6,['bapa'],Antagonist,10, Kapatut bapa ngelarang ajahan dharma using buin nglaksanayang himsa karma,0,0.0,1,0
+73,Tokoh-2,"['I Sigara', 'I Segara', 'Sigara']",Protagonist,8, Diastun keto I Sigara kumuh ia jemet magarapan tur setata inget nunas ica ring Ida Sang Hyang Parama Kawi,0,4.0,1,1
+73,Tokoh-1,['I Wingsata'],Antagonist,20, Mara keto jeg ambisa kone pipise laut mlaib I Wingsata lakar meli tuak,0,0.0,1,0
+22,Tokoh-2,"['alu gede gati', 'Alune ento', 'alu', 'I Alu', 'Alu', 'alune ento']",Antagonist,21, I Alu mepineh kene,0,0.0,1,1
+113,Tokoh-10,"['Ida Sang Yogi Sutiksna', 'Ida Sang Resi Yogi Sutiksna', 'Ida Resi Sutiksna']",Protagonist,25, Ida Sang Resi Yogi Sutiksna patut anggen I dewa kanti,0,4.0,1,0
+12,Tokoh-15,"['Dewi Supraba', 'dedari Supraba', 'Ida Dedari Supraba', 'Ni Supraba', 'Ni supraba', 'dedari Suprabane']",Protagonist,119, Yeh yen keto de keweh ento jemak nyuhe abungkul Lantas nyemak kone nyuh abungkul tur tengtenga kone teken I Bintang Lara ento pastune teken Ni Supraba Nah iba nyuh yen suba neked di purian moga apang dadi tabuan ngebekin puri Nah di subane I Bintang Lara neked di purian katurang nyuhe ento,0,0.0,1,1
+48,Tokoh-1,"['Kasiapa Kepuh', 'Kasiape Kepuh', 'I Kasiape Kepuh', 'punyan Kasiape Kepuh']",Antagonist,34, Irika ida maosang indik naga galak sane meranen pisan magenah ring tegale linggah Goaknyane di punyan Kasiape Kepuh,0,-2.0,1,1
+113,Tokoh-1,"['Sang Rama', 'Ida Sang Rama', 'Dewa Sang Rama']",Protagonist,35, Yadiastun asapunika pikayunanida teher pageh ngamargiang tapaberata ri kala rahina malih Sang Rama masusupan ring alase pikayunanida gumanti pacing maburu,0,0.0,1,0
+76,Tokoh-10,"['panjak-panjak idane', 'Panjak Puri Kertha Bumine', 'Panjak-panjak Puri Kertha Bumi', 'panjak-panjak Puri Kertha Bumi', 'panjak idane']",Antagonist,1,Prabu Suliawana nitahang panjak idane ngejuk kedis Geruda ane ngrebeda,0,3.0,1,0
+52,Tokoh-5,"['Kelesih', 'I Kelesih']",Protagonist,15, Ditu ia I Kelesih di nebe nyangkrut,0,0.0,1,1
+118,Tokoh-1,['I Aget'],Protagonist,16, Nyumingkinang ngedegang dogen kenehne I Aget,0,0.0,1,0
+10,Tokoh-3,"['Ida Sang Prabu', 'Ida Sang prabu', 'sang prabu', 'ida sang prabu', 'Ratu sang prabu', 'Ratu Sang Prabu']",Protagonist,5, Ento mawinan panjake makejang marasa bagia tur subakti teken Ida Sang prabu,0,8.0,1,1
+63,Tokoh-4,['I Widara'],Protagonist,54, Teked jumah I Mandalane I Widara buin ngatonang bangken I Lengare enu ditu,0,0.0,1,0
+115,Tokoh-5,"['I Grungsung', 'I Grungsang', 'I grungsang']",Protagonist,34, I Saa-sangkur masih milu itep noltol jagung ebeta baan I Grungsang,0,-2.0,1,1
+2,Tokoh-2,"['I Kerkuak', 'Kerkuak', 'kerkuak']",Antagonist,31, Teka lantas I Cicing gudig nagih ngidih bene I Kerkuak We kerkuak baang ja icang ngidih bene abedik basang icange layah tusing maan ngamah,0,1.0,1,1
+17,Tokoh-1,"['Ni Jepun', 'Dadong Jepun', 'Dadong', 'Dong']",Protagonist,16, Dadong Jepun kala ento sedek mabakti di sanggah kamulane ane suba remek kayune amah seksek,0,0.0,1,1
+82,Tokoh-3,"['dane Dukuh Kantrungan', 'Jero Dukuh', 'dukuh Kantrungan', 'jero', 'Dukuh Kantrungan', 'dane dukih', 'dane jero Dukuh', 'Jero Dukuh Kantrungan', 'dane Jero Dukuh Kantrungan']",Antagonist,5, Jero Dukuh puniki jua pirengan I Kekua ia manyingid Di batan tengkulak I Lutung ia bubuan Menek di kayu ia manyingid Ih dukuh Kantrungan Nyen alih jero jani Dukuh Kantrungan ngenggalang ngungkab tengkulak,0,0.0,1,1
+44,Tokoh-12,"['i angsa', 'angsa', 'Angsa']",Antagonist,47, Ento tusing ja len teken tain sampi tuh kakeberang angsa,0,0.0,1,1
+17,Tokoh-1,"['Ni Jepun', 'Dadong Jepun', 'Dadong', 'Dong']",Protagonist,57, Sengap paling Dadong Jepun mangiwasin,0,0.0,1,1
+28,Tokoh-1,"['I Belog', 'Belog']",Protagonist,44, Sawireh I Belog ia belog kewala maan magandong mategen mulih uli di alase sangkal kayang jani di Bali yen ada anak belog kewala pekel kaadanin jlema belog megandong,0,-20.0,1,1
+23,Tokoh-3,"['Beli Wayan', 'Beli', 'Bli', 'beli', 'bli']",Protagonist,25, Oo beli mara teka,0,0.0,1,1
+45,Tokoh-7,"['Ratu', 'I Ratune', 'I Ratu']",Antagonist,22, Yang ten iwang antuk titiang narka I Ratu wantah ngardinin kenak pekayunang I Ratu kewanten tan wenten nyaksi kesaktian miwah kbayaparan titiang,0,-1.0,1,1
+93,Tokoh-2,"['sang prabu', 'ida sang prabu', 'Sang prabu', 'prabu']",Protagonist,3, Yan kopamayang kawibawanida sang prabu wyakti tan bina kadi Sanghyang Wisnu nyakala tan mari ngetisin jagat,0,0.0,1,1
+120,Tokoh-1,"['I Lutung', 'Lutung', 'lutung', 'I lutung']",Antagonist,92,Ditu lantas I Lutung Maatur Yening palungguh I ratu sueca ring titiang titiang jagi nunas cengceng acakep kendang asiki ayam asiki asu asiki,0,0.0,1,1
+23,Tokoh-2,['I Balu Kanginan'],Antagonist,34, beli wayan apa lacur siap beline suba mati teteha baan celenge ibi sanja keto I Balu Kanginan,0,-4.0,1,0
+116,Tokoh-2,"['I Doglagan', 'Cening Doglagan', 'Doglagan']",Protagonist,67, Pas keburane ping telu mekeber lantas I Doglagan,0,0.0,1,1
+42,Tokoh-1,"['Ni Luh Arum', 'Ni Luh Arume', 'Luh Arume', 'Luh Arum', 'Luh', 'Luh arum']",Antagonist,38, Apan anak daha ngajak anak truna suba di pademan sing ja buin nyandang satuang kramane kacarita suba padha kasih dadine Luh Arum sing ja pedas teken goban I Donglen enggalan suba Ia ngenyakin,0,5.0,1,1
+11,Tokoh-9,"['Ceninge', 'Cening']",Antagonist,23, Asing ucapang Cening bakal tuutanga ban anake,0,0.0,1,0
+38,Tokoh-3,"['burone', 'burone cenik']",Protagonist,3, Dadianne pangid pesan payas tekening sesolahannyane ngranayang burone cenik pada jejeh teken cicing,0,-2.0,1,1
+105,Tokoh-11,"['Me Lutung', 'I Lutung', 'Lutung', 'Men Lutunge', 'I Lutunge', 'meme Lutung', 'me Lutung']",Protagonist,176, Sing ke meme nguluk-nguluk nira Me Lutung,0,0.0,1,1
+61,Tokoh-1,"['I Karitaka', 'Sang Karitaka']",Antagonist,4, I Karitaka katak ane setata nyalanang demen pedidi,0,3.0,1,0
+70,Tokoh-3,"['I Titih', 'Titih', 'Tittih', 'I Titih lua muani']",Antagonist,24, Nanging I Titih bengkung tusing dadi orahin lantas ia sahasa ngutgut ida anake agung,0,0.0,1,1
+6,Tokoh-1,"['I Nyoman Jater', 'I Nyoman jater', 'Nyoman Jater']",Protagonist,6, Kacerita jani I Nyoman Jater marane suud matekap lantas ia nampedang sampinne paek ka pasisi,0,0.0,1,1
+18,Tokoh-6,['Rsi Durvasa'],Protagonist,6, Kasimpangin brahmana sakti wikan sane mapesengan Rsi Durvasa garjita pisan kayun Raja Kuntibhoja,0,2.0,1,0
+110,Tokoh-2,['Sang Muun'],Antagonist,14, Mare ningeh ada kedis cerik ane mamunyi keto pedih Sang Muun tur mesaut bangras Ah iba kedis cerik mapi-mapi tuara nawang,0,-5.0,1,0
+112,Tokoh-6,"['sawatek asu alase', 'sawatek asune', 'asune makejang']",Antagonist,8, Dening keto keweh sawatek asune krana tusing bisa neda padang ambengan muah don-donan,0,0.0,1,0
+96,Tokoh-1,"['Pan Angklung Gadang', 'Bapa Angklung Gadang', 'Pan Angklung Gadange', 'Angklung Gadang', 'I Angklung Gadang']",Antagonist,145, I Giur engsek pesan makeneh jani dening bes kaliunan jani taananga len dadi ucapan bane bakat uluk-uluka teken Pan Angklung Gadang pipisne bakatanga lebak sepaa,0,0.0,1,1
+98,Tokoh-1,"['Pan Jempenit', 'pan jempenit', 'Pan jempenit']",Protagonist,37, bapane mara teke neked dija sih luase Masaut Pan Jempenit,0,0.0,1,1
+41,Tokoh-1,"['I Congeh', 'Congeh']",Protagonist,36, Di selantang jalan I Congeh ngenehang unduke sane katiba marep deweknyane tur ten engsap ia lakar nyimpen unduke ento ring keneh ipune nenten lakar orahanga teken anake lianan,0,0.0,1,1
+34,Tokoh-8,"['manusa', 'manusane', 'I manusa']",Antagonist,9, Mara ia neked diwangan laut ia magroeng tur ngomong kene munyinne Ih iba manusa taanang tendas ibane jani,0,1.0,1,0
+77,Tokoh-3,"['I Macan', 'macan']",Antagonist,40, Mara keto munyine Ni Mesaba I Macan kaliwat jejeh,0,-3.0,1,1
+103,Tokoh-9,"['Beli', 'beli']",Antagonist,22, Gelising satua ri kala Widiadari Nilotama sedeng maratengan ring paratengan tan wenten Ida madue ulam Ida jaga lunga ka pasar raris ngandika ring rabine Beli niki ajak dumun okan beline titiang ka pasar ajebos sambilang cingakin genine ring paratengan mangda sampunang ngantos padem maliha kekebe sampunang ungkabanga,0,4.0,1,1
+5,Tokoh-3,"['I Tumtum', 'Tumtum']",Protagonist,2, Kabaos duk kala rihin ring jagat Jembrana wenten jadma maparab I Tumtum antuk desan ipun pangawi matur sisip,0,4.0,1,1
+77,Tokoh-3,"['I Macan', 'macan']",Antagonist,46, Nah keto tuah amun apa ja wanene wiadin kerengne yening belog sinah lakar nepukin sengkala buka I Macan,0,-5.0,1,1
+79,Tokoh-2,"['I Cekcek', 'cekcek', 'Cekcek']",Antagonist,9, Indaang jani dini pesuang karirihan ibane apang kai nawang Keto pamunyin I Kidange lantas masaut I Cekcek nah iba kidang bas liwat-liwat iba nyakitin kuping pamunyin ibane teken kai,0,0.0,1,1
+27,Tokoh-2,"['memene', 'Me', 'meme', 'Meme', 'i meme', 'memenne', 'memene I Belog']",Protagonist,25, To meme ja ngorahang ane barak-barak to madan api,0,0.0,1,1
+69,Tokoh-1,"['I Kancil', 'Kancil']",Antagonist,10, I Kancil merasa iri teken I Siputane liu ngelah timpal,0,1.0,1,1
+17,Tokoh-3,"['anak muani bajang', 'anake bajang ento', 'anake muani ento', 'Anake muani ento', 'anake ento', 'anak bajang ento', 'anake bajang ene', 'anak bajange ento', 'anak bajang', 'anake']",Protagonist,84, Ada ane dadi pedagang petani anak tiwas buka Dadong keto masih anak ngidih-ngidih buka anake bajang ene,0,0.0,1,1
+65,Tokoh-1,"['I Lutung', 'Lutung', 'I Lutunge']",Antagonist,27, Teked ditu tengkejut ia sawireh I Lutung kenyir-kenyir,0,0.0,1,1
+114,Tokoh-1,"['I Semut Api', 'Semut Api']",Antagonist,1,I Semut Api luas marerod ngalih mamahan di tongose joh,0,0.0,1,1
+114,Tokoh-1,"['I Semut Api', 'Semut Api']",Antagonist,61, Nyen dewan caine keto patakon I Semut Api miwah I Sidem sibarengan,0,0.0,1,1
+113,Tokoh-3,"['Ida Dewi Sita', 'Dewi Sita']",Antagonist,28, Usan punika malih Ida Sang Rama Sang Laksmana miwah Ida Dewi Sita masusupan ring alas wayah,0,0.0,1,1
+41,Tokoh-3,['pianak ipune'],Protagonist,17, I Congeh digelis nyalanang jukungne jagi mulihan sinah kurenan Ian pianak ipune sampun ngantiang perahune terus mejalan dadi getihne I Congeh kadirasa ngoyong ketugan tangkahnyane becat peningalanne tusing mekedipan ningalin apa ane ada di arepan ipune,0,2.0,1,0
+48,Tokoh-2,"['kedis Goak luh muani', 'goak', 'Goak', 'I Goak', 'I Paksi Gagak', 'Goaknyane']",Protagonist,2, Ditu ade kedis Goak luh muani tur metinggah di carangnyane I Kasiape Kepuh,0,0.0,1,1
+42,Tokoh-1,"['Ni Luh Arum', 'Ni Luh Arume', 'Luh Arume', 'Luh Arum', 'Luh', 'Luh arum']",Antagonist,70, Suud suba Ia madaar Ni Luh Arum ngenggalang mulih apan panes banteng I juru pikat suud madaar lantas magedi aliha kedisne,0,1.0,1,1
+36,Tokoh-3,"['Kelian banjar', 'Jro Kelian Banjar', 'jro kelian', 'Jro kelian', 'jero kelian', 'jrone', 'jro kelian banjar']",Antagonist,61, Jro kelian lantas nyeritin somahne pianakne tur pisagane apang nyaksiang tur nepukin ia ngisep pipis uli jit cicingne,0,0.0,1,1
+110,Tokoh-1,"['kedise cerik-cerik', 'Kedise ane cerik-cerik', 'kedis cenik', 'kedise lenan']",Protagonist,11, Solahne jele pesan teken kedise lenan sabilang ada ane paek nagih cotota,0,1.0,1,0
+62,Tokoh-2,"['Sang Kadru', 'Sang Kadrune']",Antagonist,2, Kacarita ada anak madan Sang Winata kalah matoh-tohan ngajak Sang Kadru unduk Jaran Oncesrawane,0,0.0,1,0
+12,Tokoh-16,"['I Gagak Petak', 'Gagak Petak', 'I Gagak Petake', 'Gagak Petake', 'gagak petak', 'gagak petake']",Protagonist,87, kacerita dening suba makelo di umah I Raksasane suba kone gagak petake anatas makeber,0,0.0,1,1
+108,Tokoh-5,"['panjake', 'ipanjak', 'I panjak', 'panjak Medang Kemulan']",Protagonist,7, Sanunggil rahina geginanan Ipun wantah ngurukang panjake sane wenten ring Majeti indik kaweruhan makadi agama aksara sastra miwah pertanian,0,0.0,1,0
+97,Tokoh-1,"['Pan Balang Tamak', 'Pan Balang Tamake']",Antagonist,53, Nyen ngaden tra tain cicing kacerita suba pepek desane lantas Pan Balang Tamak mauar-uar kene munyine Ih jero makejang nyen ja bani naar tain cicinge totonan tiang ngupahin pipis siu,0,2.0,1,0
+51,Tokoh-2,"['I Lutung', 'Lutung', 'I Liutung']",Antagonist,35, I Lutung ngrenggeng ia makeneh sedeng demena idewek nongos dini liu gati maan dedemekan suba lakar ajaka mulih ban I Keker,0,1.0,1,1
+91,Tokoh-2,['Ni Kesuna'],Antagonist,12, Melenan pesan ngajak nyamane Ni Kesuna,0,0.0,1,0
+100,Tokoh-9,"['okan idane', 'okane']",Protagonist,37, Buin manine mara delokina Ida kema dapetang Ida okane suba seda,0,0.0,1,0
+10,Tokoh-9,"['Cening', 'ceninge', 'cening']",Protagonist,40, Apang cening nawang meme bakal mapaica bibit padi caturwarna teken cening,0,0.0,1,1
+8,Tokoh-4,['Bapa'],Protagonist,46, Yening ada emas dadi Bapa nuduk,0,0.0,1,0
+64,Tokoh-1,"['I Lutung', 'Lutung', 'Tung', 'I utung']",Antagonist,51, Suba nangked di baduur ngon pisan I Lutung ningalin I Kekua tileh seger,0,0.0,1,1
+105,Tokoh-13,['bapa'],Antagonist,253, Subane matunjel lantas I Rangsasa dadi dewa tur ngandika teken Raden Galuh cening galuh Daha cening ko olas nyupat bapa,0,7.0,1,0
+89,Tokoh-2,"['Men Tiwas', 'Tiwas']",Protagonist,3, Men Tiwas buka adane tiwas pesan nanging melah solahne tusing taen jail teken timpal,0,1.0,1,1
+5,Tokoh-1,"['wit kepuh ageng', 'wit kepuhe', 'batan wit kepuhe']",Protagonist,8, Ring pabianan ipun wenten wit kepuh ageng apuun miwah wit tiying tigang lingseh,0,5.0,1,0
+61,Tokoh-3,"['katak', 'katake', 'I Katak']",Protagonist,38, Yan kudang dina kaden suba majalan pangaptine I Lelipi Gadang jani ada kone bayune lakar ngamah katake,0,0.0,1,0
+90,Tokoh-2,"['bojog', 'I Bojog', 'bojoge', 'Bojoge']",Protagonist,5, I Bojog lantas magedi,0,0.0,1,1
+42,Tokoh-2,"['bapan Luh Arum', 'bapa', 'bapane', 'bapanne', 'Bapan Luh Arum', 'Bapan Luh Arume', 'pa', 'Bapa']",Antagonist,136, Masaut Ia bapanne dija I Donglen teka meh suba Ia mati ngutang ngutang awak,0,-4.0,1,0
+36,Tokoh-3,"['Kelian banjar', 'Jro Kelian Banjar', 'jro kelian', 'Jro kelian', 'jero kelian', 'jrone', 'jro kelian banjar']",Antagonist,48, Jro kelian demen pesan atine sawireh lakarang sugih kerana ngelah cicing ane bisa masuang pipis sesai-sai,0,4.0,1,1
+91,Tokoh-2,['Ni Kesuna'],Antagonist,7, Solah Ni Bawang ajaka Ni Kesuna matungkasan pesan tan bina cara yeh masanding teken apine,0,0.0,1,0
+12,Tokoh-7,"['memene', 'Meme', 'meme', 'me']",Antagonist,98, lega pesan kenehne Men Bekung tur geluta panakne saha mamunyi kene Duh Dewan titiange Cening kaden Meme Cening suba mati nu irib kapo I Dewa Men kenken maan Cening Gagak Petak,0,-4.0,1,1
+55,Tokoh-4,"['I Bojog', 'bojog', 'Bojog', 'bojog cekah', 'I Bojog Ireng']",Antagonist,40, I Bojog nyagjag sada ngejengit ngedengang giginne ane mangan merasa teken awakne ririh ikuh I Macan Polenge paida,0,0.0,1,1
+53,Tokoh-1,"['punyan kepuh gede tur tegeh', 'I Kepuh', 'Kepuh']",Antagonist,26, Makelo-kelo seger I Kepuh,0,0.0,1,1
+30,Tokoh-2,"['merine ento', 'Merine bengil ento', 'merine', 'ri', 'merin titiange', 'merin icange', 'meri', 'merine Pan Meri', 'meri icange', 'Meri icange', 'merine bengil ento', 'meri Pan Meri']",Protagonist,59, Kacerita meri Pan Meri suba mataluh makelo-kelo mapianak,0,0.0,1,1
+30,Tokoh-1,['Pan Meri'],Protagonist,12, Bagia atine Pan Meri ngelah ubuhan jemet buka keto,0,7.0,1,0
+63,Tokoh-1,"['I Lengar', 'Lengar', 'I Lengar paing keliha', 'I Lengar paling keliha', 'Ane paling keliha']",Protagonist,11, Ia lantas ngeka daya apanga pianakne tusing makurenan ngajak I Lengar,0,0.0,1,1
+9,Tokoh-1,"['I Belog', 'Belog']",Antagonist,28, Wih Belog nguda Cai ngejang anak mati jumahan meten Bangke to angken Cai kurenan,0,-9.0,1,0
+42,Tokoh-5,"['I juru pikat', 'I Juru pikat']",Protagonist,45, Napi teka ada anak mapikat kedis kitiran ngatuju mentas di baledan umane totonan tepukina I Donglen dengkalan paid sampi ngatut tenggala ditu olas I juru pikat pejanga kedisne joanne jagjagina I Donglen paid sampi jemakina talin sampine kene munyine Donglen nyen nunden nani matekap gemes pesan,0,4.0,1,1
+35,Tokoh-1,['I Rumpuh'],Protagonist,7, Masaut I Rumpuh Kene papineh icange,0,0.0,1,0
+28,Tokoh-4,"['Bapa', 'bapa', 'bapanne', 'bapane', 'Bapa Pan Sari']",Antagonist,14, Masaut I Belog Bapa tusing ja bisa naar taluh kakul cara naar jaja begina magoreng,0,-5.0,1,1
+64,Tokoh-1,"['I Lutung', 'Lutung', 'Tung', 'I utung']",Antagonist,68, I Lutung mecelempung ngroksak di duur apin saange matunjel,0,0.0,1,1
+19,Tokoh-6,"['Bapa', 'bapa']",Antagonist,20, Guru Drona Uduh cening nyen Idewa bapa tusing pedas Ekalawya titiang sang ekalawya wangsa nisada sisian Sang Bhagawan,0,0.0,1,1
+64,Tokoh-1,"['I Lutung', 'Lutung', 'Tung', 'I utung']",Antagonist,50, I Lutung lantas ngedetin I Kekua,0,0.0,1,1
+99,Tokoh-3,"['kurenanne', 'kurenane']",Protagonist,18, Teked di jumahne balihine isin sokasine ento tekening kurenanne,0,2.0,1,0
+99,Tokoh-13,"['meyonge', 'I meyong', 'meyong', 'i meyong', 'meyong', 'meyonge ento', 'meyong tiange', 'meyonge ento']",Antagonist,69, Kacerita teked di tengah tukade ngomong lantas I meyong cicing anyud ake cicing mesaut lantas I cicing ngando-ngando anyud apa keto munyin I cicinge,0,1.0,1,1
+110,Tokoh-4,['jerone'],Antagonist,12, Ditu Sang Lanjana age metakon Ih ne te jerone uli dije Tumben tepukin tiang dini bareng ngalih amah,0,0.0,1,0
+45,Tokoh-9,['Ni Angsing'],Protagonist,38, Ni Angsing tengkejut miwah kajagawok ngantenang,0,0.0,1,0
+1,Tokoh-3,"['anake sane mentas ditu', 'liu anake']",Protagonist,25, Sayan makelo sayan liu anake pada kema tur pada ngenehang anake ane ngae semere kaurugan baan tanah ditu,0,1.0,1,0
+48,Tokoh-3,"['I Lelipi', 'lelipi']",Antagonist,20, Masaut buin I Lelipi Nah yen I Goak ngelah taluhe mai abe lakar amah wake,0,0.0,1,1
+87,Tokoh-5,"['Kala Wong', 'I Kala Wong']",Antagonist,25, Gelisin cerita kauningin Sang Maya Danawa muah I Kala Wong nyutirupa dadi batu di sisin Tukad Petanune,0,0.0,1,1
+12,Tokoh-12,"['Ni Cili', 'Cili']",Antagonist,35, Gelisang tuturan satua suba liwat tengah lemeng lantas makruyuk siape mara acepok lantas mapamit I Bintang Lara teken anake odah tur majalan ngelod kanginan dogen teken lantas di umahne Raksasa ngatuju I Raksasa pules tepukina lantas cucunne I Raksasa sedek nyakan madan Ni Cili,0,5.0,1,1
+108,Tokoh-2,"['Sang Aji Saka', 'Aji Saka']",Protagonist,26, Paigunan Sang Pandita sareng Aji Saka duk wengine sampun puput wantah Sang Aji Saka pinaka ulam jatma raris sampun rahina pasemangan pisah Ida mamarga sakulawarga ka puri medang kemulan kairing olih kaula-kaulane maduluran makta tetadahan tan lempas taler masarengan Sang Aji Saka,0,0.0,1,1
+12,Tokoh-15,"['Dewi Supraba', 'dedari Supraba', 'Ida Dedari Supraba', 'Ni Supraba', 'Ni supraba', 'dedari Suprabane']",Protagonist,125, Nah yen keto da Adi ngeling ento ketungane tegakin isinin lu tetelu keto pangandikan dedari Supraba,0,0.0,1,0
+67,Tokoh-7,"['I Kedis Goak', 'I Goak', 'Goak']",Antagonist,52, Nadaksara I Goak makecog maimbuh matinggah di tendas sampine,0,0.0,1,1
+60,Tokoh-3,"['I Tumisi', 'Tumisi']",Antagonist,4, Ane paling simalu lakar madilan tuah I Tumisi kene petakone Wih Iba Tumisi ne makejang nyamane makaengan to ngudiang Iba ileh-ileh setata ngaba umah Ibi sing demen jenek dini,0,3.0,1,1
+60,Tokoh-5,"['I Blatuk', 'Kedis Blatuk']",Antagonist,14, Nak kenken unduke Masaut jani I Blatuk kene munyinne,0,0.0,1,0
+6,Tokoh-2,"['I Blenjo', 'Blenjo', 'Njo']",Antagonist,65, I Nyoman Jater matakon teken kurenane Njo dadi belah payuke,0,0.0,1,0
+93,Tokoh-6,['Ni Diah Tantri'],Protagonist,35, I panyeroan uning ring wangsit anyingid tumuli raris ipun ngaturin Ni Diah Tantri mangda dane nyatua,0,0.0,1,0
+38,Tokoh-2,"['kambing', 'I Kambing', 'kambinge']",Antagonist,12, Baan sakitne I Kambing ngincegang malaib ngejohang awakne sambilanga mabekel tandukne I Cicing,0,0.0,1,1
+65,Tokoh-1,"['I Lutung', 'Lutung', 'I Lutunge']",Antagonist,39, I Lutung entunganga ibane di tukade,0,0.0,1,1
+42,Tokoh-2,"['bapan Luh Arum', 'bapa', 'bapane', 'bapanne', 'Bapan Luh Arum', 'Bapan Luh Arume', 'pa', 'Bapa']",Antagonist,96, Mara bapa nyerahang keto nyai kaget nyak teken Ia,0,0.0,1,1
+105,Tokoh-2,"['Ida Raden Galuh Daha', 'I Nanak Galuh', 'Raden Galuh', 'Ida Raden Galuh', 'Raden Galuhe', 'Raden Galuh', 'Galuh Daha', 'raden galuh', 'I Raden Galuhe', 'I Radem Galuh', 'i raden galuh', 'ratu Raden Galuh', 'galuh Daha', 'I Galuh Daha']",Protagonist,25, Suba teked ditu mara cingakina I Sampi ban I Raden Galuh makyayangan lantas Ida ban takut Idane,0,-3.0,1,1
+108,Tokoh-1,"['para krama ring Majeti', 'ikrama']",Protagonist,9, Nyambran raine ikrama pacang muponin kauripan mabekel antuk kaweruhan sane dahat mautama punika,0,0.0,1,0
+17,Tokoh-1,"['Ni Jepun', 'Dadong Jepun', 'Dadong', 'Dong']",Protagonist,113, Dadong Jepun suud tiwas idupne,0,-2.0,1,1
+53,Tokoh-1,"['punyan kepuh gede tur tegeh', 'I Kepuh', 'Kepuh']",Antagonist,45, Uli dugase ento nyumingkin tusing ada ane lakar sangsayaninna teken I Kepuh,0,0.0,1,1
+57,Tokoh-1,"['I Langgana', 'langgana', 'Langgana', 'I Langganane']",Protagonist,48, Suba kone ngancan tumbuh tur tengeh-tegeh tetandurane ditu I Langgana ngancan lega kenehne marasa teken kenyelne numbeg lakar mapikolih,0,0.0,1,1
+16,Tokoh-1,"['Cicing Alas', 'I Cicing Alas']",Antagonist,71, I Cicing Alas kraung-kraung cihna lega tur bagia,0,3.0,1,1
+72,Tokoh-2,"['pekakne', 'Pekakne', 'pekak']",Protagonist,19, Udangne abana mulih baanga pekakne,0,0.0,1,1
+79,Tokoh-2,"['I Cekcek', 'cekcek', 'Cekcek']",Antagonist,25, Gelisin tuturan satua jani teka dina pasubayanne tusing makelo lantas teka I Kidang tur ngomong Ih Cekcek jani suba payu muber-uberan,0,1.0,1,1
+60,Tokoh-4,"['I Capung Bangkok', 'Capung Bangkok']",Antagonist,8, Sawireh kta sangkene I Tumisi jani aliha I Capung Bangkok ban I Lutung laut katakonang Wih Iba Capung Bangkok ne ulian iba makrana I Tumisi ileh-ileh ngaba umahne,0,0.0,1,1
+91,Tokoh-4,"['kedis crukcuk kuning', 'Kedis Crukcuk Kuninge', 'I Kedis Crukcuk Kuning', 'I Crukcuk Kuning']",Protagonist,27, kacerita jani I Crukcuk Kuning ngotol ukudan Ni Kesunane isinina gumatat-gumitit,0,0.0,1,0
+101,Tokoh-1,['Pan Mangut'],Protagonist,6, Yening suba ada hasil Pan Mangut maan duman bagian aperapat,0,0.0,1,0
+93,Tokoh-2,"['sang prabu', 'ida sang prabu', 'Sang prabu', 'prabu']",Protagonist,47, Kawit ada prabu di Matila nagantun,0,0.0,1,0
+96,Tokoh-9,"['kulukne', 'Kuluk', 'kuluk', 'kuluke']",Antagonist,71, Kabatek baan tangarne apang tusing di pisaga kulukne mejunang pipis lantas tegula jumahan meten tur empek-empeka baanga ngamah kenehne apang lebihan mesuang pipis,0,0.0,1,0
+36,Tokoh-3,"['Kelian banjar', 'Jro Kelian Banjar', 'jro kelian', 'Jro kelian', 'jero kelian', 'jrone', 'jro kelian banjar']",Antagonist,62, Liu pesan nyama brayane mapunduh lakar mabalih jro kelian ngisep pipis uling jit cicingne,0,1.0,1,1
+109,Tokoh-4,"['Sang Bima', 'Cening Sang Bima', 'Ida Sang Bima']",Protagonist,52, Suud ngajeng Sang Bima nginum toya laut ngadeg nyingakin I Raksasa aeng kabinawa,0,0.0,1,0
+12,Tokoh-1,"['Men Bekung', 'Men Bekunge', 'Men bekung']",Protagonist,4, Disubane suud nginem yehe ento dadi prejanian lantas beling Men Bekung,0,0.0,1,1
+74,Tokoh-1,"['I Jayaprana', 'Jayaprana', 'I Jayaprna', 'I jayaprana', 'Jayaprane']",Protagonist,11, Makudang-kudang warsa selanturnyanyane sedek rahina punika I Jayaprna mamargi ka pasar,0,0.0,1,0
+27,Tokoh-1,"['I Belog', 'Belog']",Antagonist,68, Makelo-kelo ada kone anak ngugu I Belog maan masi ia ngalih kurenan,0,-5.0,1,1
+106,Tokoh-1,"['Ingtai Nyonyah', 'Nyonyah Ingtai', 'Nyonyah Ingati', 'Ni Ingtai', 'I Nyonyah Ingtai', 'Ni Nyonyah', 'Ni Nyonyah Ingtai']",Antagonist,5, Rauh ring tengahin margi raris mapanggih utawi macunduk sareng anak lanang sane mawasta I Babah Sampik saking Bociu Negari ujut tatujone pateh ring Nyonyah Ingtai jagi masekolah ke Angciu Negari,0,0.0,1,0
+112,Tokoh-2,"['Sang Prabu Singa', 'prabu Singa', 'Prabu Singa', 'Sang Singa']",Protagonist,31, Sang Prabu Singa ngelur ngajengit tumuli nyagrep baong Sang Nandakane getihne muncrat,0,0.0,1,1
+105,Tokoh-16,"['I Rangsasam I rangsasa', 'I Rangsasane']",Antagonist,167, Derika ring umah I Rangsasane,0,0.0,1,0
+36,Tokoh-1,"['I Celempung', 'Celempung']",Antagonist,20, I Celempung konden mayah dugase ento,0,0.0,1,1
+11,Tokoh-3,"['Sang Arunika', 'Ida Sang Arunika']",Protagonist,14, Sang Arunika digelis mecikin sakancan pundukan carikne ane gembid,0,0.0,1,0
+93,Tokoh-2,"['sang prabu', 'ida sang prabu', 'Sang prabu', 'prabu']",Protagonist,15, Dane Ki Patih Bandeswarya ngiring sakadi pakarsanida sang prabu nyabran-nyabran ngaturang wanita anom tur ayu adiri,0,3.0,1,1
+120,Tokoh-2,"['I Kekua', 'I kekua', 'Kekua', 'kekua']",Antagonist,51,Keto munyine I Lutung mamelas teken I Kekua,0,0.0,1,1
+104,Tokoh-3,"['para baudanda', 'baudandan Ida']",Protagonist,11, Jani suba kone kadauhin para baudanda muah para wikune di sawewengkon Ayodia apanga sida tangkil ka puri,0,0.0,1,0
+36,Tokoh-3,"['Kelian banjar', 'Jro Kelian Banjar', 'jro kelian', 'Jro kelian', 'jero kelian', 'jrone', 'jro kelian banjar']",Antagonist,31, Satmaka tiang nyelang teken jro kelian,0,0.0,1,1
+105,Tokoh-2,"['Ida Raden Galuh Daha', 'I Nanak Galuh', 'Raden Galuh', 'Ida Raden Galuh', 'Raden Galuhe', 'Raden Galuh', 'Galuh Daha', 'raden galuh', 'I Raden Galuhe', 'I Radem Galuh', 'i raden galuh', 'ratu Raden Galuh', 'galuh Daha', 'I Galuh Daha']",Protagonist,104, Kuting Kedis-kedise ade maumah paek-paekan ditu padha bakti teken Raden Galuh,0,0.0,1,1
+99,Tokoh-13,"['meyonge', 'I meyong', 'meyong', 'i meyong', 'meyong', 'meyonge ento', 'meyong tiange', 'meyonge ento']",Antagonist,9, Nengked kanginan been nepukin anak ngbe meyong been lantas Pan Poleng ngomong kal kija ngba meyong mesa­ut lantas anake ento Bakal kutang tiang Baang je tiang meli meyonge ento mesaut anake totonan de je beline meyong tiange ngidih baang tiang idihe lantas meyonge ento tekening Pan Poleng pejanga jumahan sokasine,0,2.0,1,1
+61,Tokoh-3,"['katak', 'katake', 'I Katak']",Protagonist,34, Onyangan soroh katake ataga kaajak menek ditu di tundun I Lelipi Gadange,0,0.0,1,0
+53,Tokoh-5,"['Krama desa Mandara Giri', 'krama desane', 'para krama desane']",Protagonist,55, Krama desa Mandara Giri keweh krana ubuh-ubuhane sesai ada dogen ane ilang,0,0.0,1,0
+17,Tokoh-8,"['Ida Sang Raja', 'Sang Raja', 'Sang Maha Raja']",Protagonist,110, Sang Maha Raja lantas ngucapang suksma marep Dadong Jepun,0,0.0,1,0
+27,Tokoh-1,"['I Belog', 'Belog']",Antagonist,111, Jeg prajani I Belog ngraos Luh suud malu monto nunun bli seduk gati,0,-5.0,1,1
+45,Tokoh-11,"['empas kekalih lua muani', 'I empas makakalih']",Protagonist,46, Tan pawingde padem I empas makakalih,0,0.0,1,0
+12,Tokoh-3,"['I Bintang Lara', 'Bintang Lara', 'I Bintang Larane', 'adi Bintang Lara', 'adi', 'I adi', 'Adi Bintang Lara', 'Adi']",Protagonist,114, Suba neked di purian kandikain I Bintang Lara Nah Cai Bintang Lara kema jani ngalih tabuan ane misi inana aba mai,0,0.0,1,1
+78,Tokoh-3,"['I Paksi Siung luh', 'Siunge luh', 'luhnyane']",Protagonist,18, Sapunika sasambatan Siunge luh kabatek antuk kalangkung sebetipun,0,0.0,1,0
+103,Tokoh-8,"['jerone', 'Jerone']",Antagonist,16, Widiadari punika kagiat tur nolih raris mataken Éh jerone ngambil kulambin tiange dini Ngawang jerone tiang mara neked dini,0,0.0,1,1
+46,Tokoh-12,"['Beli Gede', 'Beli', 'beli']",Protagonist,20, Jani katakonang ban I Nyoman Karang Ih Beli Gede uli dija busan tumben Beli mangguran mai Kasautin ban I Gede Basur Kene Nyoman beli teka uli jumah mula mabuaka mulih mai,0,4.0,1,1
+42,Tokoh-2,"['bapan Luh Arum', 'bapa', 'bapane', 'bapanne', 'Bapan Luh Arum', 'Bapan Luh Arume', 'pa', 'Bapa']",Antagonist,54, Kacarita suba tengai teka bapan Luh Arum uli luas takonina pianakne kene ya,0,0.0,1,1
+101,Tokoh-1,['Pan Mangut'],Protagonist,1,Kacerita di desa anu ada kone anak muani tua panyalah tur pacul madan Pan Mangut,0,0.0,1,0
+115,Tokoh-1,"['I Pagul', 'Bli Pagul', 'Beli Pagul', 'Bli', 'Beli']",Protagonist,4, I Pagul sabilang dina ka tegalne magarapan ditu,0,0.0,1,0
+105,Tokoh-2,"['Ida Raden Galuh Daha', 'I Nanak Galuh', 'Raden Galuh', 'Ida Raden Galuh', 'Raden Galuhe', 'Raden Galuh', 'Galuh Daha', 'raden galuh', 'I Raden Galuhe', 'I Radem Galuh', 'i raden galuh', 'ratu Raden Galuh', 'galuh Daha', 'I Galuh Daha']",Protagonist,259, kacerita I Lutung sedekan mamanting mamanting panganggen I Raden Galuhe ditu di pancorane samping kubune sambilanga magendingan,0,0.0,1,1
+39,Tokoh-2,"['I Macan', 'Macan']",Antagonist,10, Nah disubane I Macan kapesuang uli krangkeng jeg mabalik kenehne I Macan nagih nyarap I Cita,0,1.0,1,1
+72,Tokoh-1,"['I Ubuh', 'U-buh', 'Ubuh']",Protagonist,69, Lega pesan I Ubuh ningeh munyin pekakne,0,0.0,1,1
+77,Tokoh-2,['Ni Wingsali'],Protagonist,1,Kacerita ada kambing madan Ni Mesaba ngajak Ni Wingsali,0,0.0,1,0
+91,Tokoh-1,['Ni Bawang'],Protagonist,14, Sedek dina anu dugase ento sujatine Ni Bawang mara suug nglesung padi laut kayeh sambilanga ngaba jun anggon ngalih yeh,0,0.0,1,0
+113,Tokoh-3,"['Ida Dewi Sita', 'Dewi Sita']",Antagonist,6, Masusupan Ida Sang Rama miwah Sang Laksmana kasarengin antuk Dewi Sita ring alas Dandaka punika nenten wenten sane kajrihin,0,0.0,1,0
+22,Tokoh-2,"['alu gede gati', 'Alune ento', 'alu', 'I Alu', 'Alu', 'alune ento']",Antagonist,47, Kewal yen enu lantas I Alu ditu sengkala deweke,0,0.0,1,1
+2,Tokoh-1,"['I Angsa', 'Angsa', 'angsa']",Protagonist,25, Paling jani I Angsa ngalih amah sawireh suba telah bene ilang,0,0.0,1,1
+87,Tokoh-1,"['Maya Danawa', 'Sang Maya Danawa', 'Sang Prabu Maya Danawa', 'I Maya Danawa', 'I Maya danawa']",Antagonist,2, Kacerita Sang Maya Danawa maderbe kawisesan dahat madurgama tan patandingan,0,0.0,1,1
+73,Tokoh-3,"['I Kaki Buyut', 'Ki Buyut']",Protagonist,39, Disubane Ki Buyut nyerahang pusakane ento jeg prajani kone I Kaki Buyut ilang,0,0.0,1,1
+79,Tokoh-2,"['I Cekcek', 'cekcek', 'Cekcek']",Antagonist,27, Dening keto madabdaban lantas I Cekcek tur ngingetang parembugne ane ibine,0,0.0,1,1
+36,Tokoh-1,"['I Celempung', 'Celempung']",Antagonist,39, Cicing titiange puniki prasida masuang pipis sabilang semengan keto I Celempung mamunyi di arep krama banjare makejang,0,0.0,1,1
+88,Tokoh-4,"['pianakne', 'pianake', 'pianak', 'pianakne Pan Brayut', 'pianak-pianakne', 'pianak-pianak Pan Brayut']",Protagonist,29, Liu bajang tarunane pada edot teken pianakne,0,3.0,1,0
+32,Tokoh-1,"['I Bikul', 'Bikul', 'I bikul', 'bikul cenik']",Protagonist,12, Ditu lantas ia maekin I Bikul tur ngomong Aduh Cai Bikul tumben jani icang nepukin Cai ada dini,0,1.0,1,1
+118,Tokoh-8,['anak luh bajang'],Protagonist,27, Tingalina masih ada anak luh bajang buin jegeg repot ngaenang darang nasi,0,0.0,1,0
+6,Tokoh-1,"['I Nyoman Jater', 'I Nyoman jater', 'Nyoman Jater']",Protagonist,69, Lantas maklieng kone Nyoman Jater kanggoanga uyah lengis dogen daaranga nasi,0,0.0,1,0
+107,Tokoh-2,"['Ida Sang Prabhu', 'sang Prabhu', 'Sang Prabhu', 'Sang Prabu', 'Ida Sang Prabu', 'Dewa Sang Prabhu', 'I Dewa']",Antagonist,19, Sasampune panjake pada budal Sang Prabhu muah prameswarine raris nuju ka pakoleman ngamargiang smaragama alaki-rabi,0,0.0,1,1
+92,Tokoh-5,"['sudagare', 'Sudagare', 'sudagar', 'I Sudagar']",Antagonist,52, Wiakti I Sudagar manusa momo yadiastun amunika sampun pasuecan Ida Hyang ring padewekannyane ri tatkala manggihin wicara sane tiosan mabalik malih manahipune tur malih ngrengkeng kadi puniki kuangan dogen pinunase Yen buat paican Widine a janian teh i dewek jani suba madan sugih gati asing ada anak ngadep dini di peken nyidayang deweke meli,0,1.0,1,1
+36,Tokoh-1,"['I Celempung', 'Celempung']",Antagonist,1,Kacerita di Desa Keladian ada anak muani maadan I Celempung,0,0.0,1,1
+44,Tokoh-11,"['empas', 'Empas', 'I Empas', 'empase']",Antagonist,13, Nah jani kacritayang sawatara duang bulan empase suba pada matimpal ajaka i angsa luh muani,0,0.0,1,0
+78,Tokoh-4,"['beline', 'beli', 'Beli']",Protagonist,5, Sane muani age reke ipun mituturin Duh mas beline adi,0,0.0,1,0
+94,Tokoh-2,"['Ida Raden Galuh Daha', 'Ida Raden Galuh', 'Raden Galuh', 'Ida Raden Gal uh', 'I Galuh Daha', 'Cening Nanak Galuh']",Protagonist,11, kacerita jani Men Bekung nuju ia ngalih saang tepukina Raden Galuh mara eling teken raga lantas duduka ajaka mulih anggona pianak tur sekat ento Men Bekung ia sugih,0,1.0,1,0
+20,Tokoh-13,"['raden galuh', 'Raden Galuh', 'Raden Galuh Pitu', 'galuh pepitu', 'Galuh Pitu', 'Ida Raden Galuh', 'Raden Galuh pitu', 'galuh pitu punika', 'Raden Galuh ajaka papitu', 'Raden Galuh makasami', 'Raden Galuh Pitu makasami']",Antagonist,26, Kanti laklake sami telas kaajeng olih Raden Galuh Pitu,0,0.0,1,1
+96,Tokoh-9,"['kulukne', 'Kuluk', 'kuluk', 'kuluke']",Antagonist,50, Ditu laut Pan Angklung Gadang masebeng rengas tur ngaukin kulukne Kuluk kuluk kuluk kletak kletak kletak,0,0.0,1,1
+54,Tokoh-2,['kelihan desa'],Protagonist,16, Masan gerit langah ada ngelah pipis lenan teken anak sugih buka kelihan desa,0,1.0,1,0
+8,Tokoh-9,['Panditane ane sujati'],Antagonist,78, Mara keto aturne Narajana prajani Panditane ane sujati kalenger,0,0.0,1,0
+27,Tokoh-1,"['I Belog', 'Belog']",Antagonist,109, Mara ia nulengek ngenjuhan tundak uli di luane nunun ditu pedas pesan baana nolih ban I Belog enu ngatut gelah kurenane mabulu nyerem,0,-5.0,1,1
+98,Tokoh-16,"['timpalne', 'timpal-timpalne']",Antagonist,75, Keto kone timpalne,0,0.0,1,0
+113,Tokoh-1,"['Sang Rama', 'Ida Sang Rama', 'Dewa Sang Rama']",Protagonist,36, Sami patapan sane wenten ring sisin gununge sampun polih karauhin antuk Ida Sang Rama miwah kakemit,0,0.0,1,1
+53,Tokoh-1,"['punyan kepuh gede tur tegeh', 'I Kepuh', 'Kepuh']",Antagonist,2, Punyan kayune ento madan I Kepuh,0,0.0,1,1
+100,Tokoh-5,"['Raden Galuh', 'Cening Galuh', 'cening']",Protagonist,26, Mara Ida rauh di puri takenina lantas teken ajin idane Cening Galuh kenapa dadi bengul mara teka Matur Raden Galuh tiang ngrereh danyuh laut encehina baan semute,0,4.0,1,1
+114,Tokoh-3,['I Sidem'],Antagonist,9, Wake malunan neked dini cai ane durinan teka patutne ngalah saut I Sidem,0,0.0,1,0
+98,Tokoh-4,['jero'],Protagonist,4, jero kija nike lakar bakta lelipine Masaut anake ngaba lelipi Lakar entungang tiang nika di pasihe mara keto munyin anake ngaba lelipi,0,0.0,1,0
+36,Tokoh-1,"['I Celempung', 'Celempung']",Antagonist,73, Jro kelian ane kaliwat gedeg lantas ngalih I Celempung ka jumahne,0,0.0,1,1
+72,Tokoh-2,"['pekakne', 'Pekakne', 'pekak']",Protagonist,65, Laut katuturang undukne keto teken pekakne,0,0.0,1,1
+69,Tokoh-1,"['I Kancil', 'Kancil']",Antagonist,12, I Kancil lantas maekin I Siput miwah timpal-timpalne,0,0.0,1,1
+80,Tokoh-1,"['I Singa', 'prabu Singa', 'I singane', 'I Sing', 'Singa']",Antagonist,1,Kacerita I Singa madeg ratu merintah sekancan burone,0,0.0,1,1
+32,Tokoh-1,"['I Bikul', 'Bikul', 'I bikul', 'bikul cenik']",Protagonist,4, Ulian tegeh jedinge I Bikul tusing taen nawang ane madan susu yadin ia nongos di sisin jedinge ane bek misi susu,0,1.0,1,1
+67,Tokoh-8,"['Baburon', 'baburon', 'beburone', 'baburone', 'Baburon lenan']",Antagonist,47, Ia tusing nepukin baburon ane nakonin dewekne,0,0.0,1,1
+59,Tokoh-6,"['I Lelipi', 'Lipi', 'I lelipi']",Antagonist,24, saewala icang tusing takut karana icang ngelah upas Uli dija cai maan upas I Lelipi lantas nyeritayang unduk paruman burone marep Betara Indra,0,-3.0,1,1
+8,Tokoh-5,"['Prabu Boya', 'Sang Prabu', 'Ida Sang Prabu']",Protagonist,65, Jani Prabu Boja sedekan sungsut,0,0.0,0,0
+98,Tokoh-13,"['i bikul', 'bikul']",Protagonist,129, Suba keto sangiha lantas sasubane suud masangih ngomong i bikul teken i meong Ih meong jalan jani macanda-candaan,0,1.0,1,1
+17,Tokoh-1,"['Ni Jepun', 'Dadong Jepun', 'Dadong', 'Dong']",Protagonist,95, Rasa bagia I dewek nepukin anak ngelah pikenoh asih trensa buka Dadong,0,3.0,1,0
+65,Tokoh-1,"['I Lutung', 'Lutung', 'I Lutunge']",Antagonist,38, Ne jani sawireh suba gede pesan apine jeg makecos lantas I Lutung sig duur neb umahne pekak Dukuh makrana kanti telah puun umah I Kak Dukuhe dilap api,0,-3.0,1,1
+117,Tokoh-5,"['buta', 'Buta', 'I Buta']",Antagonist,50, Ngomong I Raksasa Buta Bongol Eda luas kema-mai Awake lakar ngalih bakal basa akejep,0,1.0,1,1
+105,Tokoh-12,"['Ratu Dewa Ayu', 'I Dewa Ayu', 'Ratu dewa ayu', 'dewa ayu', 'ratu dewa ayu']",Protagonist,204, Margi ratu dewa ayu,0,3.0,1,1
+8,Tokoh-1,['Narajana'],Protagonist,61, Kanti liu Narajana ngelah emas-emasan muah arta brana,0,1.0,1,0
+72,Tokoh-1,"['I Ubuh', 'U-buh', 'Ubuh']",Protagonist,64, Gelising satua suba kone I Ubuh teked jumahne,0,0.0,1,1
+116,Tokoh-1,"['I Siap Selem', 'I Siap selem', 'Siap Selem']",Protagonist,53, pasti busan ane orahange don-donan ulung ento boya ja len wantah I Siap Selem teken pianak-pianakne Meme kanggoang dogen suba pitike cenik ene daar keto panakne mamunyi,0,1.0,1,1
+40,Tokoh-11,"['semut anyud', 'I semut', 'I Semut']",Protagonist,11, Ditu lantas I Semut maan pajalan ka pundukan tlabahe,0,0.0,1,1
+83,Tokoh-3,['I Kaki Perodong'],Antagonist,31, Bangken I Lutung tadtade kapondoke ban I Kaki Perodong,0,0.0,1,0
+38,Tokoh-2,"['kambing', 'I Kambing', 'kambinge']",Antagonist,13, I Kambing ulin sekat ento tan paikut sawireh bakat sagrepa baan I Cicing sakewala enu ngantut tuah abedik,0,0.0,1,1
+27,Tokoh-1,"['I Belog', 'Belog']",Antagonist,13, Kebenengan dugase ento I Belog tusing tatas nawang ane kengken madan api,0,-5.0,1,1
+61,Tokoh-3,"['katak', 'katake', 'I Katak']",Protagonist,24, Dugase pidan mula saja icang demen ngamah katak tur sarwa buron ane ada di carike,0,3.0,1,0
+12,Tokoh-22,"['cucunne I Raksasa', 'Cucu', 'cucunne', 'Cucu', 'cucune']",Protagonist,75, Masaut I Raksasa Manik ento Cucu ane mawadah botol barak manik geni ane mawadah botol putih manik apuh ada buin manik glagah manik toya manik endut,0,0.0,1,1
+27,Tokoh-1,"['I Belog', 'Belog']",Antagonist,22, Wih Belog Ci ngudiang to ditu Nguda telin bangkung upinin Cai Mai mulih,0,-5.0,1,0
+73,Tokoh-1,['I Wingsata'],Antagonist,56, Bengong tur tangkejut I Wingsata nepukin unduke ento,0,0.0,1,0
+36,Tokoh-1,"['I Celempung', 'Celempung']",Antagonist,47, Jro kelian ajak krama banjar makejang bengong nepukin I Celempung ngelah kuluk bisa masuang pipis,0,0.0,1,1
+48,Tokoh-1,"['Kasiapa Kepuh', 'Kasiape Kepuh', 'I Kasiape Kepuh', 'punyan Kasiape Kepuh']",Antagonist,15, Masaut I Kasiape Kepuh ede cai sumandang saya,0,0.0,1,1
+90,Tokoh-1,"['Nang Cubling', 'Nang Cublinge']",Antagonist,2, Sedek dina ia masangin bojog di tukade lantas ada bojog gede teka tur matakon Nang Cubling basang apa ento kaumbah Nang Cubling masaut Basang I Lut,0,2.0,1,0
+68,Tokoh-1,"['I Sangging Lobangkara', 'Sangging Lobangkara']",Protagonist,14, Dening keto luas lantas Sangging Lobangkara ngalas,0,0.0,1,0
+115,Tokoh-6,"['I Saa-sangkur', 'Saa-sangkur', 'I Siap Saa-sangkur', 'Siap I Saa-sangkur']",Protagonist,65, Nyai Saa-sangkur bakal wanengin icang,0,0.0,1,0
+63,Tokoh-2,"['I Mandalane', 'I Mandala']",Antagonist,20, I Mandala nyaurin Di kapan icang linyok teken munyi ten sekadi wayan giri,0,0.0,1,0
+115,Tokoh-7,['I Selem'],Protagonist,84, Ngatekok I Selem tuun uli bengbengane,0,0.0,1,0
+74,Tokoh-1,"['I Jayaprana', 'Jayaprana', 'I Jayaprna', 'I jayaprana', 'Jayaprane']",Protagonist,9, Sadurungnyane I Jayaprana nenten kayun mawina merasa teken ragannyane kari alit,0,4.0,1,1
+117,Tokoh-1,"['I Ketimun Mas', 'Ketimun Mas']",Protagonist,62, Yen teka baan iba I Ketimun Mas upahina be bajo asok teken padi abodag,0,0.0,1,1
+105,Tokoh-11,"['Me Lutung', 'I Lutung', 'Lutung', 'Men Lutunge', 'I Lutunge', 'meme Lutung', 'me Lutung']",Protagonist,113, Be I Lutung sragsag sregseg lantas ngigel aeng gejeran carang-carang kayune alah ogarang,0,0.0,1,1
+51,Tokoh-2,"['I Lutung', 'Lutung', 'I Liutung']",Antagonist,38, Jani tengkejut I Keker tur ngraos Aduh Cai Lutung miratdana Cai teken Wake,0,0.0,1,0
+55,Tokoh-5,"['I Kidang', 'Kidang']",Protagonist,70, Keto I Kidang,0,0.0,1,1
+36,Tokoh-1,"['I Celempung', 'Celempung']",Antagonist,36, Konden buin ia nagih ngamah sabilang wai keto panikan jro kelian marep I Celempung,0,1.0,1,1
+69,Tokoh-1,"['I Kancil', 'Kancil']",Antagonist,5, Di alase ento masi ada buron sane matungkalikan bikasne ajak I Kancil,0,0.0,1,1
+91,Tokoh-2,['Ni Kesuna'],Antagonist,22, kacerita jani Ni Kesuna kone nepukin embokne mapanganggo melah-melah laut ia nakonang uli dija maan panganggo buka keto,0,0.0,1,0
+11,Tokoh-9,"['Ceninge', 'Cening']",Antagonist,26, Ne ada sampi inane ne nyen piara apang kanti ia manakan tur sida anggon Cening nglanturang urip Ceninge,0,0.0,1,1
+8,Tokoh-3,['kedis goak'],Protagonist,39, I Belibis Putih ningeh orta uli kedis goak,0,0.0,1,0
+42,Tokoh-2,"['bapan Luh Arum', 'bapa', 'bapane', 'bapanne', 'Bapan Luh Arum', 'Bapan Luh Arume', 'pa', 'Bapa']",Antagonist,14, Yan suba nyak Ia ngenggong bapane teka lega pesan kenehne madingehang nyidayang Ia ngengsapang seduk basangne,0,0.0,1,0
+17,Tokoh-6,"['sang natha ratu', 'natha ratu']",Protagonist,97, I dewek tuara len wantah sang natha ratu di Kerajaan Merudwipa,0,0.0,1,1
+35,Tokoh-4,"['Beli', 'beline', 'Bell']",Protagonist,5, Masaut beline Kenkenang Beli ngalih ambah-ambahan Beli tuara ngenot apan-apan,0,0.0,1,1
+76,Tokoh-1,"['Prabu Suliawana', 'Sang Prabu Suliawana', 'Ida Sang Prabu', 'Gusti Prabu']",Protagonist,43, Rikala bulun Gerudane meken telah sinalih tunggil Bikule tangkil ka Prabu Suliawana,0,0.0,1,0
+25,Tokoh-3,"['I Basang Siap', 'basang siap']",Protagonist,7, Nanging sing ida taen ajin teken ditu ada basang siap,0,0.0,1,0
+94,Tokoh-2,"['Ida Raden Galuh Daha', 'Ida Raden Galuh', 'Raden Galuh', 'Ida Raden Gal uh', 'I Galuh Daha', 'Cening Nanak Galuh']",Protagonist,42, Nah jani mantri Koripan kema suba mulih reh suba tutug sengker caine mamanjak dini Mara keto pangandikan Ida Raden Galuh lantas Ida Raden Mantri nangis tur klemesin Raden Galuh mangda kayun kanggen rabi,0,0.0,1,1
+6,Tokoh-2,"['I Blenjo', 'Blenjo', 'Njo']",Antagonist,60, Mara ilid tundunne I Blenjo ngencolang bangun tur ka paon nyemak nasi misi kuah be banon,0,0.0,1,1
+45,Tokoh-12,"['angsa akeh ipun kekalih luh muani', 'I angsa lua muani', 'I angsa lua muani makakalih']",Protagonist,5, Tiosan ring i empas irika taler wenten angsa akeh ipun kekalih luh muani irika ipun melali-lali sarwi manjus,0,4.0,1,0
+37,Tokoh-3,"['Batari Durga', 'Ida Betari Durga', 'paduka Betari']",Protagonist,16, Yan paduka Betari ledang titiang mapinunas mangda dados Patih,0,0.0,1,0
+96,Tokoh-1,"['Pan Angklung Gadang', 'Bapa Angklung Gadang', 'Pan Angklung Gadange', 'Angklung Gadang', 'I Angklung Gadang']",Antagonist,31, Mara keto dingeha pangandikan Idane laut Pan Angklung Gadang ngenggalang nulengek tur nyumbah nunas pangampura Inggih Ratu Dewa Agung boya ja titiang sangkaning langgia ring Palungguh Cokor I Dewa mula titiang mamanah subakti pisan mamarekan ring Cokor I Dewa,0,3.0,1,1
+33,Tokoh-1,"['kedis sangsiah luh muani', 'i kedis', 'i kedise', 'Kedis Sangsiah', 'kedis']",Protagonist,1,Kacerita ada kone kedis sangsiah luh muani itep ia ngajang sebun sawireh suba lakar ngereang mataluh,0,-2.0,1,1
+22,Tokoh-2,"['alu gede gati', 'Alune ento', 'alu', 'I Alu', 'Alu', 'alune ento']",Antagonist,49, Apang pedas nawang apa saja ada Alu apa tusing melah suba kaukin ia jain,0,5.0,1,1
+96,Tokoh-10,"['cicingne', 'cicing', 'Cicingne']",Antagonist,69, Pan Angklung Gadang bincuh nampi pipis tur ia mapi mapi ngrumuk mamangenang cicingne,0,0.0,1,1
+44,Tokoh-3,"['empase ane lua', 'empas lua', 'Empas Lua', 'i empas lua', 'I Empas lua', 'Luh', 'empase luh']",Protagonist,2, Beli Beli Empas patakon empase ane lua,0,0.0,1,0
+105,Tokoh-5,"['panyrowane', 'panyrowan']",Antagonist,6, Lantas anake agung ngandikain panyrowane Nginte Ngemban kema iringang I Nanak Galuh ka taman,0,0.0,1,0
+87,Tokoh-1,"['Maya Danawa', 'Sang Maya Danawa', 'Sang Prabu Maya Danawa', 'I Maya Danawa', 'I Maya danawa']",Antagonist,1,Dugas ipidan di Pulina Bali ada kone raja raksasa ane kaliwat sakti maparab Maya Danawa,0,2.0,1,0
+17,Tokoh-3,"['anak muani bajang', 'anake bajang ento', 'anake muani ento', 'Anake muani ento', 'anake ento', 'anak bajang ento', 'anake bajang ene', 'anak bajange ento', 'anak bajang', 'anake']",Protagonist,79, Dadong Jepun lantas maakin anake bajang ento mabaju bengil nenteng pondongan,0,2.0,1,1
+44,Tokoh-1,"['i empas luh muani', 'I Empas ajaka dadua luh muani', 'empas ajak dadua', 'I Empas ajaka dadua', 'I Empas makadadua', 'empase ajak dadua']",Antagonist,43, tuara kodag baan kendel kenehne I Empas ajaka dadua tumben ngasanin ngindang ba duur,0,0.0,1,0
+9,Tokoh-2,"['memene', 'Meme', 'Memenne', 'memenne', 'I meme', 'Memene', 'Me', 'Men Belog', 'memene I Belog']",Protagonist,45, Jerit-jerit memene tur ngidih tulung masi tusing runguanga lantas kaclempungang ka semere,0,0.0,1,1
+105,Tokoh-2,"['Ida Raden Galuh Daha', 'I Nanak Galuh', 'Raden Galuh', 'Ida Raden Galuh', 'Raden Galuhe', 'Raden Galuh', 'Galuh Daha', 'raden galuh', 'I Raden Galuhe', 'I Radem Galuh', 'i raden galuh', 'ratu Raden Galuh', 'galuh Daha', 'I Galuh Daha']",Protagonist,46, Keneh I Lutung ngaturin Raden Galuh makaon kayun lantas Ida iringa teken Me Lutung kaumahne menek di punyan baingine gede,0,2.0,1,1
+56,Tokoh-5,"['Ida Raden Galuh Daha', 'Ida Raden Galuh']",Protagonist,33, Gelisang cerita sangkaning titah Hyang Widhi dadi gelis Ida Raden Galuh kenak kadi jati mula,0,0.0,1,0
+22,Tokoh-2,"['alu gede gati', 'Alune ento', 'alu', 'I Alu', 'Alu', 'alune ento']",Antagonist,46, Bah pasti I Alu suba magedi uli dini,0,0.0,1,1
+34,Tokoh-2,"['samong', 'Sang Samong', 'Samong', 'I Samong']",Antagonist,50, Ditu laut I Samong ngenggalang ia mulihan ka jebage,0,0.0,1,1
+27,Tokoh-2,"['memene', 'Me', 'meme', 'Meme', 'i meme', 'memenne', 'memene I Belog']",Protagonist,59, Wih Me ene suba somah icange,0,0.0,1,0
+12,Tokoh-3,"['I Bintang Lara', 'Bintang Lara', 'I Bintang Larane', 'adi Bintang Lara', 'adi', 'I adi', 'Adi Bintang Lara', 'Adi']",Protagonist,57, critayang jani I Bintang Lara ngintip dedarine tur kakedeng bajune,0,1.0,1,1
+92,Tokoh-11,"['Ratu', 'ratu', 'para ratu', 'para ratune']",Protagonist,65, Malih sesampun nyeneng dados ratu nenten ledang pakayunane duaning makueh wenten para ratu sane nyakrewerti ring jagate,0,0.0,1,1
+27,Tokoh-3,"['kurenane', 'Kurenanne', 'knurenane', 'Kurenan I Beloge']",Protagonist,99, Arah sing ngrambang jukuta kengken sih maaban-aban Buin maninne buin ia tanjena madaar ban knurenane patuh pasautne tusing pesan nyak madaar nasi,0,0.0,1,0
+97,Tokoh-1,"['Pan Balang Tamak', 'Pan Balang Tamake']",Antagonist,34, Yen Pan Balang Tamak ngelah kuluk bengil aukud buin tuara pati bisa malaib,0,0.0,1,0
+17,Tokoh-2,"['anak luih jegeg', 'anake luh ento', 'Anake luh jegeg ento', 'luh ento', 'anak luh jegeg']",Protagonist,34, Miik ngalub bon awake luh ento makada ngulayang angen Dadong Jepun,0,0.0,1,0
+99,Tokoh-1,"['Pan Poleng', 'pan Poleng', 'Pan Polenge totonan']",Protagonist,49, Sube keto gedeg lanttas Pan Poleng tekening Men Poleng,0,0.0,1,1
+105,Tokoh-2,"['Ida Raden Galuh Daha', 'I Nanak Galuh', 'Raden Galuh', 'Ida Raden Galuh', 'Raden Galuhe', 'Raden Galuh', 'Galuh Daha', 'raden galuh', 'I Raden Galuhe', 'I Radem Galuh', 'i raden galuh', 'ratu Raden Galuh', 'galuh Daha', 'I Galuh Daha']",Protagonist,98, Nah cening Galuh Daha,0,0.0,1,1
+89,Tokoh-1,['Men Sugih'],Antagonist,2, Men Sugih anak sugih pesan nanging demit tur iri ati jail teken anak lacur,0,-3.0,1,0
+99,Tokoh-1,"['Pan Poleng', 'pan Poleng', 'Pan Polenge totonan']",Protagonist,2, Kacerita Pan Poleng ngomong tekening kurenanne Men Poleng mani peteng-petengin nyakan tiang kar luas maurup-urup nah keto pesautne Men Poleng Kacerita been mani galang kanginne bangun lantas Men Poleng nyakan,0,3.0,1,1
+13,Tokoh-3,"['Sang Hyang Embang', 'Embang', 'Ida Sanghyang Embang']",Protagonist,8, Ngeneng ngening nyujur Sang Hyang Embang,0,0.0,1,1
+39,Tokoh-87,['I Kancil'],Protagonist,37, Ajaka dadua masaduang paundukan teken I Kancil,0,0.0,1,0
+67,Tokoh-7,"['I Kedis Goak', 'I Goak', 'Goak']",Antagonist,16, He Goak mendepang bungut caine,0,0.0,1,0
+36,Tokoh-1,"['I Celempung', 'Celempung']",Antagonist,23, Tusing ada akijapan barong saget I Celempung suba teka ka bale banjar nyangkol kuluk poleng,0,0.0,1,1
+18,Tokoh-5,"['Dewi Kunti', 'Dewi Kanti']",Protagonist,19, Durung polih Dewi Kunti matur raris Betara Surya masabda malih,0,4.0,1,0
+78,Tokoh-4,"['beline', 'beli', 'Beli']",Protagonist,8, Yan beli teka ngawag-awag reh ngelawan anak gede tan wangde mapuara keweh,0,2.0,1,1
+42,Tokoh-2,"['bapan Luh Arum', 'bapa', 'bapane', 'bapanne', 'Bapan Luh Arum', 'Bapan Luh Arume', 'pa', 'Bapa']",Antagonist,48, Bapan Luh Arume nunden icang icang sing bani matau,0,2.0,1,0
+115,Tokoh-2,"['Ni Luh Lancah', 'Luh Lancah', 'Luh LAncah']",Antagonist,83, Cara biasa Luh Lancah teka uli peken ngadep pikolihan abian tur mabaan mulih kaperluan sadina-dina,0,0.0,1,1
+6,Tokoh-4,"['Meme Wayan', 'Meme', 'Meme Nengah', 'meme']",Protagonist,23, Meme sing ngelah payuk lantang,0,0.0,1,1
+18,Tokoh-11,"['Cening', 'cening']",Protagonist,18, Drika Dewi Kunti eling ring pandikan Sang Rsi Durvasa sira ja Hyang Betara sane acep cening Ida bakal gelis rauh miwah mapaica nugraha,0,0.0,1,1
+67,Tokoh-7,"['I Kedis Goak', 'I Goak', 'Goak']",Antagonist,43, Munyin I Sampine ane ngelur dingeha tekening I Goak ane makeber di langite,0,0.0,1,1
+99,Tokoh-1,"['Pan Poleng', 'pan Poleng', 'Pan Polenge totonan']",Protagonist,25, Sube keto atehine lantas tekening Pan Poleng,0,0.0,1,1
+48,Tokoh-1,"['Kasiapa Kepuh', 'Kasiape Kepuh', 'I Kasiape Kepuh', 'punyan Kasiape Kepuh']",Antagonist,13, Ditu lantas I Goak ngomong ring I Kasiape Kepuh Nah mapan cai sube seger ane jani awake lakar mataluh dini melahang cai ngeraksa taluh awake dini,0,1.0,1,1
+38,Tokoh-2,"['kambing', 'I Kambing', 'kambinge']",Antagonist,1,Di maluan dugase burone enu saling asah saling asuh ada cicing teken kambing masawitrayan,0,0.0,1,0
+85,Tokoh-1,"['I Lutung', 'Lutung', 'Tung']",Antagonist,53, Ngung umah tabuane ulung ka tanahe gebuga teken I Lutung,0,0.0,1,1
+28,Tokoh-2,"['Pan Sari', 'Pan sari']",Antagonist,30, Disubane nganteg di alase ngomong Pan sari Nah Cai ngoyong beten bapa ja menek ngalap eduk Cai nyen nuduk munduhang beten,0,1.0,1,1
+96,Tokoh-5,"['Jro Kelian', 'Jero Kelian', 'Jero Klian', 'Jero Kalian', 'jero', 'jerone']",Antagonist,44, Nah suba kanti pragat pailehne nuduk putra jani buinJero Klian ngujangang nuduk bebakatan ne tuara sangkep abulan,0,1.0,0,0
+89,Tokoh-1,['Men Sugih'],Antagonist,24, Lakar anggon gena ngalih paku Men Sugih metakon,0,1.0,1,0
+42,Tokoh-2,"['bapan Luh Arum', 'bapa', 'bapane', 'bapanne', 'Bapan Luh Arum', 'Bapan Luh Arume', 'pa', 'Bapa']",Antagonist,20, Napi nyak sahadung dueg padha dueg manis padha manis dingeha baan bapan Luh Arum kene Ia matakon Nyen to dueg ngenggong,0,15.0,1,1
+55,Tokoh-4,"['I Bojog', 'bojog', 'Bojog', 'bojog cekah', 'I Bojog Ireng']",Antagonist,27, Mara keto munyine I Bojog Ireng masaut lantas I Kidang Wih Cai bojog kaden Cai aluh nyiatin I Macan Poleng Kadirasa I Kebo ane ngelah tanduk sakti tusing bani ngarepin sawireh ia ngelah kuku tur caling mangan awakne gede ganggas tur bayunne siteng,0,6.0,1,1
+6,Tokoh-4,"['Meme Wayan', 'Meme', 'Meme Nengah', 'meme']",Protagonist,28, Aduh dadi soleh asanne dija meme ngalih payuk lantang Meme tuah ngelah payuk bunter to di paon silih ja lamun kanggoang Nyai,0,0.0,1,1
+61,Tokoh-2,"['I Lelipi Gadang', 'Lelipi Gadang', 'lelipi gadang gede', 'I Lelipi']",Antagonist,21, Men apa titah Ida Bhatara Brahma teken Cai ih lelipi gadang,0,0.0,1,0
+11,Tokoh-1,"['Bhagawan Domia', 'Ratu Bhagawan', 'Ida Bhagawan Domia', 'Ida Hyang Bhagawan', 'Ida Bhagawan']",Protagonist,9, Sapunika atur sang sisia tetiga ring Ida Bhagawan Domia,0,0.0,1,1
+67,Tokoh-1,"['sampi', 'i sampi', 'I Sampi']",Antagonist,45, Kenken cai to nguda gerong-gerong ngeling patakon I Goak mautsaha maekin I Sampi,0,0.0,1,1
+23,Tokoh-1,"['I Balu Kawanan', 'Beli Kawanan']",Protagonist,38, Buin maninne teka I Balu Kawanan lakar nyuang celeng tur suba kaabaang keranjang lakar anggona wadah celenge,0,0.0,1,0
+53,Tokoh-4,"['I Lelipi Raja', 'I Lelipi']",Antagonist,43, Gelisang cerita disubane telah taluhne kaporot lega I Lelipi Raja,0,0.0,1,1
+37,Tokoh-1,"['I Cicing Gudig', 'Cicing Gudig', 'Cicing gudig']",Antagonist,1,Nah ada kone tuturan satua I Cicing Gudig,0,0.0,1,1
+60,Tokoh-7,"['I Beduda', 'Beduda']",Antagonist,20, Ane makrana tiang ileh-ileh ngaba api sawireh I Beduda setata ngurek tanah di jalane,0,0.0,1,1
+96,Tokoh-1,"['Pan Angklung Gadang', 'Bapa Angklung Gadang', 'Pan Angklung Gadange', 'Angklung Gadang', 'I Angklung Gadang']",Antagonist,9, Sawireh iba majalan durian iba tusing ajin blongsong ambed ikute kecag Matur Pan Angklung Gadang Inggih Ratu Dewa Agung wantah kantenang titiang sakewanten tan wenten purun titiang ngambil punika santukan durung wenten pangandikan Cokor I Dewa,0,4.0,1,1
+86,Tokoh-2,"['meng', 'I Meng', 'Meng', 'adi Meng']",Protagonist,23, I Meng masaut Icang tusing ja lakar nyak buin ngajahin cai,0,0.0,1,1
+74,Tokoh-1,"['I Jayaprana', 'Jayaprana', 'I Jayaprna', 'I jayaprana', 'Jayaprane']",Protagonist,4, Krana punika Jayaprana dados jatma ubuh miwah Jayaprana memarekan ring lengka pura,0,0.0,1,0
+6,Tokoh-1,"['I Nyoman Jater', 'I Nyoman jater', 'Nyoman Jater']",Protagonist,15, I Nyoman Jater tumuli majalan ka uma,0,0.0,1,1
+60,Tokoh-8,"['I Sampi', 'Sampi']",Protagonist,43, Masaut I Sampi buka kene Ipun I Lelasan jagi ngiring kayun Cokoridewa drika ring bungkil tiyinge dinane benjang,0,0.0,1,1
+96,Tokoh-1,"['Pan Angklung Gadang', 'Bapa Angklung Gadang', 'Pan Angklung Gadange', 'Angklung Gadang', 'I Angklung Gadang']",Antagonist,12, Nah mani puan yen iba ngiringang gelah lamun ada macepol uli di jarane duduk men enggalang penpen di kompeke Inggih sandikan Cokor I Dewa titiang sairing Tan kacerita Ida Anake Agung di gununge jani suba lingsir makayun Ida mantuk saha ngandikain parekan Angklung Gadang cawisang jarane eteh-etehin gelahe lakar mulih ne jani Angklung Gadang matur Inggih,0,3.0,1,0
+1,Tokoh-2,"['pianakne muani', 'Pianakne', 'pianakne']",Antagonist,1,Pan Karsa ajaka pianakne muani nanggap upah ngae semer di sisin rurunge gede,0,2.0,1,1
+96,Tokoh-1,"['Pan Angklung Gadang', 'Bapa Angklung Gadang', 'Pan Angklung Gadange', 'Angklung Gadang', 'I Angklung Gadang']",Antagonist,118, Suba suud ngasepin lantas tungkede gogonga ngaba pesu mirib buka anake ngogong dewa lantas ia ngomong teken kurenanne Nah jani yatnain iban nyaine nglungsur paican Ida Batara Ne jani Pan Angklung Gadang buin mapinunasan Inggih Ratu Betara titiang mamitang ajengan tigang sok,0,3.0,1,1
+81,Tokoh-1,"['I Lutung', 'Lutung']",Antagonist,12, Di pengipian I Lutung metemu ajak dagang tuak,0,0.0,1,1
+80,Tokoh-1,"['I Singa', 'prabu Singa', 'I singane', 'I Sing', 'Singa']",Antagonist,40, I Lelasan encol makecos ka tunggak tinge I Singa ngangsebang,0,0.0,1,1
+105,Tokoh-12,"['Ratu Dewa Ayu', 'I Dewa Ayu', 'Ratu dewa ayu', 'dewa ayu', 'ratu dewa ayu']",Protagonist,165, Baas Ratu Dewa Ayu,0,3.0,1,1
+15,Tokoh-2,['Ni Bulan Kuning'],Protagonist,17, Ni Bulan Kuning mulih lantas ngalih Men Bekung,0,0.0,1,0
+74,Tokoh-3,"['Ida Anake Agung', 'anake agung', 'Ida anake Agung', 'Ida Anake agung', 'Ida anake agung']",Antagonist,23, Inggih punika Ida Anake Agung nyupyah ring paruman santukan ring rahina Anggara legi wuku kuningan Ida anake agung mekarya upacara pawiwahan I Jayaprana miwah Ni Layonsari,0,0.0,1,1
+23,Tokoh-4,['Luh'],Antagonist,40, Aa Luh ne bli ngajak dagang kakar adep celenge jani keto I Balu Kawanan,0,0.0,1,0
+98,Tokoh-2,"['Men Jempenit', 'Men jempenit']",Antagonist,61, Gelisin satua pragat orahanga lantas bungkungne baange bungkunge mulih lantas Men Jempenit tur subane nganteg jumah pejanga lantas bungkunge di dingdinge,0,1.0,1,1
+5,Tokoh-2,"['Jro panunggun kepuh', 'jro panunggun kepuh']",Protagonist,12, Yening kapanggih titiang aturin jro panunggun kepuh ketipat akelan maulam ayam,0,0.0,1,1
+107,Tokoh-16,"['Bli Aji Dharma', 'Beli', 'beli', 'Bli']",Antagonist,24, Nak ngudiang beli kedek padidi Keto baos sang isteri,0,0.0,1,1
+105,Tokoh-11,"['Me Lutung', 'I Lutung', 'Lutung', 'Men Lutunge', 'I Lutunge', 'meme Lutung', 'me Lutung']",Protagonist,196, Mara keto abetne I Lutung Kendel kone I Rangsasa lantas nyemak ya baas asok teken cetik baanga I Lutung,0,0.0,1,1
+44,Tokoh-10,"['Ni Dangal', 'Dangal']",Antagonist,46, magenep rambang Nyai Dangal,0,0.0,1,0
+98,Tokoh-1,"['Pan Jempenit', 'pan jempenit', 'Pan jempenit']",Protagonist,62, Kacarita Pan Jempenit teka lantas uli malali tur jemaka lantas bungkunge laut taplek-taplekanga di batune sing lantas nyak dadi mas batune,0,0.0,1,1
+76,Tokoh-7,['kramane'],Protagonist,4, Énto ngranayang kramane sedih kerana ubuh-ubuhan ipune sawaian ilang sander Geruda,0,-5.0,1,0
+42,Tokoh-1,"['Ni Luh Arum', 'Ni Luh Arume', 'Luh Arume', 'Luh Arum', 'Luh', 'Luh arum']",Antagonist,84, Disubanne biin mani semenganne Luh Arum maluan bangun pradang nyampat nyuang yeh lantas kayeh,0,0.0,1,1
+101,Tokoh-1,['Pan Mangut'],Protagonist,32, Godelne ento masih jemet teken Pan Mangut tusing taen rengas,0,4.0,1,0
+105,Tokoh-2,"['Ida Raden Galuh Daha', 'I Nanak Galuh', 'Raden Galuh', 'Ida Raden Galuh', 'Raden Galuhe', 'Raden Galuh', 'Galuh Daha', 'raden galuh', 'I Raden Galuhe', 'I Radem Galuh', 'i raden galuh', 'ratu Raden Galuh', 'galuh Daha', 'I Galuh Daha']",Protagonist,19, Jani wireh keto matatangisan kone saisin purine ban Raden Galuhe palaibang papeteng,0,3.0,1,0
+53,Tokoh-6,"['Dane Bendesa Mandara Giri', 'Bendesa Mandara Giri']",Protagonist,59,Dane Bendesa Mandara Giri nyangkepang krama desane,0,0.0,1,1
+49,Tokoh-1,"['I Kecut', 'I kecut', 'Kecut']",Antagonist,56, Lantas ipun kaumah I Kecut tur matakon kene Kenken I Kecut dadi Dadong tuludang,0,0.0,1,1
+11,Tokoh-4,"['Sang Weda', 'Ida Sang Weda']",Protagonist,57, Ne jani Ida Bhagawan Domia mintonin Sang Weda,0,0.0,1,0
+54,Tokoh-1,['I Kerug'],Antagonist,14, Buin maniane I Kerug kema mai singgah di pisagane nanjanang tegalne,0,0.0,1,0
+89,Tokoh-2,"['Men Tiwas', 'Tiwas']",Protagonist,5, Nuju dina anu Men Tiwas ka umah Men Sugih ngidih api,0,-1.0,1,1
+13,Tokoh-2,"['Bojog lua ento', 'I bojog lua']",Antagonist,6, Bojog lua ento ngranasika,0,0.0,1,0
+14,Tokoh-3,"['bapane', 'bapan ipun']",Antagonist,34, Neked di kubonnnyane Ni Badung kategul plih bapane,0,0.0,1,0
+90,Tokoh-1,"['Nang Cubling', 'Nang Cublinge']",Antagonist,1,kacerita di desa anu ada anak mapungkusan madan Nang Cubling,0,0.0,1,0
+60,Tokoh-7,"['I Beduda', 'Beduda']",Antagonist,28, To makrana I Beduda ngurek jalane ngurugang tain Ibane,0,0.0,1,1
+105,Tokoh-2,"['Ida Raden Galuh Daha', 'I Nanak Galuh', 'Raden Galuh', 'Ida Raden Galuh', 'Raden Galuhe', 'Raden Galuh', 'Galuh Daha', 'raden galuh', 'I Raden Galuhe', 'I Radem Galuh', 'i raden galuh', 'ratu Raden Galuh', 'galuh Daha', 'I Galuh Daha']",Protagonist,86, Jani senah suba dayan ibane ibe melog-melog awake iba suba ane ngengkebang raden galuh,0,0.0,1,1
+8,Tokoh-7,"['pandita duang diri', 'panditane maka kalih', 'Ratu Pandita', 'Ratu']",Protagonist,75, Sasubane Sang Prabu nauhang pangandika lantas Narajana matur teken panditane maka kalih,0,4.0,1,0
+113,Tokoh-5,['Ida Sang Ragutama'],Protagonist,5, Nanging nenten asue ida I rika saantukan kapireng wenten alas linggah madurgama mawasta alas Dandaka punika sane kajujur antuk Ida Sang Ragutama,0,0.0,1,0
+26,Tokoh-1,['I Belog'],Antagonist,5, I Belog mamunyi uling di durin gedong sanggahne Pan Sari Wih damuh gelah Pan Sari nira Betara ane malinggih di gedong tedun nyembah jani Awake,0,-5.0,1,0
+40,Tokoh-9,['katake'],Antagonist,5, Keto masi katake kecag-kecog ngalih capung,0,0.0,1,0
+43,Tokoh-5,"['pianakne', 'pianak bapa']",Protagonist,6, Nuju sanja I Rajapala ngaukin pianakne laut negak masila,0,0.0,1,0
+101,Tokoh-1,['Pan Mangut'],Protagonist,17, Keto semayane Jro Kelihan Desa teken Pan Mangut,0,0.0,1,0
+12,Tokoh-11,"['Rangsasa', 'I Rangsasa', 'I Raksasa']",Protagonist,78, Suba keto pules lantas I Raksasa,0,0.0,1,0
+69,Tokoh-1,"['I Kancil', 'Kancil']",Antagonist,19, I Siput ngarahang apanga siput-siputemabaris di sisin tlagane yening I Kancil ngaukin I Siput,0,0.0,1,1
+36,Tokoh-3,"['Kelian banjar', 'Jro Kelian Banjar', 'jro kelian', 'Jro kelian', 'jero kelian', 'jrone', 'jro kelian banjar']",Antagonist,85, Inggih yening asapunika tiang tan prasida ngwaliang jinah jrone sawireh cicing tiannge sampun pademang jro kelian keto pasautne I Celempung,0,0.0,1,1
+6,Tokoh-2,"['I Blenjo', 'Blenjo', 'Njo']",Antagonist,36, ne nguda enu masi magantung be banone Keto kenehne laut makaukan Wih Blenjo ne dadi depin Nyai be banone kaden tunden icang nglablab anggon be makuah Ngudiang kali jani enu medem,0,0.0,1,0
+11,Tokoh-2,"['Sang Utamaniu', 'Sang Utamaniune', 'Ida Sang Utamaniu']",Antagonist,25, Kacerita ne jani Sang Utamaniu ane kapintonin mabaos Ida Bhagawan Nah Cening Sang Utamaniu swaginan Ceninge sing ja len tuah ngangonang banteng,0,0.0,1,0
+17,Tokoh-5,"['I krama lenan', 'krama desane', 'krama desa', 'Krama desa']",Antagonist,105, Krama desa panjak gelah makejang,0,0.0,1,1
+35,Tokoh-2,['I Buta'],Protagonist,11, Papineh adinne kabenehang pesan teken I Buta lantas ideh-ideh I Rumpuh gandonga kumah-umah anake ngidih-ngidih kanti payu ia madaar,0,0.0,1,0
+61,Tokoh-2,"['I Lelipi Gadang', 'Lelipi Gadang', 'lelipi gadang gede', 'I Lelipi']",Antagonist,12, I Lelipi Gadang nyaru-nyaru dadi sang meraga sadhu,0,0.0,1,1
+24,Tokoh-5,"['I Kunang-Kunang', 'Kunang-Kunang', 'I Kunang-kunang']",Antagonist,46, Kenginan kapatutang pisan atur I Kunang-Kunang asapunika antuk Ida Sang Prabu,0,0.0,1,1
+96,Tokoh-3,"['kurenannya', 'kurenanne', 'Kurenanne']",Protagonist,124, lantas bintit kurenanne nyemak jan lantas menekin glebeg tur nuunang jukut jejeruk muah gegecok,0,2.0,1,1
+2,Tokoh-2,"['I Kerkuak', 'Kerkuak', 'kerkuak']",Antagonist,2, Sadina-dina I Angsa teken I Kerkuak setata bareng-bareng ngalih amah kema ka tegale,0,0.0,1,1
+85,Tokoh-2,"['I Kancil', 'Kancil', 'Cil']",Protagonist,5, Di tengah alase I Kancil ngilag ngamah padang ane suba tuh,0,0.0,1,1
+120,Tokoh-1,"['I Lutung', 'Lutung', 'lutung', 'I lutung']",Antagonist,73, Mara keto munyine I Pekak Dukuh kapineh bane I Lutung ban ia suba kena kauluk - uluk baan I Kekua sing buungan jani deweke bakal mati tampaha teken I Pekak Dukuh,0,-4.0,1,1
+17,Tokoh-2,"['anak luih jegeg', 'anake luh ento', 'Anake luh jegeg ento', 'luh ento', 'anak luh jegeg']",Protagonist,33, Anake luh jegeg ento majalan maakin Dadong Jepun lantas geluta,0,2.0,1,0
+66,Tokoh-1,['I Menceng'],Antagonist,23, Buin manine I Menceng gelem mendadak,0,0.0,1,0
+99,Tokoh-12,"['cicinge', 'cicicnge', 'I cicing', 'cicing', 'I cicinge', 'cicing berag gatine; cicing berag; cicinge ento; cicinge', 'cicinge to']",Antagonist,6, suba jani nengked kangin nepukin anak ngba cicing berag ngomong lantas Pan Poleng kal kija ngaba cicing berag gatine Mesaut anake totonan Bakal kutang tiang tiang tusing demen tekenin cicing berag Been lantas ngomong Pan Poleng Baang je tiang murupin cicinge ento Mesaut anake ngabe cicinge totonan de be murupin cicinge ne meneh idih baang tiang Keto munyin anake totonan,0,8.0,1,1
+92,Tokoh-9,"['anake agung', 'Agung', 'Ida Anake Agung', 'Anak Agung']",Antagonist,79, Yukti-yukti kadi pamastu dahating sidi baos anake jada punika duaning nenten asue sesampun anake jada punika kesah saking Ida Anake Agung tan pasangkan wenten sabeh bales maduluran kilap-tatit tan pararean,0,2.0,1,1
+91,Tokoh-1,['Ni Bawang'],Protagonist,19, Ni Bawang gotola baanga emas-emasan marupa pupuk subeng kalung bungkung gelang muah kain sutra,0,0.0,1,0
+90,Tokoh-4,['Men Cubling'],Antagonist,15, Buin kejepne teka bojog ajaka liu pesan dapetanga Men Cubling ngeling,0,1.0,1,0
+80,Tokoh-6,"['i kunang-kunang', 'I kunang-kunang', 'I Kunang-kunang']",Antagonist,11, Mara keto raos I tumisine I lutung brangkit pesan matane barak tumuli genjanga mejalan ngalih I kunang-kunang,0,0.0,1,1
+63,Tokoh-2,"['I Mandalane', 'I Mandala']",Antagonist,33, Ditu lantas I Mandala ngengkebang sawane nem diri,0,0.0,1,0
+87,Tokoh-5,"['Kala Wong', 'I Kala Wong']",Antagonist,21, Sakewala sengkala nibenin panjake nginum toya ane suba kaisinin cetik ban I Kala Wong,0,0.0,1,1
+41,Tokoh-1,"['I Congeh', 'Congeh']",Protagonist,33, Disubane I Congeh mepamit laut ia encol mulihan di sisin segarane kurenanne I Congeh sampun mangantosang,0,2.0,1,1
+105,Tokoh-2,"['Ida Raden Galuh Daha', 'I Nanak Galuh', 'Raden Galuh', 'Ida Raden Galuh', 'Raden Galuhe', 'Raden Galuh', 'Galuh Daha', 'raden galuh', 'I Raden Galuhe', 'I Radem Galuh', 'i raden galuh', 'ratu Raden Galuh', 'galuh Daha', 'I Galuh Daha']",Protagonist,33, Sai-sai I Raden Galuh alihanga ajeng-ajengan woh-wohan,0,0.0,1,1
+21,Tokoh-1,['I Getap'],Protagonist,1,Ada anak muani bajang madan I Getap,0,2.0,1,0
+71,Tokoh-7,"['meme', 'Meme', 'memene', 'memen anake cerik ento', 'memen anake cerik']",Protagonist,26, Ne kali kenken nyai ngelah pianak cerik I Busan meme Dadi mara makeplos panak nyaine suba ajak mai Kene meme ade pabesen bapanne I pidan anak konkona nektek maang siap yen luh panake,0,0.0,1,1
+96,Tokoh-5,"['Jro Kelian', 'Jero Kelian', 'Jero Klian', 'Jero Kalian', 'jero', 'jerone']",Antagonist,53, Jero Klian buin nulakin ngujangang Pan Angklung Gadang kenken mayah Krama banjare makejang matolihan medasin sasolahan Pan Angklung Gadange,0,0.0,1,1
+105,Tokoh-2,"['Ida Raden Galuh Daha', 'I Nanak Galuh', 'Raden Galuh', 'Ida Raden Galuh', 'Raden Galuhe', 'Raden Galuh', 'Galuh Daha', 'raden galuh', 'I Raden Galuhe', 'I Radem Galuh', 'i raden galuh', 'ratu Raden Galuh', 'galuh Daha', 'I Galuh Daha']",Protagonist,102, kacerita jani Raden Galuh ditengah alase sig umah Me Lutunge,0,0.0,1,1
+73,Tokoh-2,"['I Sigara', 'I Segara', 'Sigara']",Protagonist,76, I Sigara ane madagang di peken laut duduka ban mekel pekene angona panak sayang,0,5.0,1,1
+105,Tokoh-11,"['Me Lutung', 'I Lutung', 'Lutung', 'Men Lutunge', 'I Lutunge', 'meme Lutung', 'me Lutung']",Protagonist,137, Tengyan teka lantas I Lutung kema lakar mamaling byu saab seeb uli di wangan kubune,0,0.0,1,1
+115,Tokoh-4,['I Biing'],Protagonist,120, I Biing I Badeng muah I Saa-sangkur,0,0.0,1,0
+98,Tokoh-13,"['i bikul', 'bikul']",Protagonist,81, Suba keto mamesu lantas i bikul ajaka i meong tur kaukina i cicing,0,0.0,1,1
+15,Tokoh-3,"['I raksasa', 'I Raksasa', 'Raksasane']",Protagonist,7, Mara ia inget dapetanga ibane suba saupa teken I raksasa,0,0.0,1,1
+100,Tokoh-5,"['Raden Galuh', 'Cening Galuh', 'cening']",Protagonist,27, Kacerita buin manine buin kone Raden Galuh nelokin layon biangne masih gendingin Ida dogen,0,0.0,1,0
+113,Tokoh-11,"['Ida Sang Maharesi', 'Ida Sang Resi', 'ida sang maharesi']",Protagonist,26, Sasampune Ida Sang Resi mawacana asapunika nuli gelis ida ngelarang yoga ngregepang semadi,0,0.0,1,0
+56,Tokoh-3,['I Klaleng'],Antagonist,9, Ditu I Klaleng timpal I Lacure ane taen mlegendahang I Lacur menek ka punyan kayune ento ngalih layangan,0,0.0,1,0
+92,Tokoh-2,['Pan Bergah'],Antagonist,18, Yadiastun asapunika kawentenan kulawargan Pan Bergah sakadi sasonggane bukit johin katon rawit Ni Daha Tua tan mari idepnyane iri ring Pan Bergah,0,0.0,1,0
+16,Tokoh-1,"['Cicing Alas', 'I Cicing Alas']",Antagonist,47, Bobab saut I Cicing Alas,0,0.0,1,1
+69,Tokoh-1,"['I Kancil', 'Kancil']",Antagonist,33, I Kancil masel-selan nawang dewekne kalah teken I Siput ane orahina plaibne sakadi nak tua miwah sakadi buron sing taen ngamah,0,1.0,1,1
+67,Tokoh-5,"['I Kedis Perit', 'Prit', 'I Perit']",Antagonist,39, Matan caine mirib misi virus icang jejeh cucuke kena virus saut I Perit,0,-3.0,1,0
+12,Tokoh-20,"['Cening', 'cening']",Protagonist,34, Antiang malu buin akejep apang makruyuk siape yening suba makruyuk siape mara Cening majalan apang Cening tusing paling ngalih umahne,0,0.0,1,1
+102,Tokoh-3,"['ulame', 'ulam', 'akeh ulame', 'para ulame', 'makasami ulame', 'Makasami ulame', 'ulame sami', 'Para ulame']",Protagonist,2, Ipun dueg pisan ngrincikan daya mangda sida mamangsa saluir ulame sane wenten ring telaga Kumudane,0,3.0,1,0
+67,Tokoh-1,"['sampi', 'i sampi', 'I Sampi']",Antagonist,31, Icang tusing ngenot apa olasin ja icang tulungin ja icang I Sampi kauk-kauk ngidih tulung,0,0.0,1,1
+29,Tokoh-2,"['memenne', 'Meme', 'Memenne', 'meme', 'meme I Belog']",Protagonist,22, Kene omongne Meme meme kurenan icange sube madaar buina ia tusing demen teken nasi be dogen demenina,0,3.0,1,1
+83,Tokoh-1,"['I Lutung', 'Sang Lutung']",Antagonist,1,Ada tuturan satua I Lutung teken I Kekua,0,0.0,1,0
+3,Tokoh-8,"['Sang Arjuna', 'I Arjuna']",Antagonist,13, Sang Hyang Indra ngandika Cening widiadari ajak pepitu bapa ngidih tulung teken cening jani bapa ngutus I dewa luas ke gunung Indrakilane ngoda I Arjuna sane sedek nangun tapa,0,4.0,1,0
+116,Tokoh-3,"['Meng Kuuk', 'Jero Meong', 'I Meng Kuuk', 'jero para meong']",Antagonist,18, Nah lamun buka keto miwah mai macelep ka tengah ditu lantas Meng Kuuk ngajakin I Siap Selem tekening pianakne mulihan,0,0.0,1,0
+8,Tokoh-8,['Ane istri'],Protagonist,69, Ane istri tusing nyidayang ngelingin rabinne,0,0.0,1,0
+24,Tokoh-3,"['I Blatuk', 'Blatuk']",Antagonist,11, Gelisin satua enggal kacerita suba lemah lantas I Blatuk ngireang lakar tangkil ka purian,0,0.0,1,1
+117,Tokoh-7,"['meong', 'Sang Meong', 'meonge', 'I Meong']",Protagonist,68, I Meong nyongkok duur grobage ngantiang,0,0.0,1,1
+96,Tokoh-11,"['I Wayan Sebetan', 'Jero Wayan']",Protagonist,81, Dening keto makejang anake pada gaok ningalin laksanan I Wayan Sebetan,0,0.0,1,0
+99,Tokoh-14,"['bikule', 'bikul', 'I bikul', 'bikule totonan', 'bikul', 'bikule ento']",Antagonist,57, Di sedek bikule mompong petine ento I meyong mamunyi di duur petine apang tusing kadenange bikul mompong peti tekening pandene,0,0.0,1,1
+2,Tokoh-2,"['I Kerkuak', 'Kerkuak', 'kerkuak']",Antagonist,1,Ada katuturan satua I Angsa masawitra teken I Kerkuak,0,0.0,1,1
+42,Tokoh-1,"['Ni Luh Arum', 'Ni Luh Arume', 'Luh Arume', 'Luh Arum', 'Luh', 'Luh arum']",Antagonist,139, Ni Luh Arum lantas nyak ngampakin jelanan mara suluhina kaget anak truna bagus alah rejuna tur agung bhawane napi gelip mangleati Ia Luh Arum ngencolang malaib ka balene ngalih bapanne kene abetne,0,5.0,1,1
+20,Tokoh-11,['Mbok galuh'],Antagonist,20, Mbok galuh I Biang ngaryanin laklak di perantenan tiang icena abungkul,0,0.0,1,0
+70,Tokoh-3,"['I Titih', 'Titih', 'Tittih', 'I Titih lua muani']",Antagonist,5, Satekede ditu I Titih matedoh ngomong Inggih jero gede angob pisan titiang ngantenang jerone wibuh,0,3.0,1,1
+64,Tokoh-1,"['I Lutung', 'Lutung', 'Tung', 'I utung']",Antagonist,2, Kala ento I Lutung sedek girang kecag-kecog mangulanting di duur tarune,0,0.0,1,1
+11,Tokoh-7,['Sang Abimanyu'],Protagonist,6, Jani bapa lakar mapica swagina marep ken Cening ajak telu apang kukuh ban Cening nglaksanayang Masaur Ida Sang Arunika Sang Abimanyu miwah Sang Weda,0,0.0,1,0
+63,Tokoh-1,"['I Lengar', 'Lengar', 'I Lengar paing keliha', 'I Lengar paling keliha', 'Ane paling keliha']",Protagonist,23, I Lengar paling keliha gegison mongkod punyan buahe,0,0.0,1,1
+98,Tokoh-1,"['Pan Jempenit', 'pan jempenit', 'Pan jempenit']",Protagonist,69, Ditu lantas Pan Jempenit ngalih i bikul i meong i cicing tundena ngalihang bungkungne,0,0.0,1,1
+109,Tokoh-4,"['Sang Bima', 'Cening Sang Bima', 'Ida Sang Bima']",Protagonist,56, Dadi kaenjelang I Raksasa ban Sang Bima kelidu lengene tur kategul kanti tusing nyidang makrisikan katlejek tur kaububang laut kailut baongne mawastu ia mati,0,-4.0,1,0
+98,Tokoh-1,"['Pan Jempenit', 'pan jempenit', 'Pan jempenit']",Protagonist,123, Subane tampine bungkunge teken Pan Jempenit lantas buin taplekanga di batune dadi lantas mas batune,0,0.0,1,1
+74,Tokoh-3,"['Ida Anake Agung', 'anake agung', 'Ida anake Agung', 'Ida Anake agung', 'Ida anake agung']",Antagonist,21, Ring puri agung Ida Anake Agung ngawentenang paruman ring bale pasamuan,0,0.0,1,1
+2,Tokoh-2,"['I Kerkuak', 'Kerkuak', 'kerkuak']",Antagonist,34, Suba lantas tepukina I Angsa orahina lantas I Angsa ajak I Kerkuak ada Cicing ngamah be We angsa ditu di Beten Punyan Pulene ada cicing ngamah be Mirib ia ne ngamah bene ane alih dibi,0,1.0,1,1
+101,Tokoh-1,['Pan Mangut'],Protagonist,22, Kasuen-suen suba Pan Mangut magae di carike sambila ngangon sampi,0,0.0,1,0
+92,Tokoh-2,['Pan Bergah'],Antagonist,12, Santukan ipun anak muani tur bajangan ring Ni Daha Tua dadosipun makehan manten Pan Bergah prasida negen saang ka pakubonannyane imbangang ring Ni Daha Tua,0,0.0,1,0
+49,Tokoh-1,"['I Kecut', 'I kecut', 'Kecut']",Antagonist,22, Nah sesampune teked jumah raris I Kecut matur teken I reraman ipun Peh meme icang saud munyi dadine I Dadong Getget nakonang dagdag candung,0,4.0,1,1
+98,Tokoh-15,"['i cicing', 'cicing', 'I cicing']",Protagonist,138, Suba keto lantas macanda i meong ajaka i cicing,0,0.0,1,1
+42,Tokoh-1,"['Ni Luh Arum', 'Ni Luh Arume', 'Luh Arume', 'Luh Arum', 'Luh', 'Luh arum']",Antagonist,26, Masaut pianakne Luh Arum,0,0.0,1,1
+65,Tokoh-4,"['Luh Kancrung', 'Luh', 'Luh Kancerung']",Antagonist,25, Suba jani pragat basane Pekak Dukuh tundena lantas Luh Kancerung nyemak Kakuane Luh kema jemak kakuane aba mai,0,0.0,1,1
+61,Tokoh-3,"['katak', 'katake', 'I Katak']",Protagonist,48, Lega pesan kenehne sawai maan ngamah katak,0,0.0,1,0
+71,Tokoh-1,['I Pudak'],Antagonist,9, Kadi rasa I Pudak sing mandus ane awai ulian ngencanang siapne totonan,0,0.0,1,0
+76,Tokoh-6,"['juru carik', 'juru carik purine']",Protagonist,9, Gusti Patih lantas nunden juru carik nyobiahang sayemwarane tekening krama di sajebag Puri Kertha Bumi,0,0.0,1,0
+113,Tokoh-1,"['Sang Rama', 'Ida Sang Rama', 'Dewa Sang Rama']",Protagonist,16, Wau kacingak Ida Sang Rama rauh gelis Bagawan Sarabangga ngandika Uduh Dewa Sang Rama putran Sang Prabu Dasarata I dewa,0,4.0,1,1
+80,Tokoh-1,"['I Singa', 'prabu Singa', 'I singane', 'I Sing', 'Singa']",Antagonist,41, Nyerap saget tunggak tiinge kene sagrep metatu bungut I Singa cuah-cuah pesu getih,0,0.0,1,1
+98,Tokoh-1,"['Pan Jempenit', 'pan jempenit', 'Pan jempenit']",Protagonist,125, Ngomong Pan Jempenit bikul kengkenang nyangih gigin caine,0,1.0,1,1
+21,Tokoh-3,"['bapane I Getap', 'bapane', 'Bapane I Getap']",Protagonist,35, Bapane I Getap ningeh munyi jelema labuh lantas nyagjagin,0,0.0,1,1
+18,Tokoh-5,"['Dewi Kunti', 'Dewi Kanti']",Protagonist,14, Manggihin sinar surya ngulangunin pisan metu kayun Dewi Kunti pacang nguncarang mantra sakti paican Rsi Durvasa punika,0,2.0,1,0
+109,Tokoh-1,"['Dewi Kunti', 'Ida Dewi Kunti']",Protagonist,15, Kacerita ne jani mataken lantasan Dewa Kunti Naweg nawegang titiang Ratu Pedanda presangga wiakti titian purun matur napi mawinan Singgih Pedanda maswabawa sungsut kadi puniki Ngandika Sang Pandita Ibu sang maraga datengan kalintang luih Idewa metaken indik kabyaparan tiange,0,8.0,0,0
+42,Tokoh-1,"['Ni Luh Arum', 'Ni Luh Arume', 'Luh Arume', 'Luh Arum', 'Luh', 'Luh arum']",Antagonist,132, Masaut Luh Arum uli jumahan,0,0.0,1,1
+62,Tokoh-2,"['Sang Kadru', 'Sang Kadrune']",Antagonist,3, Jani ngayah kone Sang Winata sig Sang Kadrune dadi pangempu ngempuang pianak Sang Kadrune ane asiu,0,0.0,1,0
+12,Tokoh-4,"['Anak Agung', 'Anake Agung', 'Ida Anake Agung', 'Ratu Anak Agung', 'Ratu Dewa Agung', 'Ratu Dewa Anak Agung', 'Anake agung', 'Ida Anak Agung', 'anake agung']",Protagonist,20, Matur I Bintang Lara Inggih Ratu Dewa Agung titiang,0,4.0,1,0
+12,Tokoh-4,"['Anak Agung', 'Anake Agung', 'Ida Anake Agung', 'Ratu Anak Agung', 'Ratu Dewa Agung', 'Ratu Dewa Anak Agung', 'Anake agung', 'Ida Anak Agung', 'anake agung']",Protagonist,128, Mara kacingakin teken Ida Anake Agung ditu lantas Anake Agung gelur-gelur kabatek ban ajerih Idane,0,0.0,1,1
+71,Tokoh-8,['I cening'],Antagonist,32, Ingetang nyen nelok-nelokin mai baang yeh nyonyo Nah meme dong jemakin I cening icang mulih nyen teka bapanne,0,0.0,1,0
+96,Tokoh-1,"['Pan Angklung Gadang', 'Bapa Angklung Gadang', 'Pan Angklung Gadange', 'Angklung Gadang', 'I Angklung Gadang']",Antagonist,4, Kocapan sedek dina anu Ida Anake Agung makayun pacang lunga ka gunung tumuli ngandikain Pan Angklung Gadang Ih Bapa Angklung Gadang gelah jani lakar luas ka gunung kema iba ngeteh-etehin jaran apang enggal Inggih sandikan Cokor I Dewa titiang sairing keto atur Pan Angklung Gadange nglaut bangun ngenggalang nyemak kuda palinggihane tur kaeteh-etehin kapasangin kakepuh kundali ambed ikut muah canggah bias makejang pada mablongsong slaka,0,0.0,1,1
+99,Tokoh-11,"['pandene', 'Pandene', 'pandene ento']",Antagonist,47, Mare keto tawange bungkungne silurine tekening pandene,0,0.0,1,1
+27,Tokoh-1,"['I Belog', 'Belog']",Antagonist,24, Masaut I Belog Aduh Me,0,-5.0,1,1
+50,Tokoh-5,"['i singa', 'I singa', 'singa']",Antagonist,7, Disubane neked di pengkolan ane katuju sujatine ditu ade singa ane sedek majalan,0,0.0,1,0
+77,Tokoh-5,"['memene', 'Meme', 'meme']",Protagonist,8, Meme,0,0.0,1,1
+20,Tokoh-13,"['raden galuh', 'Raden Galuh', 'Raden Galuh Pitu', 'galuh pepitu', 'Galuh Pitu', 'Ida Raden Galuh', 'Raden Galuh pitu', 'galuh pitu punika', 'Raden Galuh ajaka papitu', 'Raden Galuh makasami', 'Raden Galuh Pitu makasami']",Antagonist,51, Nyingakin kasugihan I Raksasa dadi eling Raden Galuh Pitu teken kalacuranne,0,0.0,1,1
+51,Tokoh-2,"['I Lutung', 'Lutung', 'I Liutung']",Antagonist,63, Dini suba Iba muponin buahne Makrapangan jani I Lutung bangun tur gelur-gelur ngaukin I Keker,0,0.0,1,1
+42,Tokoh-1,"['Ni Luh Arum', 'Ni Luh Arume', 'Luh Arume', 'Luh Arum', 'Luh', 'Luh arum']",Antagonist,99, Wireh keto dawa dadi uyute Luh Arum malilingan I Donglen marasa jengah tur lek pesan atinne lantas Ia ngenggalang ngediang awakne,0,3.0,1,1
+52,Tokoh-6,"['asune ento', 'Asune ento', 'asune']",Antagonist,4, Apa kranane Ida sang prabu andel ring asune ento tusing ja ada len sawireh asune ento ngelah kotaman yening ia ngongkong kipek kaja grubug sekancan burone kaja yening ia ngongkong kipek kauh grubug sekancan burone kauh keto masi kipek ane lenan,0,0.0,1,1
+27,Tokoh-1,"['I Belog', 'Belog']",Antagonist,1,Kacerita ada anak muani madan I Belog,0,-5.0,1,1
+117,Tokoh-8,"['bikul', 'Sang Bikul', 'I Bikul']",Protagonist,74, Kanti linggah song grobage pongponga baan I Bikul,0,0.0,1,1
+106,Tokoh-1,"['Ingtai Nyonyah', 'Nyonyah Ingtai', 'Nyonyah Ingati', 'Ni Ingtai', 'I Nyonyah Ingtai', 'Ni Nyonyah', 'Ni Nyonyah Ingtai']",Antagonist,10, Ni Ingtai meweh pisan manahnyane santukan ipun mapedewekan istri utawi luh sirep sareng anak lanang makadi I Babah Sampik,0,0.0,1,0
+12,Tokoh-23,"['Dong Kaki', 'Kaki', 'kaki', 'Kaki-kaki', 'kakine']",Protagonist,73, Buin kejepne bangun lantas I Raksasa tur ngaukin cucune Cucu Cucu Titiang Kaki Alihang Kaki nasi Alihanga lantas nasi,0,0.0,1,1
+24,Tokoh-3,"['I Blatuk', 'Blatuk']",Antagonist,4, Punika sane tunasang titiang sapunapi sapatutne I Blatuk punika Ngandika Ida Sang Prabu Nah cai Baluan yening saja keto tingkah I Blatuke kema suba cai mulih Nanging orahin I Blatuk semengan apang suba nangkil ka puri Raris matur I Baluan Inggih ratu titiang pacang mapamit mangkin,0,11.0,1,1
+55,Tokoh-5,"['I Kidang', 'Kidang']",Protagonist,68, Nah Cai Kidang jani ajak icang kema ka tangos macanne ento apang tawanga lakar siatin icang jani pang sepalanan bangka tendasne,0,0.0,1,0
+24,Tokoh-2,"['Ida Sang Prabu Singa', 'Ida Sang Prabu', 'ratu sang prabu', 'Ratu Sang Prabu', 'Ratu sang Prabu', 'Ida sang Prabu Singa']",Protagonist,22, Dadi meneng Ida Sang Prabu ajahan raris ngandika Uh beneh saja unduk caine keto,0,5.0,1,0
+107,Tokoh-5,"['panjakidane', 'panjake']",Protagonist,18, Sarauhe ring puri Ida kapendak antuk prameswari muah panjake sami,0,0.0,1,0
+11,Tokoh-4,"['Sang Weda', 'Ida Sang Weda']",Protagonist,58, Ida Sang Weda kanikayang pageh nglaksanayang swagina maratengan di parantenan,0,0.0,1,1
+65,Tokoh-3,"['Pekak Dukuh', 'I Pekak Dukuh', 'I Dukuh']",Antagonist,9, Ditu lantas I Dukuh ngungkabang tengkulake tepukina I Kakua ngesil lantas ejuka abana mulih,0,0.0,1,0
+11,Tokoh-5,"['Ida Dang Guru', 'Dang Guru', 'dang guru', 'Dang guru', 'dang gurujati']",Protagonist,31, Mapikolih abedik tusing pesan ada ane katur ring dang guru,0,0.0,1,1
+29,Tokoh-1,"['I Belog', 'Belog']",Antagonist,20, Nyananne I Belog teka nelokin kurenanne dapetanga nasinne maura tur benne sube telah,0,-3.0,1,1
+105,Tokoh-2,"['Ida Raden Galuh Daha', 'I Nanak Galuh', 'Raden Galuh', 'Ida Raden Galuh', 'Raden Galuhe', 'Raden Galuh', 'Galuh Daha', 'raden galuh', 'I Raden Galuhe', 'I Radem Galuh', 'i raden galuh', 'ratu Raden Galuh', 'galuh Daha', 'I Galuh Daha']",Protagonist,231, Bwin encoganga Raden Galuh bwin maclengek bungut I Lutunge di nebe,0,0.0,1,1
+83,Tokoh-1,"['I Lutung', 'Sang Lutung']",Antagonist,22, Gelisang satua I Lutung ngempok biu masane nasa duang bulih tur peluta amaha maka dadua,0,0.0,1,0
+12,Tokoh-3,"['I Bintang Lara', 'Bintang Lara', 'I Bintang Larane', 'adi Bintang Lara', 'adi', 'I adi', 'Adi Bintang Lara', 'Adi']",Protagonist,121, Gedianga lantas tabuane teken I Bintang Lara,0,0.0,1,1
+61,Tokoh-2,"['I Lelipi Gadang', 'Lelipi Gadang', 'lelipi gadang gede', 'I Lelipi']",Antagonist,37, Dadi lagas jani bayun Ratun Katake masawitra ngajak I Lelipi Gadang,0,0.0,1,1
+54,Tokoh-3,"['anak muani pisagane I Kerug', 'pisagane', 'Pisagane I Kerug', 'pisagane I Kerug']",Protagonist,60, Suba makelo ngelah utang dini ditu teken pisagane sakewala engsap baana mayah ulihan ngenehang tajen dogen,0,0.0,1,0
+112,Tokoh-2,"['Sang Prabu Singa', 'prabu Singa', 'Prabu Singa', 'Sang Singa']",Protagonist,28, Sang Prabu Singa kipak-kipek sarwi mapineh-pineh tan paguna tresnan deweke teken I Nandaka Jani mula sewayan deweke masiat nglawan Nandaka,0,0.0,1,1
+98,Tokoh-15,"['i cicing', 'cicing', 'I cicing']",Protagonist,139, Yan kenken undukne i meong nget bakat ceguta teken i cicing baongne ditu lantas i meong ngomong Ih,0,1.0,1,1
+96,Tokoh-11,"['I Wayan Sebetan', 'Jero Wayan']",Protagonist,86, Kocapan I Wayan Sebetan ngencolang ia bangun tur mlaib ka tlabahe ukek-ukek delu-delu utah utah malebleban ia di tlabahe sambilanga ngumbah panganggonne,0,0.0,1,0
+60,Tokoh-5,"['I Blatuk', 'Kedis Blatuk']",Antagonist,9, Kai mataken jani teken Iba Nak ngudiang Iba ileh-ileh ngaba tumbak poleng Masaut kone I Capung Bangkok Kene Jero Lutung ane ngaranang tiang ileh-ileh ngaba tumbak poleng sawireh to nyamane I Blatuk nepak kulkul bulus,0,0.0,1,0
+20,Tokoh-14,"['raksasa', 'I Raksasa']",Antagonist,48, Disubane peteng ditu ngenah umah I Raksasa galang maglanaran kasinarin antuk manik-manik ane masinar makenyornyor,0,0.0,1,1
+42,Tokoh-3,"['I Donglen', 'Gede Donglen']",Protagonist,150, Icang suba I Donglen,0,0.0,1,0
+44,Tokoh-1,"['i empas luh muani', 'I Empas ajaka dadua luh muani', 'empas ajak dadua', 'I Empas ajaka dadua', 'I Empas makadadua', 'empase ajak dadua']",Antagonist,1,Ada kone tutur-tuturan satua i empas luh muani nongos di tlagane gede bek misi lumut katang-katang muah sekancan bungan tunjung ane sedekan mabunga,0,2.0,1,0
+72,Tokoh-1,"['I Ubuh', 'U-buh', 'Ubuh']",Protagonist,60, Mara I Ubuh ningeh muyin tonyane keto ilang pedihne,0,0.0,1,1
+6,Tokoh-2,"['I Blenjo', 'Blenjo', 'Njo']",Antagonist,44, Ene awake malah ja maileh-ileh nyilih payuk lantang Nah jani suba tawang carane keto I Blenjo laut buin ia medem,0,0.0,1,1
+59,Tokoh-6,"['I Lelipi', 'Lipi', 'I lelipi']",Antagonist,20, jelemane ento nepukin I Lelipi diduur batune ngenggalang kone jelemane ento melaib,0,0.0,1,1
+67,Tokoh-7,"['I Kedis Goak', 'I Goak', 'Goak']",Antagonist,24, Disubane I Goak magedi mara I Sampi marasa liang,0,0.0,1,1
+105,Tokoh-4,"['anake agung', 'Ratu Dewa Agung']",Protagonist,267, Inggih ratu dewa agung,0,0.0,1,0
+62,Tokoh-3,"['Sang Garuda', 'Garuda', 'Dewa Sang Garuda']",Protagonist,19, Gelisan satua matur Sang Garuda ring Batara Wisnu sada bangras Ih Batara Wisnu tiang mai ngalih Cupu amerta kenken kayun Batarane jani baang apa tusing amertane Yen kal baang mainang jani yen tusing jalan masiat malu,0,4.0,1,1
+97,Tokoh-1,"['Pan Balang Tamak', 'Pan Balang Tamake']",Antagonist,51, Mara Pan Balang Tamak ningeh arah-arahe keto lantas ia ngae jaja uli injin bakal anggona melog-melog desane,0,0.0,1,0
+36,Tokoh-1,"['I Celempung', 'Celempung']",Antagonist,9, Ningeh pangarah buka keto I Celempung mapineh-pineh lakar nyilih pipis,0,0.0,1,1
+26,Tokoh-1,['I Belog'],Antagonist,17, Masaut I Belog uli durin gedenge Nah nah Damuh ditu suba unggahang Yen suba Damuh bakti marep teken nira sinah suba bagia lakar kapangguh,0,-2.0,1,0
+16,Tokoh-7,['I Kedis Cangak'],Protagonist,35, Kema cai ngidih tulung tekening I Kedis Cangak Jani I Kedis Cangak dadi balian sidhi tur demen mapitulung,0,3.0,1,0
+64,Tokoh-1,"['I Lutung', 'Lutung', 'Tung', 'I utung']",Antagonist,22, Cutet I Lutung ngalih daya anggon ngamatiang deweke,0,0.0,1,1
+25,Tokoh-4,['I Mantri'],Protagonist,10, Sasubanne I Mantri mantuk lantas pesu I Basang Siap ngrepe uli tongosne mengkeb kadena clebongkakane ento misi yeh kuud lantas isapa,0,0.0,1,0
+116,Tokoh-3,"['Meng Kuuk', 'Jero Meong', 'I Meng Kuuk', 'jero para meong']",Antagonist,36, Suuak keto pianakne lenan makeber Apa ento Siap Selem Meng Kuuk buin mtakon Ento don tiinge ulung pesautne Siap Selem,0,0.0,1,0
+96,Tokoh-12,"['bapane', 'bapa', 'Bapa', 'Bapane']",Protagonist,109, Dening ne malu umah Bapane anggon Bapa kantab jani umah Bapane lakar adep icang,0,0.0,1,1
+28,Tokoh-2,"['Pan Sari', 'Pan sari']",Antagonist,2, Pan Sari ngelah pianak aukud madan Luh Sari,0,0.0,1,1
+71,Tokoh-7,"['meme', 'Meme', 'memene', 'memen anake cerik ento', 'memen anake cerik']",Protagonist,19, Keto abat memen anake cerik ngrengkeng padidiana,0,0.0,1,0
+56,Tokoh-3,['I Klaleng'],Antagonist,14, Diapin je I Klaleng taen mlegendahang dewekne I Lacur nyak masih nulungin I Klaleng,0,0.0,1,0
+67,Tokoh-1,"['sampi', 'i sampi', 'I Sampi']",Antagonist,14, I Sampi bangun ngrenjit tur nengengang matane ka tongos I Kedis Goak matinggah,0,0.0,1,1
+74,Tokoh-3,"['Ida Anake Agung', 'anake agung', 'Ida anake Agung', 'Ida Anake agung', 'Ida anake agung']",Antagonist,28, Nyuryanin paras Ni Layonsari Ida anake Agung ten prasida ngeraos napi - napi santukan nyuryanin kajegegan ipun,0,0.0,1,1
+116,Tokoh-3,"['Meng Kuuk', 'Jero Meong', 'I Meng Kuuk', 'jero para meong']",Antagonist,14, Lantas pesu ane ngelah umahe ento boya ja sios wantah meong lua madan Meng Kuuk,0,0.0,1,0
+98,Tokoh-16,"['timpalne', 'timpal-timpalne']",Antagonist,82, Dugase ento hujan lantas bales pesan tur tukade blabar gede dening keto keweh lantas kenehne i bikul ngomong lantas teken timpalne,0,5.0,1,0
+105,Tokoh-17,"['meme', 'memene']",Protagonist,171, Sajaan meme nira lakar panebus urip memene,0,0.0,1,1
+98,Tokoh-17,"['kedis muwun', 'i kedis muwun', 'i kedis muun']",Protagonist,101, Kacaritayang ada lantas teka kedis madan kedis muwun tur bengong di duur batune,0,0.0,1,0
+75,Tokoh-2,"['rare ngeling', 'rare ne ngeling punika', 'rarene punika', 'rare punika', 'Rarene punika']",Protagonist,20, Raris ipun matur ring gurun pagep nakenin indik dane olih rarene punika gurun pagep nuturin saking awit pamargin dane ngantes olih ngrebutin rarene punika,0,4.0,1,1
+117,Tokoh-1,"['I Ketimun Mas', 'Ketimun Mas']",Protagonist,9, Yening ada anak kauk-kauk tidong meme da pesan ampakina Kacerita kone jani I Ketimun Mas nongos jumahan meten makancing jlanan,0,0.0,1,1
+115,Tokoh-2,"['Ni Luh Lancah', 'Luh Lancah', 'Luh LAncah']",Antagonist,44, Rukun pesan I Pagul makurenan ajake Luh Lancah,0,0.0,1,1
+105,Tokoh-2,"['Ida Raden Galuh Daha', 'I Nanak Galuh', 'Raden Galuh', 'Ida Raden Galuh', 'Raden Galuhe', 'Raden Galuh', 'Galuh Daha', 'raden galuh', 'I Raden Galuhe', 'I Radem Galuh', 'i raden galuh', 'ratu Raden Galuh', 'galuh Daha', 'I Galuh Daha']",Protagonist,188, Kenken suba duur Raden Galuh,0,0.0,1,1
+40,Tokoh-11,"['semut anyud', 'I semut', 'I Semut']",Protagonist,6, Mara I Clalongan matolihan tuun saget ada semut anyud,0,0.0,1,0
+48,Tokoh-1,"['Kasiapa Kepuh', 'Kasiape Kepuh', 'I Kasiape Kepuh', 'punyan Kasiape Kepuh']",Antagonist,21, Masaut I Kasiape Kepuh Ede juange taluh anake lek atin icange ajak I Goak,0,0.0,1,1
+19,Tokoh-2,"['bhagawan Drona', 'Hyang Bhagawan', 'Sang guru Drona', 'Dang Hyang Drona', 'Sang Bhagawan', 'Guru Drona']",Antagonist,12, Arjuna Dados pascat pisan ragane ring aji papanahan sira makaguru ragane Ekalawya Guru titiange wantah Dang Hyang Drona,0,0.0,1,0
+24,Tokoh-6,"['I Beduda', 'Beduda', 'I Bedudane', 'Baduda']",Antagonist,52, Matur I Beduda nunasang sulur ibane kadauhin,0,4.0,1,1
+96,Tokoh-5,"['Jro Kelian', 'Jero Kelian', 'Jero Klian', 'Jero Kalian', 'jero', 'jerone']",Antagonist,103, Jero Kalian tanggu malu capatina teken Pan Angklung Gadang,0,0.0,1,1
+42,Tokoh-3,"['I Donglen', 'Gede Donglen']",Protagonist,122, I Donglen nuutang pituduh kedise totonan ngungsi Ia ngaja kanginang abedik tepukina ada beji pancoran majajar solas yehne pada mawarna ada putih ada barak selem ada kuning buka mase dadar ada sliwah ada ngrerengih,0,0.0,1,0
+21,Tokoh-3,"['bapane I Getap', 'bapane', 'Bapane I Getap']",Protagonist,23, Liu anake demen ningalin lalakut bapane I Getap,0,4.0,1,1
+24,Tokoh-3,"['I Blatuk', 'Blatuk']",Antagonist,10, Sasubanne I Blatuk teked di jumahne engsek pesan kenehne kanti tuara nyidaang pules,0,0.0,1,1
+44,Tokoh-11,"['empas', 'Empas', 'I Empas', 'empase']",Antagonist,57, Mara magelebug di tegale tur tonden ada apakpakan makelone ulung saget I Kuluk suba nangal I Empas pada mabesik,0,0.0,1,1
+29,Tokoh-1,"['I Belog', 'Belog']",Antagonist,11, Memenne buin ngomong Men dija ia jani I Belog buin ngomong Ento apa jumah meten me da delokina malu krana ia nu lek,0,-3.0,1,1
+34,Tokoh-4,['I Sampi'],Antagonist,27, Kuting I Sampi masih milu nyalahang I manusa munyine Tingalin ja kai sasubane awake tuara nyidaang buin ngedeng tengala laut kai adepa teken sudagare,0,0.0,1,0
+35,Tokoh-4,"['Beli', 'beline', 'Bell']",Protagonist,4, Sedek dina anu ngomong I Rumpuh Beli jalanja luas kumah-umah anake ngidih-ngidih tusing duga baan icang naanang basange seduk,0,1.0,1,0
+88,Tokoh-2,['Men Brayut'],Antagonist,14, Suba pada bangun pianakne ada ane nagih nasi nagih sate ada ngeling goar-goar bangun lantas Men Brayut kijap-kijap matane enu ngepit laut pesu katututin teken pianakne madandan bilang samping ada di duri ada di malu ada nimanin awanan kanti kobed Men Brayut majalan,0,2.0,1,0
+97,Tokoh-1,"['Pan Balang Tamak', 'Pan Balang Tamake']",Antagonist,36, Yen Pan Balang Tamak majalan paling durina pesan sambilanga nyangkol cicingne,0,0.0,1,0
+6,Tokoh-2,"['I Blenjo', 'Blenjo', 'Njo']",Antagonist,58, Di kenehne I Blenjo ngadakang I Nyoman Jater apang enggal luas ka uma apang enggal ia buin nyidang nyemak nasi,0,0.0,1,1
+67,Tokoh-7,"['I Kedis Goak', 'I Goak', 'Goak']",Antagonist,50, I Goak kapiangen ningalin I Sampi ane gede situh kalara-lara,0,2.0,1,1
+67,Tokoh-7,"['I Kedis Goak', 'I Goak', 'Goak']",Antagonist,49, I Sampi tusing ngrunguang I Goak ane gedegina ento,0,0.0,1,1
+105,Tokoh-12,"['Ratu Dewa Ayu', 'I Dewa Ayu', 'Ratu dewa ayu', 'dewa ayu', 'ratu dewa ayu']",Protagonist,245, Sampun ratu dewa ayu,0,3.0,1,1
+77,Tokoh-2,['Ni Wingsali'],Protagonist,6, Sedeng itehe ngamah Ni Wingsali makasiab nepukin buron tawah,0,0.0,1,0
+26,Tokoh-1,['I Belog'],Antagonist,31, Keto nasibne Pan Sari ngelah mantu madan I Belog ane setata ngaenang ia jengah tur sakit hati,0,-5.0,1,0
+33,Tokoh-2,"['bojog', 'bojoge', 'Bojog', 'I Bojog', 'I bojog']",Antagonist,16, Mara keto I Kedis karasa sanget nganistang ia I Bojog laut ia masaut sada bangras Ih Iba kedis nista mula keto bikas Ibane tuara marasa tekening dewek nista tuah bisa ngonek jelek anak lenan sakewala tusing marasa teken jeleke di dewek Ibane,0,0.0,1,1
+97,Tokoh-1,"['Pan Balang Tamak', 'Pan Balang Tamake']",Antagonist,58, Dening keto mawuwuh-wuwuh brangtin desane muah tan sah bakal ngaenang daya upaya manang dane Pan Balang Tamak mati wiadin kena danda,0,-4.0,1,0
+24,Tokoh-5,"['I Kunang-Kunang', 'Kunang-Kunang', 'I Kunang-kunang']",Antagonist,32, Punika awinan titiang ileh-ileh ngaba umah ajerih pisan titiang yan umah titiange katunjel antuk ipun I Kunang-Kunang,0,0.0,1,1
+72,Tokoh-1,"['I Ubuh', 'U-buh', 'Ubuh']",Protagonist,51, U-buh ka-i ngi-dih olas teken iba,0,3.0,1,0
+73,Tokoh-5,"['Bapa', 'bapa']",Protagonist,36, Sawireh Cening mula madasar jemet tresna tur bakti sinah sing ja bakal makelo Cening mondong sengsara sawireh bapa ngelah pusaka sakti ane bakal serahang teken dewek Ceninge,0,6.0,1,1
+120,Tokoh-1,"['I Lutung', 'Lutung', 'lutung', 'I lutung']",Antagonist,24, Gelisin satua enggal dipondok I Pekak dukuh ngorin cucune niluh kancrung kapeken meli basa lakar nampah I Kekua anggona lawar mara keto dingeha kone munyine I Pekak dukuh keto teken I Kekua ditu ia sedih nyelselin padewekan Uduh ratu Sang Hyang Parama Kawi dados sapuniki sane panggihin titiang dadi ati I lutung nguluk - nguluk titiang tan buungan titiang ngemasin mati Ratu,0,-9.0,1,1
+28,Tokoh-1,"['I Belog', 'Belog']",Protagonist,21, I Belog suba ngamalunin mulih,0,-5.0,1,1
+30,Tokoh-1,['Pan Meri'],Protagonist,60, Liu pesan jani Pan Meri ngelah meri,0,1.0,1,0
+54,Tokoh-1,['I Kerug'],Antagonist,12, Saget keto I Kerug ngelah nyet lakar ngadep tegalne,0,0.0,1,0
+115,Tokoh-9,"['siapne', 'siape', 'Makejang siapne']",Protagonist,33, Itep siape pada noltol jagung,0,-2.0,1,0
+48,Tokoh-4,"['Ida Sang Prabu Mangsalia', 'Sang Prabu Mangsalia', 'Dewa Sang Prabu', 'I Dewa', 'sang prabu']",Protagonist,45, Raris Ida Sang Prabu Mangsalia dahat ledang pisan,0,0.0,1,1
+105,Tokoh-2,"['Ida Raden Galuh Daha', 'I Nanak Galuh', 'Raden Galuh', 'Ida Raden Galuh', 'Raden Galuhe', 'Raden Galuh', 'Galuh Daha', 'raden galuh', 'I Raden Galuhe', 'I Radem Galuh', 'i raden galuh', 'ratu Raden Galuh', 'galuh Daha', 'I Galuh Daha']",Protagonist,64, Kenken Sampi tepukin Cai Raden Galuh,0,0.0,1,1
+87,Tokoh-4,"['Ida Bhatara Indra', 'Ida Batara Indra', 'Ida Bhatara Indrane']",Protagonist,19, Sawireh suba sandikaon di tengah alase Ida Bhatara Indra nganikain apanga panjaknyane mararaian,0,0.0,1,0
+105,Tokoh-5,"['panyrowane', 'panyrowan']",Antagonist,12, Be makyayangan lantas Raden Galuh bareng panyrowane pungsang-pangsinga teken angine,0,0.0,1,0
+92,Tokoh-5,"['sudagare', 'Sudagare', 'sudagar', 'I Sudagar']",Antagonist,56, Anake odah punika ngawentenan baos kadi puniki Nah cai sudagar maisi buin pinunas caine kadi pakrimik caine i busan,0,0.0,1,0
+92,Tokoh-6,"['Pepatih Agung', 'patih', 'I Patih Agung']",Antagonist,64, Tan asue I Patih Agung sampun nyakrawerti dados Ratu wibuhing brana miwah bala wadua,0,0.0,1,1
+71,Tokoh-9,"['bapane', 'bapanne']",Protagonist,36, Kadena buin kejepne bapane mulih tusing masih ada,0,0.0,1,0
+42,Tokoh-3,"['I Donglen', 'Gede Donglen']",Protagonist,129, Ditu I Donglen bin malipetan mulih ka deshanne ngulah sanja nyrepetang ngojog kumah Luh Arum,0,0.0,1,0
+34,Tokoh-7,"['Sang Kancil', 'I Kancil']",Protagonist,41, Mara dingeha baan I Kancil tutur I Botole keto laut ia bengong mlengokang sambilanga makeneh-keneh,0,0.0,1,0
+9,Tokoh-2,"['memene', 'Meme', 'Memenne', 'memenne', 'I meme', 'Memene', 'Me', 'Men Belog', 'memene I Belog']",Protagonist,36, Memenne tonden ia manjus ento makrana bonne bengu,0,0.0,1,1
+116,Tokoh-2,"['I Doglagan', 'Cening Doglagan', 'Doglagan']",Protagonist,2, Ane paling cerika tusing ngelah bulu madan I Doglagan,0,0.0,1,1
+40,Tokoh-12,['I Matul'],Protagonist,16, Saget dingeha ada munyin kedis I Matul matolihan menek nlektekan carang-carang kayune,0,0.0,1,0
+111,Tokoh-3,"['paksi Lanjana', 'Sang Lanjana']",Protagonist,10, Sang Lanjana karag-kirig raris makecos ningkrik duur bacin kebone sambilanga ipun mamunyi,0,0.0,1,0

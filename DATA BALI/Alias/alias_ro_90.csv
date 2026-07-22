@@ -1,0 +1,1388 @@
+StoryID,CharactersID,AliasCharacters
+1,Tokoh-1,['anake sane mentas ditu']
+1,Tokoh-2,['jerone sareng sami']
+1,Tokoh-3,['pianakne muani']
+1,Tokoh-4,['liu anake']
+1,Tokoh-5,['pan karsa']
+1,Tokoh-6,['pan karta']
+1,Tokoh-7,['pianak']
+1,Tokoh-8,['jero']
+2,Tokoh-1,"['i cicing gudig', 'cicing gudig', 'cicing']"
+2,Tokoh-2,['cicinge to']
+2,Tokoh-3,"['i kerkuak', 'kerkuak']"
+2,Tokoh-4,"['i angsa', 'angsa']"
+3,Tokoh-1,['widiadarine sane ayu-ayu pitung diri']
+3,Tokoh-2,['widiadarine pitung diri punika']
+3,Tokoh-3,"['cening widiadari ajak pepitu', 'cening']"
+3,Tokoh-4,['para rsi kahyanga']
+3,Tokoh-5,['sang hyang indra']
+3,Tokoh-6,"['kurenan i arjuna', 'i arjuna']"
+3,Tokoh-7,['dedari supraba']
+3,Tokoh-8,['niwatakawaca']
+3,Tokoh-9,['sang arjuna']
+3,Tokoh-10,['tilottama']
+3,Tokoh-11,['raksasa']
+3,Tokoh-12,['danawa']
+3,Tokoh-13,['detia']
+3,Tokoh-14,['bapa']
+3,Tokoh-15,['dewa']
+4,Tokoh-1,"['ida anak agung ngurah rangsasa', 'ida anak agung ngurah sangsara', 'ngurah']"
+4,Tokoh-2,['ida sanghyang sambu']
+4,Tokoh-3,"['i ngurang rangsasa', 'i ngurah rangsasa', 'i ngurah']"
+4,Tokoh-4,"['ida i ngurah sawe', 'ida ngurah sawe', 'i ngurah sawe']"
+4,Tokoh-5,"['paduka betara', 'betara']"
+4,Tokoh-6,['ida betara']
+4,Tokoh-7,['ijo sambu']
+5,Tokoh-1,['jro panunggun kepuh']
+5,Tokoh-2,"['batan wit kepuhe', 'wit kepuhe']"
+5,Tokoh-3,['wit kepuh ageng']
+5,Tokoh-4,['batan kepuhe']
+5,Tokoh-5,"['i tumtum', 'tumtum']"
+6,Tokoh-1,['tukang jaring tokal muah be bano']
+6,Tokoh-2,"['i nyoman jater', 'nyoman jater', 'nyoman']"
+6,Tokoh-3,['jero pesaren']
+6,Tokoh-4,"['krama pesare', 'pesare']"
+6,Tokoh-5,"['memen wayan', 'meme wayan', 'meme']"
+6,Tokoh-6,['meme nengah']
+6,Tokoh-7,['klian saren']
+6,Tokoh-8,['i pesaren']
+6,Tokoh-9,"['i blenjo', 'blenjo']"
+6,Tokoh-10,['klia']
+6,Tokoh-11,['njo']
+7,Tokoh-1,['belin icang maka dadua']
+7,Tokoh-2,['adin-adinne maka dadua']
+7,Tokoh-3,"['adin beli ajak dadua', 'adin', 'beli']"
+7,Tokoh-4,"['gancing, gancung']"
+7,Tokoh-5,['beli gancang']
+7,Tokoh-6,['i gancing']
+7,Tokoh-7,['i gancung']
+7,Tokoh-8,['i gancang']
+7,Tokoh-9,['i taru']
+8,Tokoh-1,['pandita ajaka duang diri']
+8,Tokoh-2,['panditane ane sujati']
+8,Tokoh-3,['panditane maka kalih']
+8,Tokoh-4,['pandita ane siluman']
+8,Tokoh-5,"['kedis belibis putih', 'belibis putih']"
+8,Tokoh-6,['i belibis putih']
+8,Tokoh-7,"['ida sang prabu', 'sang prabu']"
+8,Tokoh-8,"['ratu pandita', 'ratu']"
+8,Tokoh-9,['cicing gudig']
+8,Tokoh-10,['kedis goak']
+8,Tokoh-11,['prabu boya']
+8,Tokoh-12,['ane istri']
+8,Tokoh-13,['narajana']
+8,Tokoh-14,['belibise']
+8,Tokoh-15,['kedise']
+8,Tokoh-16,['bapa']
+9,Tokoh-1,"['bangken anake luh totonan', 'anake luh', 'anak luh', 'luh']"
+9,Tokoh-2,['anak luh jegeg pesan']
+9,Tokoh-3,"['kurenane i belog', 'i belog', 'belog']"
+9,Tokoh-4,['bangken anak luh']
+9,Tokoh-5,['memene i belog']
+9,Tokoh-6,['anake luh ento']
+9,Tokoh-7,"['kurenan icange', 'kurenan', 'kurena']"
+9,Tokoh-8,['men belog']
+9,Tokoh-9,['bangke']
+9,Tokoh-10,"['i meme', 'meme']"
+9,Tokoh-11,['memen']
+9,Tokoh-12,['me']
+10,Tokoh-1,"['kedise petang ukud', 'kedise']"
+10,Tokoh-2,"['ratu sang prabu', 'sang prabu']"
+10,Tokoh-3,['ida sang prabu']
+10,Tokoh-4,"['ida batara sri', 'ida batari sri']"
+10,Tokoh-5,"['maharaja pretu', 'maharaja']"
+10,Tokoh-6,"['i kedis sugem', 'kedis sugem']"
+10,Tokoh-7,"['i kedis kuteh', 'kedis kuteh']"
+10,Tokoh-8,['panjaki da']
+10,Tokoh-9,['kedis dara']
+10,Tokoh-10,"['ceninge', 'cening']"
+10,Tokoh-11,"['panjake', 'panjak']"
+10,Tokoh-12,['meme']
+11,Tokoh-1,"['ida bhagawan domia', 'bhagawan domia', 'ida bhagawan']"
+11,Tokoh-2,['ida hyang bhagawan']
+11,Tokoh-3,"['bapa sang undakala', 'bapa']"
+11,Tokoh-4,"['ida sang utamaniu', 'sang utamaniu']"
+11,Tokoh-5,"['ida sang arunika', 'sang arunika']"
+11,Tokoh-6,"['ida dang guru', 'dang guru']"
+11,Tokoh-7,['dang gurujati']
+11,Tokoh-8,['sang abimanyu']
+11,Tokoh-9,['ratu bhagawan']
+11,Tokoh-10,"['ida sang weda', 'sang weda']"
+11,Tokoh-11,"['ceninge', 'cening']"
+12,Tokoh-1,['nak luh dadua jegeg-jegeg']
+12,Tokoh-2,['widiadari ajaka lelima']
+12,Tokoh-3,['tanda mantri perbekel']
+12,Tokoh-4,"['ratu dewa anak agung', 'anak agung']"
+12,Tokoh-5,"['ida dedari supraba', 'dedari supraba', 'dedari']"
+12,Tokoh-6,['dedari gargamayang']
+12,Tokoh-7,"['gagak petake ento', 'gagak petake', 'gagak petak']"
+12,Tokoh-8,['dedari buin dadua']
+12,Tokoh-9,"['cucunne i raksasa', 'i raksasa']"
+12,Tokoh-10,"['pianak men bekung', 'men bekung', 'pianak', 'panak']"
+12,Tokoh-11,['kedis gagak petak']
+12,Tokoh-12,"['rabin anake agung', 'anake agung']"
+12,Tokoh-13,"['adi bintang lara', 'i bintang lara', 'bintang lara', 'adi']"
+12,Tokoh-14,['anak agung istri']
+12,Tokoh-15,['dewi gagarmayang']
+12,Tokoh-16,['ratu dewa agung']
+12,Tokoh-17,"['ida anake agung', 'ida anak agung']"
+12,Tokoh-18,"['anake odah ento', 'anake odah', 'anak odah']"
+12,Tokoh-19,['parekan-parekan']
+12,Tokoh-20,['ratu anak agung']
+12,Tokoh-21,['pianakne muani']
+12,Tokoh-22,['jero anak odah']
+12,Tokoh-23,"['i gagak petake', 'i gagak petak']"
+12,Tokoh-24,['pianak tiange']
+12,Tokoh-25,['baudandanida']
+12,Tokoh-26,['dewi supraba']
+12,Tokoh-27,['men bekunge']
+12,Tokoh-28,"['pianak meme', 'panak meme', 'meme']"
+12,Tokoh-29,"['ni suprada', 'ni supraba']"
+12,Tokoh-30,['pan bekung']
+12,Tokoh-31,['parekanida']
+12,Tokoh-32,"['i rangsasa', 'rangsasa']"
+12,Tokoh-33,"['i parekan', 'parekan', 'pareka']"
+12,Tokoh-34,['kaki-kaki']
+12,Tokoh-35,"['ni dedari', 'i dedari']"
+12,Tokoh-36,"['dong kaki', 'kaki']"
+12,Tokoh-37,['anak luh']
+12,Tokoh-38,['rabinida']
+12,Tokoh-39,"['ni cili', 'cili']"
+12,Tokoh-40,"['kurenan', 'kurena']"
+12,Tokoh-41,['cening']
+12,Tokoh-42,['embok']
+12,Tokoh-43,['cucun']
+12,Tokoh-44,['i adi']
+12,Tokoh-45,['bapan']
+12,Tokoh-46,['cucu']
+12,Tokoh-47,['me']
+13,Tokoh-1,['anak jegeg listuayu ento']
+13,Tokoh-2,"['ida sanghyang embang', 'embang']"
+13,Tokoh-3,['sang hyang embang']
+13,Tokoh-4,['bojog lua ento']
+13,Tokoh-5,['bhatara wisnu']
+13,Tokoh-6,['kedis-kedise']
+13,Tokoh-7,['i bojog lua']
+13,Tokoh-8,"['ni murdani', 'murdani']"
+13,Tokoh-9,['kedis']
+14,Tokoh-1,"['ula aya ageng pisan', 'ula aya', 'ula']"
+14,Tokoh-2,"['ula ayane punika', 'ula aya punika']"
+14,Tokoh-3,['ulane punika']
+14,Tokoh-4,"['pianak ipun', 'pianak ipu', 'pianak', 'panak']"
+14,Tokoh-5,['pan badung']
+14,Tokoh-6,['bapan ipun']
+14,Tokoh-7,['ni badung']
+14,Tokoh-8,['pianaknya']
+14,Tokoh-9,['bapa']
+15,Tokoh-1,['ni bulan kuning']
+15,Tokoh-2,['men bekung']
+15,Tokoh-3,"['i raksasa', 'raksasa']"
+16,Tokoh-1,['beburon di alas jenggala sila']
+16,Tokoh-2,['kedis mabatis lantang ento']
+16,Tokoh-3,"['i kedis cerukcuk', 'kedis cerukcuk']"
+16,Tokoh-4,['i kedis cangak']
+16,Tokoh-5,"['i cicing alas', 'cicing alas']"
+16,Tokoh-6,['i landak']
+16,Tokoh-7,['i kuwuk']
+16,Tokoh-8,"['i lembu', 'lembu']"
+16,Tokoh-9,['beburo']
+17,Tokoh-1,"['jelema gede-gede siteng', 'jelema']"
+17,Tokoh-2,"['anake luh jegeg ento', 'anake']"
+17,Tokoh-3,"['anake bajang ento', 'anak bajange ento', 'anak bajang ento', 'anake bajang e', 'anak bajang']"
+17,Tokoh-4,['anak muani bajang']
+17,Tokoh-5,['anake muani ento']
+17,Tokoh-6,"['anak luih jegeg', 'anak luh jegeg']"
+17,Tokoh-7,['sang maha wirya']
+17,Tokoh-8,"['sang natha ratu', 'natha ratu']"
+17,Tokoh-9,"['anake luh ento', 'luh ento']"
+17,Tokoh-10,"['i dadong jepun', 'dadong jepun', 'i dadong', 'dadong']"
+17,Tokoh-11,['sang maha raja']
+17,Tokoh-12,"['ida sang raja', 'sang raja']"
+17,Tokoh-13,['i krama lenan']
+17,Tokoh-14,['krama desa']
+17,Tokoh-15,['anake ento']
+17,Tokoh-16,['ni jepun']
+17,Tokoh-17,['dong']
+18,Tokoh-1,"['sang brahmana sakti', 'brahmana sakti', 'sang brahmana', 'sang brahma']"
+18,Tokoh-2,"['sang rsi durvasa', 'rsi durvasa']"
+18,Tokoh-3,"['raja kunthibhoja', 'raja kuntibhoja']"
+18,Tokoh-4,"['hyang baskara', 'hyang']"
+18,Tokoh-5,"['betara surya', 'betara']"
+18,Tokoh-6,['hyang betara']
+18,Tokoh-7,"['dewi pritha', 'dewi']"
+18,Tokoh-8,"['dewi kunti', 'dewi kanti']"
+18,Tokoh-9,['sang dewi']
+18,Tokoh-10,['sang raja']
+18,Tokoh-11,['raja sura']
+18,Tokoh-12,['wasudewa']
+18,Tokoh-13,['cening']
+19,Tokoh-1,"['sisian ida bhagawan drona', 'bhagawan drona']"
+19,Tokoh-2,"['guru drona, sisian bapa', 'bapa']"
+19,Tokoh-3,"['sisian hyang bhagawan', 'sisian sang bhagawan', 'hyang bhagawan', 'sang bhagawan']"
+19,Tokoh-4,['hyang bhagawan drona']
+19,Tokoh-5,"['cening sang arjuna', 'sang arjuna', 'sag arjuna', 'arjuna']"
+19,Tokoh-6,"['jero anak lanang', 'jero']"
+19,Tokoh-7,['dang hyang drona']
+19,Tokoh-8,"['sang guru drona', 'guru drona']"
+19,Tokoh-9,"['sang ekalawya', 'ekalawya']"
+19,Tokoh-10,['sisia']
+20,Tokoh-1,"['raden galuh pitu makasami', 'raden galuh pitu', 'raden galuh', 'galuh pitu']"
+20,Tokoh-2,['raden galuh ajaka papitu']
+20,Tokoh-3,"['raden galuh pradnyawati', 'galuh pradnyawati']"
+20,Tokoh-4,"['raden galuh martasari', 'galuh martasari']"
+20,Tokoh-5,['raden galuh makasami']
+20,Tokoh-6,['galuh pepitu punika']
+20,Tokoh-7,"['biang raden galuh', 'biang raden galun', 'biang']"
+20,Tokoh-8,"['sang prabu beksa', 'sang prabu']"
+20,Tokoh-9,['galuh wijasantun']
+20,Tokoh-10,['galuh puspawati']
+20,Tokoh-11,['ida raden galuh']
+20,Tokoh-12,['galuh marmawati']
+20,Tokoh-13,['galuh sumanasa']
+20,Tokoh-14,['rakan ceninge']
+20,Tokoh-15,"['cening galuh', 'cening']"
+20,Tokoh-16,['biang galuh']
+20,Tokoh-17,['mbok galuh']
+20,Tokoh-18,"['i raksasa', 'raksasa']"
+20,Tokoh-19,['okan-oka']
+20,Tokoh-20,['i biang']
+20,Tokoh-21,['raka']
+20,Tokoh-22,['oka']
+21,Tokoh-1,"['bapane i getap', 'i getap']"
+21,Tokoh-2,['meme']
+21,Tokoh-3,['bapa']
+22,Tokoh-1,"['alu gede gati', 'alu']"
+22,Tokoh-2,['i kedis puuh']
+22,Tokoh-3,['alune ento']
+22,Tokoh-4,['i puuh']
+22,Tokoh-5,['i alu']
+23,Tokoh-1,['i balu kanginan']
+23,Tokoh-2,['i balu kawanan']
+23,Tokoh-3,"['beli kawanan', 'beli']"
+23,Tokoh-4,"['pianak muani', 'pianak']"
+23,Tokoh-5,['beli wayan']
+23,Tokoh-6,['luh']
+23,Tokoh-7,['bli']
+24,Tokoh-1,"['ida sang prabu singa', 'ida sang prabu']"
+24,Tokoh-2,"['ratu sang prabu', 'ratu']"
+24,Tokoh-3,"['ida anake agung', 'anake agung']"
+24,Tokoh-4,"['i kunang-kunang', 'kunang-kunang']"
+24,Tokoh-5,"['i blatuk', 'blatuk']"
+24,Tokoh-6,"['i temisi', 'temisi']"
+24,Tokoh-7,"['i beduda', 'beduda']"
+24,Tokoh-8,"['i baluan', 'baluan']"
+24,Tokoh-9,"['i sampi', 'sampi']"
+24,Tokoh-10,['baduda']
+25,Tokoh-1,"['anake cenik ento', 'anake cerik ento', 'anake cerik']"
+25,Tokoh-2,['anak cerik bagus']
+25,Tokoh-3,['pianak titiange']
+25,Tokoh-4,"['sri prameswari', 'prameswari']"
+25,Tokoh-5,['ida sang prabu']
+25,Tokoh-6,"['i basang siap', 'basang siap']"
+25,Tokoh-7,['biang i dewa']
+25,Tokoh-8,"['i cening', 'cening']"
+25,Tokoh-9,['i mantri']
+25,Tokoh-10,['i galuh']
+25,Tokoh-11,['panake']
+25,Tokoh-12,['biange']
+26,Tokoh-1,"['dewa palsu i belog', 'dewa palsu belog', 'i belog']"
+26,Tokoh-2,"['ratu betara', 'betara']"
+26,Tokoh-3,['ida betara']
+26,Tokoh-4,['luh sari']
+26,Tokoh-5,['pan sari']
+26,Tokoh-6,['pianak']
+26,Tokoh-7,['i ratu']
+27,Tokoh-1,['makejang anake eluh']
+27,Tokoh-2,"['kurenan i beloge', 'kurenan', 'kurena']"
+27,Tokoh-3,"['memene i belog', 'i belog', 'belog']"
+27,Tokoh-4,"['anake luh ento', 'luh']"
+27,Tokoh-5,['anak luh']
+27,Tokoh-6,['knurena']
+27,Tokoh-7,"['i meme', 'meme']"
+27,Tokoh-8,['memen']
+27,Tokoh-9,['beli']
+27,Tokoh-10,['bli']
+27,Tokoh-11,['me']
+28,Tokoh-1,"['bapa pan sari', 'pan sari', 'bapa']"
+28,Tokoh-2,['luh sari']
+28,Tokoh-3,"['i belog', 'belog']"
+28,Tokoh-4,"['pianak', 'panak']"
+28,Tokoh-5,['bapan']
+29,Tokoh-1,"['bangken anake luh ento', 'anake luh ento']"
+29,Tokoh-2,"['anak luh jegeg pisan', 'anak luh']"
+29,Tokoh-3,['bangken anak luh']
+29,Tokoh-4,"['kurenan icange', 'kurenan']"
+29,Tokoh-5,['bangkene ento']
+29,Tokoh-6,"['memen i belog', 'i belog', 'memen', 'belog']"
+29,Tokoh-7,['anake ento']
+29,Tokoh-8,['luh-luh']
+29,Tokoh-9,['bangke']
+29,Tokoh-10,['meme']
+30,Tokoh-1,['anake gede selem ento']
+30,Tokoh-2,['merine bengil ento']
+30,Tokoh-3,['anak gede selem']
+30,Tokoh-4,"['merine pan meri', 'meri pan meri', 'pan meri', 'meri']"
+30,Tokoh-5,['merin titiange']
+30,Tokoh-6,['i gede selem']
+30,Tokoh-7,"['merin icange', 'meri icange']"
+30,Tokoh-8,['merine ento']
+30,Tokoh-9,['ri']
+31,Tokoh-1,"['dagang bebeke', 'dagang bebek']"
+31,Tokoh-2,"['i belog', 'belog']"
+31,Tokoh-3,['jero']
+31,Tokoh-4,['meme']
+32,Tokoh-1,['meong gede tur mokoh']
+32,Tokoh-2,"['i bikul, i semal', 'i semal', 'semal']"
+32,Tokoh-3,"['bikul cenik', 'bikul']"
+32,Tokoh-4,['i bikul']
+32,Tokoh-5,['i meong']
+33,Tokoh-1,"['kedis sangsiah luh muani', 'kedis sangsiah', 'kedis']"
+33,Tokoh-2,"['i kedis sangsiah', 'i kedis']"
+33,Tokoh-3,"['i bojog', 'bojog']"
+33,Tokoh-4,['kedise']
+33,Tokoh-5,['bojoge']
+34,Tokoh-1,"['i kancil, i botol', 'i botol', 'botol']"
+34,Tokoh-2,['i kedis sikep']
+34,Tokoh-3,['panak icange']
+34,Tokoh-4,['sang kancil']
+34,Tokoh-5,"['sang samong', 'samong']"
+34,Tokoh-6,"['i samonge', 'i samong']"
+34,Tokoh-7,"['i manusa', 'manusa']"
+34,Tokoh-8,['i kancil']
+34,Tokoh-9,['i sampi']
+34,Tokoh-10,['i jaran']
+35,Tokoh-1,['sudagar kacang tanah']
+35,Tokoh-2,['sudagare ento']
+35,Tokoh-3,['i rumpuh']
+35,Tokoh-4,['i buta']
+35,Tokoh-5,['bell']
+35,Tokoh-6,['beli']
+36,Tokoh-1,"['cicing tiange puniki', 'cicing tiang punika', 'cicing tiange', 'cicing']"
+36,Tokoh-2,"['cicingne i celempung', 'i celempung', 'celempung']"
+36,Tokoh-3,"['para krama banjara', 'krama banjara', 'krama banjar', 'krama']"
+36,Tokoh-4,"['jro kelian banjar', 'kelian banjar', 'jro kelian']"
+36,Tokoh-5,"['cicinge totonan', 'cicinge']"
+36,Tokoh-6,['cicing tiannge']
+36,Tokoh-7,['krama banjare']
+36,Tokoh-8,['kuluk tiange']
+36,Tokoh-9,['jero kelian']
+36,Tokoh-10,['cicing cai']
+36,Tokoh-11,['ni gadung']
+36,Tokoh-12,['i anggrek']
+36,Tokoh-13,['bli']
+36,Tokoh-14,['luh']
+37,Tokoh-1,['dagang nasine ento']
+37,Tokoh-2,['ida betari durga']
+37,Tokoh-3,"['ida raden mantri', 'raden mantri']"
+37,Tokoh-4,"['okan anak agung', 'anak agung', 'agung']"
+37,Tokoh-5,"['ratu sang prabu', 'sang prabu']"
+37,Tokoh-6,['ida sang prabu']
+37,Tokoh-7,"['i cicing gudig', 'cicing gudig']"
+37,Tokoh-8,['paduka betari']
+37,Tokoh-9,['batari durga']
+37,Tokoh-10,['anak madaar']
+37,Tokoh-11,['anake ento']
+37,Tokoh-12,['pepatih']
+37,Tokoh-13,"['i patih', 'patih']"
+37,Tokoh-14,['jero']
+38,Tokoh-1,['burone cenik']
+38,Tokoh-2,"['i kambing', 'kambing']"
+38,Tokoh-3,"['i cicing', 'cicing']"
+38,Tokoh-4,['kambinge']
+38,Tokoh-5,['cicinge']
+38,Tokoh-6,['buro']
+39,Tokoh-1,['i kedis crukcuk']
+39,Tokoh-2,"['i manusa', 'manusa']"
+39,Tokoh-3,['i kancil']
+39,Tokoh-4,"['i sampi', 'sampi']"
+39,Tokoh-5,['i jaran']
+39,Tokoh-6,"['i macan', 'macan']"
+39,Tokoh-7,"['i cita', 'cita']"
+40,Tokoh-1,"['semut anyud', 'semut']"
+40,Tokoh-2,['i clalongan']
+40,Tokoh-3,['kedis perit']
+40,Tokoh-4,['sangsiah']
+40,Tokoh-5,['i semut']
+40,Tokoh-6,['i matul']
+40,Tokoh-7,['petikan']
+40,Tokoh-8,['katake']
+40,Tokoh-9,['capung']
+40,Tokoh-10,['kedise']
+40,Tokoh-11,['glatik']
+40,Tokoh-12,['kakul']
+40,Tokoh-13,['udang']
+40,Tokoh-14,['yuyu']
+41,Tokoh-1,['ulame sane ageng punika']
+41,Tokoh-2,['ulam mewarna selem']
+41,Tokoh-3,"['kurenanne i congeh', 'i congeh', 'congeh']"
+41,Tokoh-4,['ulame punika']
+41,Tokoh-5,"['pianak ipu', 'pianak']"
+41,Tokoh-6,['somah ipu']
+41,Tokoh-7,['kurenan']
+42,Tokoh-1,['kedis curik lue muani']
+42,Tokoh-2,['i curik ane muani']
+42,Tokoh-3,['jrone kedis curik']
+42,Tokoh-4,['curike ne muani']
+42,Tokoh-5,"['bapan luh arume', 'bapan luh arum', 'luh arume', 'luh arum', 'bapan', 'luh']"
+42,Tokoh-6,['curike ane lua']
+42,Tokoh-7,['i kedis curik']
+42,Tokoh-8,"['gede donglen', 'donglen']"
+42,Tokoh-9,"['ni luh arume', 'ni luh arum', 'ni luh']"
+42,Tokoh-10,['kedis curike']
+42,Tokoh-11,['i juru pikat']
+42,Tokoh-12,['i donglen']
+42,Tokoh-13,['kedise']
+42,Tokoh-14,['bapa']
+42,Tokoh-15,['beli']
+42,Tokoh-16,['jro']
+42,Tokoh-17,['pa']
+43,Tokoh-1,['para punggawa']
+43,Tokoh-2,"['cening durma', 'cening']"
+43,Tokoh-3,['anake agung']
+43,Tokoh-4,['ken sulasih']
+43,Tokoh-5,"['pianak bapa', 'pianak', 'bapa']"
+43,Tokoh-6,['tandamantri']
+43,Tokoh-7,"['i rajapala', 'irajapala']"
+43,Tokoh-8,['jero dukuh']
+43,Tokoh-9,"['i durma', 'idurma']"
+43,Tokoh-10,['meme']
+44,Tokoh-1,"['i empas ajaka dadua luh muani', 'i empas ajaka dadua', 'empase ajaka dadua', 'empas ajak dadua', 'i empas', 'empase', 'empas', 'luh']"
+44,Tokoh-2,"['angsa mabulu putih luh muani', 'angsa']"
+44,Tokoh-3,['kuluk medem ajaka dadua']
+44,Tokoh-4,['i empas makadadua']
+44,Tokoh-5,['i empas luh muani']
+44,Tokoh-6,"['i angsa luh muani', 'i angsa']"
+44,Tokoh-7,['angsa ajak dadua']
+44,Tokoh-8,['kuluk luh muani']
+44,Tokoh-9,['empase ane lua']
+44,Tokoh-10,"['i angsa muani', 'angsa muani']"
+44,Tokoh-11,['i empas muani']
+44,Tokoh-12,['kuluke muani']
+44,Tokoh-13,"['i empas lua', 'empas lua']"
+44,Tokoh-14,['i angsa lua']
+44,Tokoh-15,"['embok angsa', 'embok']"
+44,Tokoh-16,['empase mua']
+44,Tokoh-17,"['beli empas', 'beli']"
+44,Tokoh-18,['empase luh']
+44,Tokoh-19,"['ni dangal', 'dangal']"
+44,Tokoh-20,['i dakep']
+44,Tokoh-21,['i kuluk']
+44,Tokoh-22,['bapa']
+44,Tokoh-23,['pa']
+45,Tokoh-1,"['angsa akeh ipun kekalih luh muani', 'angsa']"
+45,Tokoh-2,"['i angsa lua muani makakalih', 'i angsa']"
+45,Tokoh-3,"['empas kekalih lua muani', 'empas']"
+45,Tokoh-4,['asu kakalih lua muani']
+45,Tokoh-5,['i angsa lue muani']
+45,Tokoh-6,"['i empas luh muani', 'i empas']"
+45,Tokoh-7,"['ni angsing, angsa']"
+45,Tokoh-8,['i empas makakalih']
+45,Tokoh-9,['angsane punika']
+45,Tokoh-10,['ni cenkrenggi']
+45,Tokoh-11,['i cengkrengga']
+45,Tokoh-12,['ni angsing']
+45,Tokoh-13,['beli angsa']
+45,Tokoh-14,['ni kacapa']
+45,Tokoh-15,['i angsang']
+45,Tokoh-16,['i durbudi']
+45,Tokoh-17,['i angse']
+45,Tokoh-18,"['i ratu', 'ratu']"
+45,Tokoh-19,['i asu']
+46,Tokoh-1,"['beli wayan tirta', 'beli']"
+46,Tokoh-2,"['i nyoman karange', 'i nyoman karang', 'nyoman']"
+46,Tokoh-3,['i wayan tigaron']
+46,Tokoh-4,['i wayan tirta']
+46,Tokoh-5,"['i gede  basur', 'i gede basur']"
+46,Tokoh-6,['jero bendesa']
+46,Tokoh-7,['ni subandar']
+46,Tokoh-8,"['i made tanu', 'made']"
+46,Tokoh-9,"['ni sukesti', 'ni sukasti', 'i sukasti']"
+46,Tokoh-10,['ni rempag']
+46,Tokoh-11,['i tigaron']
+46,Tokoh-12,"['bapa made', 'bapa']"
+46,Tokoh-13,['beli gede']
+46,Tokoh-14,['i pondal']
+46,Tokoh-15,['i rijasa']
+46,Tokoh-16,['i tirta']
+46,Tokoh-17,['ni garu']
+46,Tokoh-18,['i basur']
+46,Tokoh-19,['cening']
+46,Tokoh-20,['i tanu']
+47,Tokoh-1,['pianakne dadua lua muani']
+47,Tokoh-2,"['panak nyaine buka dadua', 'panak']"
+47,Tokoh-3,"['panak i jara', 'panak jara']"
+47,Tokoh-4,['panak nyai']
+47,Tokoh-5,['panak wake']
+47,Tokoh-6,"['pianak kai', 'pianak']"
+47,Tokoh-7,['inan jara']
+47,Tokoh-8,['i macam']
+47,Tokoh-9,"['i jaran', 'jaran']"
+47,Tokoh-10,['pianake']
+47,Tokoh-11,"['i macan', 'macan']"
+48,Tokoh-1,"['ida sang prabu mangsalia', 'sang prabu mangsalia', 'ida sang prabu', 'sang prabu']"
+48,Tokoh-2,"['punyan kasiape kepuh', 'kasiapa kepuh', 'kasiape kepuh']"
+48,Tokoh-3,"['kedis goak luh muani', 'goak']"
+48,Tokoh-4,"['panjak-panjak ida', 'panjak-panjak']"
+48,Tokoh-5,['i kasiape kepuh']
+48,Tokoh-6,['dewa sang prabu']
+48,Tokoh-7,"['i naga taksaka', 'naga']"
+48,Tokoh-8,['i paksi gagak']
+48,Tokoh-9,['panjake sami']
+48,Tokoh-10,['i rare angon']
+48,Tokoh-11,['ratu peranda']
+48,Tokoh-12,['panjak idewa']
+48,Tokoh-13,['ida pedanda']
+48,Tokoh-14,['pepatih ida']
+48,Tokoh-15,"['i lelipi', 'lelipi']"
+48,Tokoh-16,['goaknya']
+48,Tokoh-17,['i dewa']
+48,Tokoh-18,['i goak']
+49,Tokoh-1,"['i dadong getget', 'dadong getget', 'i dadong', 'dadong']"
+49,Tokoh-2,['i reraman ipun']
+49,Tokoh-3,['dadong: dadong']
+49,Tokoh-4,['memen icange']
+49,Tokoh-5,['batara sri']
+49,Tokoh-6,"['i kecut', 'kecut']"
+49,Tokoh-7,['timpal']
+49,Tokoh-8,"['i meme', 'meme']"
+49,Tokoh-9,['bapan']
+49,Tokoh-10,['bapa']
+50,Tokoh-1,"['meme bape i kedis gelatik', 'kedis gelatik', 'bape']"
+50,Tokoh-2,['raksasa gede tur jele']
+50,Tokoh-3,['panak-pamak gelatik']
+50,Tokoh-4,"['panak panakne ento', 'panak']"
+50,Tokoh-5,['panak-panak cange']
+50,Tokoh-6,"['i bapa gelatik', 'bapa gelatik', 'bapa']"
+50,Tokoh-7,['raksasane ento']
+50,Tokoh-8,['panak panak']
+50,Tokoh-9,"['i singa', 'singa']"
+50,Tokoh-10,['cening']
+51,Tokoh-1,"['i liutung', 'i lutung', 'lutung']"
+51,Tokoh-2,"['i keker', 'keker']"
+52,Tokoh-1,"['ida sang prabu asu', 'ida sang prabu', 'sang prabu']"
+52,Tokoh-2,['ratu sang prabu']
+52,Tokoh-3,['asu blanguyang']
+52,Tokoh-4,"['i blanguyang', 'i blangyang']"
+52,Tokoh-5,['asune ento']
+52,Tokoh-6,"['i kelesih', 'kelesih']"
+52,Tokoh-7,"['i samonge', 'i samong']"
+52,Tokoh-8,['buron']
+52,Tokoh-9,['buro']
+53,Tokoh-1,"['punyan kepuh gede tur tegeh', 'kepuh']"
+53,Tokoh-2,"['dane bendesa mandara giri', 'bendesa mandara giri']"
+53,Tokoh-3,"['krama desa mandara giri', 'krama desa']"
+53,Tokoh-4,['para krama desa']
+53,Tokoh-5,['para pacalang']
+53,Tokoh-6,"['i lelipi raja', 'i lelipi']"
+53,Tokoh-7,"['i pangangon', 'pangangon']"
+53,Tokoh-8,"['kedis goak', 'goak']"
+53,Tokoh-9,['i kepuh']
+53,Tokoh-10,['i goak']
+53,Tokoh-11,['i goal']
+54,Tokoh-1,"['anak muani pisagane i kerug', 'pisagane i kerug', 'i kerug']"
+54,Tokoh-2,['kelihan desa']
+54,Tokoh-3,['pisaga']
+55,Tokoh-1,"['kucit ane paling mokoha', 'kucit']"
+55,Tokoh-2,['beburon ane lenan']
+55,Tokoh-3,['beburon ane liwat']
+55,Tokoh-4,['angsa ajak dadua']
+55,Tokoh-5,"['macan ane lenan', 'macan']"
+55,Tokoh-6,['kucit ane lenan']
+55,Tokoh-7,"['para wadua buro', 'buro']"
+55,Tokoh-8,"['i macan poleng', 'i macan']"
+55,Tokoh-9,"['i bojog ireng', 'i bojog', 'bojog']"
+55,Tokoh-10,['makejang buro']
+55,Tokoh-11,"['macanne ento', 'macane ento']"
+55,Tokoh-12,['panak celeng']
+55,Tokoh-13,['macan lenan']
+55,Tokoh-14,['bojog cekah']
+55,Tokoh-15,"['sarwa buron', 'sarwa buro', 'buron']"
+55,Tokoh-16,['kucit liu']
+55,Tokoh-17,['beburonan']
+55,Tokoh-18,"['i kidang', 'kidang']"
+55,Tokoh-19,['liu buro']
+55,Tokoh-20,['i angsa']
+55,Tokoh-21,['i kucit']
+55,Tokoh-22,['i rase']
+55,Tokoh-23,['kucite']
+55,Tokoh-24,['i kebo']
+56,Tokoh-1,"['ida raden galuh daha', 'ida raden galuh']"
+56,Tokoh-2,['timpal i lacure']
+56,Tokoh-3,"['ki dukuh sakti', 'ki dukuh']"
+56,Tokoh-4,['timpal-timpal']
+56,Tokoh-5,['i kaki dukuh']
+56,Tokoh-6,['jero dukuh']
+56,Tokoh-7,['i klaleng']
+56,Tokoh-8,['i lacur']
+57,Tokoh-1,"['cening sang langgana', 'langgana', 'cening']"
+57,Tokoh-2,['i kaki dukuh']
+57,Tokoh-3,['i langgana']
+57,Tokoh-4,['pan cening']
+57,Tokoh-5,['ida dukuh']
+57,Tokoh-6,['ceninge']
+58,Tokoh-1,['i lara']
+59,Tokoh-1,['burone ane gede-gede makejang']
+59,Tokoh-2,"['buron ajak mekejang', 'buron']"
+59,Tokoh-3,['burone gede ento']
+59,Tokoh-4,"['ida betara indra', 'betara indra']"
+59,Tokoh-5,"['jelemane ento', 'jelema ento', 'jelema']"
+59,Tokoh-6,"['makejang buro', 'buro']"
+59,Tokoh-7,['para buro']
+59,Tokoh-8,['i lelasan']
+59,Tokoh-9,['i lelipi']
+59,Tokoh-10,['i jelema']
+59,Tokoh-11,['i gajah']
+59,Tokoh-12,['i lasan']
+59,Tokoh-13,['i macan']
+59,Tokoh-14,['baburo']
+59,Tokoh-15,['i kebo']
+59,Tokoh-16,['lelasa']
+59,Tokoh-17,['beburo']
+59,Tokoh-18,['jeleme']
+59,Tokoh-19,['celedu']
+59,Tokoh-20,['lipan']
+59,Tokoh-21,['lipi']
+60,Tokoh-1,"['sang prabu i sangmong', 'i sangmong']"
+60,Tokoh-2,['i capung bangkok']
+60,Tokoh-3,['ratu sang prabu']
+60,Tokoh-4,"['i kunang-kunang', 'kunang-kunang']"
+60,Tokoh-5,['ida sang prabu']
+60,Tokoh-6,['capok bangkok']
+60,Tokoh-7,['kedis blatuk']
+60,Tokoh-8,['jero lutung']
+60,Tokoh-9,"['i lelasan', 'lelasan']"
+60,Tokoh-10,"['i lelipi', 'lelipi']"
+60,Tokoh-11,['i blatuk']
+60,Tokoh-12,['i lutung']
+60,Tokoh-13,"['i beduda', 'beduda']"
+60,Tokoh-14,"['i tumisi', 'tumisi']"
+60,Tokoh-15,"['i sampi', 'sampi']"
+61,Tokoh-1,"['anake ane ngelahang carike', 'ane ngelahang carike']"
+61,Tokoh-2,"['katake ane cenik-cenik', 'katake', 'katak']"
+61,Tokoh-3,"['lelipi gadang gede', 'lelipi gadang', 'lelipi']"
+61,Tokoh-4,['katake makejang']
+61,Tokoh-5,"['i lelipi gadang', 'i lelipi']"
+61,Tokoh-6,"['i ratun katak', 'ratun katak', 'ratun']"
+61,Tokoh-7,['sang karitaka']
+61,Tokoh-8,['lelipine ento']
+61,Tokoh-9,"['ratun karake', 'ratun katake']"
+61,Tokoh-10,['i karitaka']
+61,Tokoh-11,['i katak']
+61,Tokoh-12,['retun']
+62,Tokoh-1,['sang hyang brahma']
+62,Tokoh-2,"['dewa sang garuda', 'sang garuda', 'garuda']"
+62,Tokoh-3,"['ida batara wisnu', 'batara wisnu', 'batara']"
+62,Tokoh-4,['sang hyang siwa']
+62,Tokoh-5,"['memen tiange', 'memen']"
+62,Tokoh-6,"['sang winata', 'sang wirata']"
+62,Tokoh-7,['sang kadru']
+62,Tokoh-8,['para naga']
+62,Tokoh-9,['memen cai']
+62,Tokoh-10,['meme']
+63,Tokoh-1,"['i lengar paling keliha', 'i lengar paing keliha', 'i lengar', 'lengar']"
+63,Tokoh-2,['ane paling keliha']
+63,Tokoh-3,"['pianak i mandala', 'i mandala', 'pianak']"
+63,Tokoh-4,['pianak icange']
+63,Tokoh-5,['ni luh layang']
+63,Tokoh-6,"['adin-adin', 'adi-adin']"
+63,Tokoh-7,['i widara']
+63,Tokoh-8,['adin']
+63,Tokoh-9,['bapa']
+64,Tokoh-1,"['i lutung', 'i utung', 'lutung']"
+64,Tokoh-2,"['i kekua', 'kekua']"
+64,Tokoh-3,['tung']
+65,Tokoh-1,"['cucunne pekak dukuh', 'pekak dukuh', 'pekak']"
+65,Tokoh-2,['i pekak dukuh']
+65,Tokoh-3,"['luh kancerung', 'luh kancrung', 'luh']"
+65,Tokoh-4,"['i lutunge', 'i lutung', 'lutung']"
+65,Tokoh-5,['i dukuh']
+65,Tokoh-6,"['i kakua', 'kakua']"
+65,Tokoh-7,['cucun']
+66,Tokoh-1,"['i polos, bli menceng', 'bli menceng', 'i menceng', 'bli']"
+66,Tokoh-2,"['i polos, polos']"
+66,Tokoh-3,['i polos']
+67,Tokoh-1,"['baburon maawak gede tur situh ento', 'baburon', 'baburo']"
+67,Tokoh-2,['baburon cenikan']
+67,Tokoh-3,"['i kedis curik', 'kedis']"
+67,Tokoh-4,['baburon lenan']
+67,Tokoh-5,['i kedis perit']
+67,Tokoh-6,"['i kedis goak', 'goak']"
+67,Tokoh-7,"['i kambing', 'kambing']"
+67,Tokoh-8,"['i sampi', 'sampi']"
+67,Tokoh-9,['i perit']
+67,Tokoh-10,['memeri']
+67,Tokoh-11,['beburo']
+67,Tokoh-12,['i goak']
+67,Tokoh-13,['prit']
+68,Tokoh-1,"['i sangging lobangkara', 'sangging lobangkara']"
+68,Tokoh-2,['bhatara klungkung']
+68,Tokoh-3,['ratu bhatara']
+68,Tokoh-4,"['ida bhatara', 'ida batara']"
+69,Tokoh-1,['siput-siput uling alase']
+69,Tokoh-2,"['siput ane malunan', 'siput']"
+69,Tokoh-3,"['sipute liu pesan', 'sipute liu']"
+69,Tokoh-4,['timpal-timpal']
+69,Tokoh-5,['siput-sipute']
+69,Tokoh-6,"['i siputa', 'i siput']"
+69,Tokoh-7,"['i kancil', 'kancil']"
+70,Tokoh-1,"['i titih lua muani', 'i titih', 'titih']"
+70,Tokoh-2,['ida anake agung']
+70,Tokoh-3,"['sisian i tuma', 'i tuma', 'tuma']"
+70,Tokoh-4,"['sisian jero', 'jero']"
+70,Tokoh-5,['jero gede']
+70,Tokoh-6,['parekan']
+70,Tokoh-7,['tittih']
+71,Tokoh-1,"['memen anake cerik ento', 'memen anake cerik', 'anake cerik']"
+71,Tokoh-2,['ni tuwung kuning']
+71,Tokoh-3,['i cening']
+71,Tokoh-4,['i pudak']
+71,Tokoh-5,['dedari']
+71,Tokoh-6,['dadong']
+71,Tokoh-7,['kurena']
+71,Tokoh-8,['bapan']
+71,Tokoh-9,['wayan']
+71,Tokoh-10,['bapa']
+71,Tokoh-11,['meme']
+72,Tokoh-1,"['anake agung ento', 'anake agung']"
+72,Tokoh-2,['tonyane ento']
+72,Tokoh-3,"['i gede urub', 'gede urub']"
+72,Tokoh-4,['sang prabu']
+72,Tokoh-5,"['i tonya', 'tonya']"
+72,Tokoh-6,"['i ubuh', 'ubuh']"
+72,Tokoh-7,['pekak']
+72,Tokoh-8,['u-buh']
+73,Tokoh-1,['ida sang hyang widhi']
+73,Tokoh-2,['anak tua matengkuluk']
+73,Tokoh-3,"['anake lingsir ento', 'anake lingsir']"
+73,Tokoh-4,"['jero anak lingsir', 'jero']"
+73,Tokoh-5,['i kaki buyut']
+73,Tokoh-6,['i wingsata']
+73,Tokoh-7,['i segara']
+73,Tokoh-8,['ki buyut']
+73,Tokoh-9,"['i sigara', 'sigara']"
+73,Tokoh-10,['cening']
+73,Tokoh-11,['bapa']
+74,Tokoh-1,['prabekel sareng sinamian']
+74,Tokoh-2,"['ida anake agung', 'anake agung']"
+74,Tokoh-3,['i saunggaling']
+74,Tokoh-4,['prabekel sami']
+74,Tokoh-5,['jero bendesa']
+74,Tokoh-6,"['ni layonsari', 'layonsari']"
+74,Tokoh-7,"['i jayaprana', 'i jayaprna', 'jayaprana']"
+74,Tokoh-8,['prebekel']
+74,Tokoh-9,['jayapra']
+75,Tokoh-1,['rarene ne ngeling punika']
+75,Tokoh-2,"['brayan ipun ni penak', 'ni penak', 'penak']"
+75,Tokoh-3,['leyak sareng kakalih']
+75,Tokoh-4,"['dane gurun pagep', 'gurun pagep']"
+75,Tokoh-5,"['leyake punika', 'leyak punika']"
+75,Tokoh-6,"['rarene punika', 'rare punika', 'rare']"
+75,Tokoh-7,['rare ngeling']
+75,Tokoh-8,['pianak nyai']
+75,Tokoh-9,['pianak ipun']
+75,Tokoh-10,['ni penek']
+75,Tokoh-11,['pianake']
+76,Tokoh-1,['panjak-panjak puri kertha bumi']
+76,Tokoh-2,['panjak puri kertha bumi']
+76,Tokoh-3,"['sang prabu suliawana', 'prabu suliawana']"
+76,Tokoh-4,['panjak-panjak ida']
+76,Tokoh-5,"['panyatusan bikul', 'bikul']"
+76,Tokoh-6,"['juru carik puri', 'juru carik']"
+76,Tokoh-7,['ida sang prabu']
+76,Tokoh-8,['timpal-timpal']
+76,Tokoh-9,"['kedis geruda', 'geruda']"
+76,Tokoh-10,['kedise ento']
+76,Tokoh-11,['gusti prabu']
+76,Tokoh-12,['juru borose']
+76,Tokoh-13,"['para bikule', 'bikule']"
+76,Tokoh-14,['gusti patih']
+76,Tokoh-15,['panjak ida']
+76,Tokoh-16,['patih ida']
+76,Tokoh-17,"['i geruda', 'i geuda']"
+76,Tokoh-18,['pepatih']
+76,Tokoh-19,['i bikul']
+76,Tokoh-20,['krama']
+76,Tokoh-21,['kul']
+77,Tokoh-1,['ni wingsali']
+77,Tokoh-2,['ni mesaba']
+77,Tokoh-3,"['i bojog', 'bojog']"
+77,Tokoh-4,"['i macan', 'macan']"
+77,Tokoh-5,['meme']
+77,Tokoh-6,['beli']
+78,Tokoh-1,['belibis buyang kalih']
+78,Tokoh-2,['paksi gowak gadagan']
+78,Tokoh-3,"['i paksi siung luh', 'siung']"
+78,Tokoh-4,['paksi belatuk']
+78,Tokoh-5,['gajah ageng']
+78,Tokoh-6,['siunge luh']
+78,Tokoh-7,['i siung']
+78,Tokoh-8,['i gajah']
+78,Tokoh-9,['i gowak']
+78,Tokoh-10,['luhnya']
+78,Tokoh-11,['meme']
+78,Tokoh-12,['beli']
+79,Tokoh-1,['timpalne makejang']
+79,Tokoh-2,['timpal-timpal']
+79,Tokoh-3,"['i kidange', 'i kidang', 'kidang']"
+79,Tokoh-4,"['i cekcek', 'cekcek']"
+79,Tokoh-5,"['timpale', 'timpal']"
+79,Tokoh-6,['beli']
+80,Tokoh-1,['i kunang-kunang']
+80,Tokoh-2,"['jero pecalang', 'jero']"
+80,Tokoh-3,"['prabu singa', 'singa']"
+80,Tokoh-4,['sang prabu']
+80,Tokoh-5,"['i lelasan', 'lelasan']"
+80,Tokoh-6,"['i blatuk', 'blatuk']"
+80,Tokoh-7,['i lutung']
+80,Tokoh-8,"['i beduda', 'beduda']"
+80,Tokoh-9,['i kekawa']
+80,Tokoh-10,"['i tumisi', 'tumisi']"
+80,Tokoh-11,"['i lembu', 'lembu']"
+80,Tokoh-12,"['i singa', 'i sing']"
+81,Tokoh-1,"['i lutung', 'lutung']"
+81,Tokoh-2,"['i beduda', 'beduda']"
+82,Tokoh-1,"['dane jero dukuh kantrungan', 'jero dukuh kantrungan', 'dukuh kantrungan', 'dane jero dukuh', 'jero dukuh', 'jero']"
+82,Tokoh-2,"['dane dukuh kantrungan', 'dane dukuh']"
+82,Tokoh-3,"['luh ayu kantrungan', 'luh ayu']"
+82,Tokoh-4,['ni ayu kantrungan']
+82,Tokoh-5,"['i lutung', 'lutung']"
+82,Tokoh-6,"['i kekua', 'kekua']"
+83,Tokoh-1,['i kaki perodong']
+83,Tokoh-2,['sang lutung']
+83,Tokoh-3,['i lutung']
+83,Tokoh-4,"['i kekua', 'kekua']"
+84,Tokoh-1,"['i kambing', 'kambing']"
+84,Tokoh-2,['i lutung']
+85,Tokoh-1,"['i lutung', 'lutung']"
+85,Tokoh-2,"['i kancil', 'kancil']"
+85,Tokoh-3,['tung']
+85,Tokoh-4,['cil']
+86,Tokoh-1,['burone ane lenlenan']
+86,Tokoh-2,['burone lenan']
+86,Tokoh-3,"['adi meng', 'meng']"
+86,Tokoh-4,"['i macan', 'macan']"
+86,Tokoh-5,['i beli']
+86,Tokoh-6,['i meng']
+86,Tokoh-7,['belie']
+86,Tokoh-8,['buron']
+86,Tokoh-9,['buro']
+86,Tokoh-10,['bli']
+87,Tokoh-1,"['panjak ida bhatara indra', 'ida bhatara indra', 'ida batara indra']"
+87,Tokoh-2,"['sang prabu maya danawa', 'maya danawa']"
+87,Tokoh-3,['para panjak suarga']
+87,Tokoh-4,['sang maya danawa']
+87,Tokoh-5,"['sang kul putihe', 'sang kul putih']"
+87,Tokoh-6,['i maya danawa']
+87,Tokoh-7,"['para panjake', 'panjake']"
+87,Tokoh-8,"['i kala wong', 'kala wong']"
+87,Tokoh-9,['panjaknya']
+87,Tokoh-10,['para jana']
+87,Tokoh-11,['para ratu']
+87,Tokoh-12,['patihnya']
+87,Tokoh-13,"['ceninge', 'cening']"
+88,Tokoh-1,"['pianak-pianak pan brayut', 'pianak-pianak', 'pan brayut', 'brayut']"
+88,Tokoh-2,['pianakne pan brayut']
+88,Tokoh-3,['mantunne luh muani']
+88,Tokoh-4,"['pangerain jempong', 'pangeran jembong']"
+88,Tokoh-5,"['jero wayan', 'jero']"
+88,Tokoh-6,['men brayut']
+88,Tokoh-7,['de brayut']
+88,Tokoh-8,"['pianake', 'pianak']"
+88,Tokoh-9,['i bapa']
+88,Tokoh-10,"['mantun', 'mantu', 'matun']"
+88,Tokoh-11,"['i meme', 'meme']"
+88,Tokoh-12,['bapan']
+89,Tokoh-1,"['sang kidang', 'kidang']"
+89,Tokoh-2,"['men tiwase', 'men tiwas', 'tiwas']"
+89,Tokoh-3,['men sugih']
+90,Tokoh-1,"['i bojog, nang cublinge', 'nang cublinge', 'nang cubling']"
+90,Tokoh-2,"['bojog ajaka liu', 'bojog']"
+90,Tokoh-3,"['bojoge makejang', 'bojog makejang', 'bojoge']"
+90,Tokoh-4,['makejang bojoge']
+90,Tokoh-5,"['kurenan icange', 'kurenan']"
+90,Tokoh-6,['men cubling']
+90,Tokoh-7,['bojog cenik']
+90,Tokoh-8,['liu bojoge']
+90,Tokoh-9,['bojog gede']
+90,Tokoh-10,['i bojog']
+91,Tokoh-1,"['i kedis crukcuk kuning', 'kedis crukcuk kuninge', 'kedis crukcuk kuning']"
+91,Tokoh-2,['i crukcuk kuning']
+91,Tokoh-3,['ni bawang']
+91,Tokoh-4,['ni kesuna']
+91,Tokoh-5,['memen']
+91,Tokoh-6,['embok']
+91,Tokoh-7,['meme']
+92,Tokoh-1,['pepatih ida sang anyakrawerti']
+92,Tokoh-2,['anak istri sampun lingsir']
+92,Tokoh-3,"['i sudagar, pepatih agung', 'pepatih agung', 'agung']"
+92,Tokoh-4,['anake lingsir punika']
+92,Tokoh-5,['ida sang maha patih']
+92,Tokoh-6,"['anake jada punika', 'anake jada']"
+92,Tokoh-7,"['anake odah punika', 'anake odah']"
+92,Tokoh-8,"['i sudagar, patih']"
+92,Tokoh-9,['ida sang prabhu']
+92,Tokoh-10,"['ida anake agung', 'anake agung', 'anak agung']"
+92,Tokoh-11,['i patih agung']
+92,Tokoh-12,"['ni daha tua', 'daha tua']"
+92,Tokoh-13,['pan bergah']
+92,Tokoh-14,"['i sudagar', 'sudagar']"
+92,Tokoh-15,['panjakida']
+92,Tokoh-16,"['para ratu', 'ratu']"
+92,Tokoh-17,['sudagare']
+93,Tokoh-1,"['sang nata prabu aiswaryadala', 'sang prabu aiswaryadala', 'aiswaryadala', 'sang prabu', 'prabu']"
+93,Tokoh-2,"['ida sang prabu aiswaryadala', 'ida sang prabu']"
+93,Tokoh-3,"['ida sang prabu aji darma', 'aji']"
+93,Tokoh-4,['ki patih bandeswarya']
+93,Tokoh-5,['ida sang prabu manu']
+93,Tokoh-6,['i gusti ayu biang']
+93,Tokoh-7,"['ida bagawan daksa', 'bagawan daksa']"
+93,Tokoh-8,['para tanda mantri']
+93,Tokoh-9,['maharaja ikswaku']
+93,Tokoh-10,['panyeroan asiki']
+93,Tokoh-11,['ki bandeswarya']
+93,Tokoh-12,"['ni diah tantri', 'ni dah tantri']"
+93,Tokoh-13,['maharaja manu']
+93,Tokoh-14,['para punggawa']
+93,Tokoh-15,['dewi nilawati']
+93,Tokoh-16,['i panyeroan']
+93,Tokoh-17,['para istri']
+93,Tokoh-18,['para wiku']
+93,Tokoh-19,['panyeroa']
+93,Tokoh-20,['parekan']
+93,Tokoh-21,['biange']
+93,Tokoh-22,['ajinda']
+94,Tokoh-1,"['ida raden galuh daha', 'ida raden galuh', 'raden galuh']"
+94,Tokoh-2,"['ida sang prabu daha', 'ida sang prabu', 'sang prabu']"
+94,Tokoh-3,['cening nanak galuh']
+94,Tokoh-4,['ida raden gal uh']
+94,Tokoh-5,"['i mantri koripan', 'mantri koripan']"
+94,Tokoh-6,"['ida raden mantri', 'ida raden matri', 'raden mantri']"
+94,Tokoh-7,"['kalih prameswari', 'prameswari']"
+94,Tokoh-8,['ratu sang prabu']
+94,Tokoh-9,"['anake luh ento', 'anake luh']"
+94,Tokoh-10,['i punta jrudeh']
+94,Tokoh-11,['ni dukun sakti']
+94,Tokoh-12,['anake tua ento']
+94,Tokoh-13,['i galuh daha']
+94,Tokoh-14,['parekanida']
+94,Tokoh-15,"['jero dukun', 'jero']"
+94,Tokoh-16,['men bekung']
+94,Tokoh-17,['prabunida']
+94,Tokoh-18,['biangida']
+94,Tokoh-19,['anak tua']
+94,Tokoh-20,"['balian', 'balia']"
+94,Tokoh-21,['i aji']
+94,Tokoh-22,['putra']
+94,Tokoh-23,['bapa']
+95,Tokoh-1,['sangiang narayana']
+95,Tokoh-2,['sanghiang basuki']
+95,Tokoh-3,"['sang ananta boga', 'sang']"
+95,Tokoh-4,['sanghiang indra']
+95,Tokoh-5,['para dewata']
+95,Tokoh-6,['sang akupa']
+95,Tokoh-7,['danawa']
+95,Tokoh-8,['detia']
+96,Tokoh-1,"['bapa pan angklung gadang', 'bapa angklung gadang', 'pan angklung gadange', 'pan angklung gadang', 'angklung gadang', 'bapa']"
+96,Tokoh-2,['i angklung gadang']
+96,Tokoh-3,['ratu dewa agung']
+96,Tokoh-4,"['ida anake agung', 'anake agung']"
+96,Tokoh-5,['i wayan sebetan']
+96,Tokoh-6,"['krama banjare', 'krama banjar', 'krama']"
+96,Tokoh-7,"['jero kalian', 'jero kelian', 'jero klian', 'jro klian', 'jero']"
+96,Tokoh-8,['dagang nasi']
+96,Tokoh-9,['jero wayan']
+96,Tokoh-10,['kurenannya']
+96,Tokoh-11,['i lambang']
+96,Tokoh-12,['i tampul']
+96,Tokoh-13,['i sendi']
+96,Tokoh-14,['kurenan']
+96,Tokoh-15,['i giur']
+96,Tokoh-16,['cicing']
+96,Tokoh-17,"['kuluke', 'kuluk']"
+96,Tokoh-18,['memen']
+97,Tokoh-1,['anak makita masakit basang']
+97,Tokoh-2,"['kurenan pan balang tamake', 'pan balang tamake', 'pan balang tamak', 'kurenan']"
+97,Tokoh-3,['anake ne masakit basang']
+97,Tokoh-4,['anake mesakit basang']
+97,Tokoh-5,['men balang tamak']
+97,Tokoh-6,"['jero panyarikan', 'jero']"
+97,Tokoh-7,"['panyarikan desa', 'desa']"
+97,Tokoh-8,['jero mangku']
+97,Tokoh-9,['anake agung']
+97,Tokoh-10,['klihan desa']
+97,Tokoh-11,['krama desa']
+97,Tokoh-12,['penyarikan']
+97,Tokoh-13,"['pepek desa', 'pepek']"
+97,Tokoh-14,['jero desa']
+97,Tokoh-15,['timpal']
+98,Tokoh-1,"['anak makta lelipi matali', 'lelipi']"
+98,Tokoh-2,"['naga ngredep janggar', 'naga']"
+98,Tokoh-3,"['anake ngaba lelipi', 'anak ngaba lelipi']"
+98,Tokoh-4,"['i bikul, i meong', 'i meong', 'meong']"
+98,Tokoh-5,"['i kedis muwun', 'i kedis muun', 'kedis muwun']"
+98,Tokoh-6,['timpal-timpal']
+98,Tokoh-7,['pan jempenit']
+98,Tokoh-8,['men jempenit']
+98,Tokoh-9,['putun idewa']
+98,Tokoh-10,['ane muani']
+98,Tokoh-11,['cucun kai']
+98,Tokoh-12,['i dadeleg']
+98,Tokoh-13,"['i cicing', 'cicing']"
+98,Tokoh-14,['i meonge']
+98,Tokoh-15,['dagange']
+98,Tokoh-16,"['i bikul', 'bikul']"
+98,Tokoh-17,"['i deleg', 'deleg']"
+98,Tokoh-18,['kedise']
+98,Tokoh-19,['timpal']
+98,Tokoh-20,['kurena']
+98,Tokoh-21,['pande']
+98,Tokoh-22,['bapa']
+98,Tokoh-23,['jero']
+98,Tokoh-24,['meme']
+99,Tokoh-1,"['anake ngaba cicinge totonan', 'cicinge', 'cicing', 'anake']"
+99,Tokoh-2,"['anak lakar ngematiang lipi', 'lipi']"
+99,Tokoh-3,"['anak ngba cicing berag', 'cicing berag']"
+99,Tokoh-4,"['anake ngbe bikule ento', 'bikule ento', 'bikule', 'bikul']"
+99,Tokoh-5,['pan polenge totonan']
+99,Tokoh-6,['cicing berag gati']
+99,Tokoh-7,"['lipine ento, lipi']"
+99,Tokoh-8,"['anak ngbe meyong', 'meyong']"
+99,Tokoh-9,['anak ngabe bikul']
+99,Tokoh-10,"['i bikul, cicing']"
+99,Tokoh-11,['lipine totonan']
+99,Tokoh-12,['bikule totonan']
+99,Tokoh-13,"['gadagan sarapa', 'gadagan', 'gadaga']"
+99,Tokoh-14,['anake totonan']
+99,Tokoh-15,['timpal-timpal']
+99,Tokoh-16,['meyong tiange']
+99,Tokoh-17,['lipine entto']
+99,Tokoh-18,"['meyonge ento', 'meyonge']"
+99,Tokoh-19,"['cicinge ento', 'cicinge to']"
+99,Tokoh-20,['pandene ento']
+99,Tokoh-21,"['bikul, pande', 'pande']"
+99,Tokoh-22,['men poleng']
+99,Tokoh-23,['anake ento']
+99,Tokoh-24,['pan poleng']
+99,Tokoh-25,['lipine to']
+99,Tokoh-26,"['i cicinge', 'i cicing']"
+99,Tokoh-27,['i gadagan']
+99,Tokoh-28,['cicicnge']
+99,Tokoh-29,['i meyong']
+99,Tokoh-30,['i bikul']
+99,Tokoh-31,"['kurenan', 'kurena']"
+99,Tokoh-32,['timpal']
+99,Tokoh-33,['lelipi']
+99,Tokoh-34,['kaki']
+100,Tokoh-1,"['rabi mantri koripan', 'mantri koripan']"
+100,Tokoh-2,['ida mantri koripan']
+100,Tokoh-3,['pan tuung kuning']
+100,Tokoh-4,['men tuung kuning']
+100,Tokoh-5,"['biang ceninge', 'biang']"
+100,Tokoh-6,"['cening galuh', 'cening']"
+100,Tokoh-7,['bikule ento']
+100,Tokoh-8,['raden galuh']
+100,Tokoh-9,"['cening aji', 'aji']"
+100,Tokoh-10,['rabin ida']
+100,Tokoh-11,['okan ida']
+100,Tokoh-12,['ajin ida']
+100,Tokoh-13,['i biang']
+100,Tokoh-14,"['i bikul', 'bikul']"
+100,Tokoh-15,['biange']
+100,Tokoh-16,['oka']
+101,Tokoh-1,['anak makita matakon']
+101,Tokoh-2,['jro kelihan desa']
+101,Tokoh-3,['krama desa']
+101,Tokoh-4,['pan mangut']
+101,Tokoh-5,['liu anake']
+102,Tokoh-1,"['sang pedanda baka', 'pedanda baka', 'padanda baka']"
+102,Tokoh-2,"['makasami ulame', 'ulame']"
+102,Tokoh-3,['i kedis cangak']
+102,Tokoh-4,"['sang cangake', 'sang cangak']"
+102,Tokoh-5,['para mendega']
+102,Tokoh-6,['akeh ulame']
+102,Tokoh-7,['para ulame']
+102,Tokoh-8,['ulame sami']
+102,Tokoh-9,['sang yuyu']
+102,Tokoh-10,['i yuyu']
+102,Tokoh-11,['bapa']
+102,Tokoh-12,['ulam']
+103,Tokoh-1,"['ida raden jajarpikatan', 'raden jajarpikatan']"
+103,Tokoh-2,['raden bang paguyangan']
+103,Tokoh-3,"['widiadari nilotama', 'widiadari']"
+103,Tokoh-4,['prabu pajajaran']
+103,Tokoh-5,['tukang tenung']
+103,Tokoh-6,"['okan beli', 'beli']"
+103,Tokoh-7,['rabinida']
+103,Tokoh-8,['rabi']
+103,Tokoh-9,['jero']
+104,Tokoh-1,['sang prabu manu tuturan surya wangsa']
+104,Tokoh-2,"['pramisuarin ida sang prabhu', 'ida sang prabhu', 'ida sang prabu', 'sang prabhu']"
+104,Tokoh-3,['sang prabhu dasaratha']
+104,Tokoh-4,['para bala wargin ida']
+104,Tokoh-5,['dang hyang purohita']
+104,Tokoh-6,['ida bhatara brahma']
+104,Tokoh-7,['ida sang satrugna']
+104,Tokoh-8,['rabin sang prabhu']
+104,Tokoh-9,"['ida rsi srengga', 'ida rsi']"
+104,Tokoh-10,['para rabin ida']
+104,Tokoh-11,['lanang-lanang']
+104,Tokoh-12,['sang laksmana']
+104,Tokoh-13,['para baudanda']
+104,Tokoh-14,['baudandan ida']
+104,Tokoh-15,['sang bharata']
+104,Tokoh-16,['para panjake']
+104,Tokoh-17,['istri-istri']
+104,Tokoh-18,['para agung']
+104,Tokoh-19,['panangkila']
+104,Tokoh-20,"['para wiku', 'wiku']"
+104,Tokoh-21,['sang rama']
+105,Tokoh-1,"['okan sang prabhu daha', 'prabhu']"
+105,Tokoh-2,"['ida raden galuh daha', 'ida raden galuh', 'i radem galuh', 'i raden galuh', 'i rade galuh', 'raden galuh', 'galuh daha']"
+105,Tokoh-3,"['ida mantrin koripan', 'i mantrin koripan', 'i mantri koripan']"
+105,Tokoh-4,['idane raden galuh']
+105,Tokoh-5,"['ida raden mantri', 'i raden mantri', 'raden mantri']"
+105,Tokoh-6,['ratu raden galuh']
+105,Tokoh-7,['ratu dewa agung']
+105,Tokoh-8,['ida sang prabhu']
+105,Tokoh-9,"['i raden galuhe', 'raden galuhe']"
+105,Tokoh-10,"['ida prameswari', 'prameswari']"
+105,Tokoh-11,"['i sampi wadake', 'i sampi wadak', 'sampi wadak', 'i sampi', 'sampi']"
+105,Tokoh-12,['i nanak galuh']
+105,Tokoh-13,"['ratu dewa ayu', 'dewa ayu']"
+105,Tokoh-14,['kedis-kedise']
+105,Tokoh-15,"['i galuh daha', 'i galuh']"
+105,Tokoh-16,['anake agung']
+105,Tokoh-17,"['meme lutung', 'me lutung', 'lutung', 'meme']"
+105,Tokoh-18,['men lutunge']
+105,Tokoh-19,['sang sampi']
+105,Tokoh-20,['kaka patih']
+105,Tokoh-21,"['i rangsasa', 'rangsasa']"
+105,Tokoh-22,['i dewa ayu']
+105,Tokoh-23,"['panyrowan', 'panyrowa']"
+105,Tokoh-24,"['jro sampi', 'jro']"
+105,Tokoh-25,"['i lutunge', 'i lutung']"
+105,Tokoh-26,"['i ngemban', 'ngemban']"
+105,Tokoh-27,['jro istri']
+105,Tokoh-28,"['ratu aji', 'aji']"
+105,Tokoh-29,['i nginte']
+105,Tokoh-30,['i patih']
+105,Tokoh-31,"['kedise', 'kedis']"
+105,Tokoh-32,['pareka']
+105,Tokoh-33,['bapa']
+105,Tokoh-34,['oka']
+106,Tokoh-1,"['ni nyonyah ingtai', 'i nyonyah ingtai', 'nyonyah ingtai', 'ni nyonyah']"
+106,Tokoh-2,['i bandar macun']
+106,Tokoh-3,['i babah sampik']
+106,Tokoh-4,['nyonyah ingati']
+106,Tokoh-5,['ingtai nyonyah']
+106,Tokoh-6,['i congliwat']
+106,Tokoh-7,['ni ingtai']
+106,Tokoh-8,['i macun']
+106,Tokoh-9,['biang']
+106,Tokoh-10,['aji']
+107,Tokoh-1,"['sang prabhu aji dharma wirosa', 'sang prabhu aji dharma', 'sang prabu aji dharma', 'sang prabhu', 'sang prabu']"
+107,Tokoh-2,"['putran sang ananta boga', 'sang ananta boga']"
+107,Tokoh-3,['ida pedanda siwa budha']
+107,Tokoh-4,"['dewa sang prabhu', 'ida sang prabhu', 'ida sang prabu']"
+107,Tokoh-5,['tanda mantrinida']
+107,Tokoh-6,"['i kambing muani', 'kambing', 'muani']"
+107,Tokoh-7,['sang aji dharma']
+107,Tokoh-8,"['sang naga gini', 'naga gini']"
+107,Tokoh-9,"['bli aji dharma', 'bli']"
+107,Tokoh-10,"['ida ula deles', 'ula deles']"
+107,Tokoh-11,"['i kambing luh', 'luh']"
+107,Tokoh-12,"['i cekcek luh', 'cekcek luh', 'cekcek']"
+107,Tokoh-13,"['tanda mantri', 'tandamantri']"
+107,Tokoh-14,['sang isteri']
+107,Tokoh-15,['para buron']
+107,Tokoh-16,['prameswari']
+107,Tokoh-17,['panjakida']
+107,Tokoh-18,['para isti']
+107,Tokoh-19,['baudanda']
+107,Tokoh-20,['cekceke']
+107,Tokoh-21,['panjake']
+107,Tokoh-22,['i dewa']
+107,Tokoh-23,['pareka']
+107,Tokoh-24,['kurena']
+107,Tokoh-25,['rabin']
+107,Tokoh-26,['beli']
+107,Tokoh-27,['rabi']
+107,Tokoh-28,['adi']
+108,Tokoh-1,"['ida sang pandita bekung', 'sang pandita', 'pandita']"
+108,Tokoh-2,['makakalih sang pandita']
+108,Tokoh-3,['para krama ring majeti']
+108,Tokoh-4,['panjak medang kemulan']
+108,Tokoh-5,['dewata nawa cengkar']
+108,Tokoh-6,"['parekane makakalih', 'parekan makakalih', 'parekane makaklih', 'parekan', 'pareka']"
+108,Tokoh-7,['makakalih pareka']
+108,Tokoh-8,"['ratu sang prabu', 'sang prabu']"
+108,Tokoh-9,['sang nata ratu']
+108,Tokoh-10,"['dewata cengkar', 'dewate cengkar']"
+108,Tokoh-11,['kalih pandita']
+108,Tokoh-12,"['sang aji saka', 'aji saka']"
+108,Tokoh-13,"['bapa sambada', 'bapa']"
+108,Tokoh-14,['kaula-kaula']
+108,Tokoh-15,['ida bekung']
+108,Tokoh-16,"['bapa dora', 'dora']"
+108,Tokoh-17,['i sambada']
+108,Tokoh-18,"['i panjak', 'ipanjak']"
+108,Tokoh-19,['panjake']
+108,Tokoh-20,['i dora']
+108,Tokoh-21,['ikrama']
+109,Tokoh-1,"['para krama desa ekacakra', 'krama desa']"
+109,Tokoh-2,['okanne ane maraha isteri']
+109,Tokoh-3,['ida brahmana lanang']
+109,Tokoh-4,"['karma desa ekacakra', 'karma desa ekacraka']"
+109,Tokoh-5,['putrane sane lanang']
+109,Tokoh-6,['panjake di ekacakra']
+109,Tokoh-7,['ida brahmana istri']
+109,Tokoh-8,['sang darma wangsa']
+109,Tokoh-9,['sang panca padawa']
+109,Tokoh-10,['ida sang brahmana']
+109,Tokoh-11,"['ida sang pandita', 'sang pandita']"
+109,Tokoh-12,"['cening sang bima', 'sang bima']"
+109,Tokoh-13,['pianak titiange']
+109,Tokoh-14,"['i raksasa baka', 'i raksasabaka', 'raksasa baka', 'i raksasa', 'raksasa']"
+109,Tokoh-15,"['ida dewi kunti', 'dewi kunti']"
+109,Tokoh-16,['sang sahadewa']
+109,Tokoh-17,['ida sang bima']
+109,Tokoh-18,"['i detya baka', 'i detyabaka']"
+109,Tokoh-19,"['ratu pedanda', 'pedanda', 'ratu']"
+109,Tokoh-20,['adin tiange']
+109,Tokoh-21,['sang arjuna']
+109,Tokoh-22,['sang nakula']
+109,Tokoh-23,['biang']
+109,Tokoh-24,"['i aji', 'aji']"
+109,Tokoh-25,['ibu']
+110,Tokoh-1,['kedise ane gede tur galak ento']
+110,Tokoh-2,"['kedise ane cerik-cerik', 'kedise cerik-cerik']"
+110,Tokoh-3,"['kedis gede pesan', 'kedis gede']"
+110,Tokoh-4,['sang lanjana']
+110,Tokoh-5,['kedise lenan']
+110,Tokoh-6,"['kedis cerik', 'kedis cenik']"
+110,Tokoh-7,['sang muun']
+110,Tokoh-8,['jero']
+111,Tokoh-1,"['paksine sane lianan', 'paksi sane lianan', 'paksi']"
+111,Tokoh-2,['paksi lanjana']
+111,Tokoh-3,"['i paksi muun', 'paksi muun']"
+111,Tokoh-4,['sang lanjana']
+111,Tokoh-5,['sang muun']
+112,Tokoh-1,['ratu sri mregapati']
+112,Tokoh-2,"['sawatek asu alase', 'sawatek asu']"
+112,Tokoh-3,"['sang prabu singa', 'prabu singa']"
+112,Tokoh-4,"['i patih sambada', 'patih sambada', 'sambada']"
+112,Tokoh-5,['asune makejang']
+112,Tokoh-6,"['sang nandaka', 'nandaka']"
+112,Tokoh-7,['ratu pranda']
+112,Tokoh-8,['sang singa']
+112,Tokoh-9,"['i sambamda', 'i sambada']"
+112,Tokoh-10,['i nandaka']
+112,Tokoh-11,['i nohan']
+112,Tokoh-12,['i lembu']
+112,Tokoh-13,['i tatit']
+112,Tokoh-14,['i ratu']
+113,Tokoh-1,"['ida sang resi yogi sutiksna', 'ida sang resi']"
+113,Tokoh-2,['ida sang yogi sutiksna']
+113,Tokoh-3,['bagawan sarabangga']
+113,Tokoh-4,"['ida sang laksamana', 'ida sang laksmana', 'sang laksmana']"
+113,Tokoh-5,['ida sang ragutama']
+113,Tokoh-6,['ida maharesi atri']
+113,Tokoh-7,['ida resi sutiksna']
+113,Tokoh-8,['ida sang maharesi']
+113,Tokoh-9,"['i raksasa wirada', 'i raksasa']"
+113,Tokoh-10,['ida sang barata']
+113,Tokoh-11,['i kala mertiyu']
+113,Tokoh-12,"['dewa sang rama', 'sang rama']"
+113,Tokoh-13,"['ida dewi sita', 'dewi sita']"
+113,Tokoh-14,['ida sang rama']
+113,Tokoh-15,['i wirada']
+113,Tokoh-16,['i dewa']
+114,Tokoh-1,"['semut coklat ane mara teka ento', 'semut']"
+114,Tokoh-2,['semut mewarna coklat']
+114,Tokoh-3,"['rombonganne i sidem', 'i sidem']"
+114,Tokoh-4,['makatelu emute ento']
+114,Tokoh-5,['timpal-timpal']
+114,Tokoh-6,"['semute-semute', 'semut-semute', 'semut-semut']"
+114,Tokoh-7,['nyaman-nyaman']
+114,Tokoh-8,['semute ento']
+114,Tokoh-9,"['i semut api', 'semut api']"
+114,Tokoh-10,['i semangah']
+115,Tokoh-1,"['siap i saa-sangkur', 'i saa-sangkur', 'saa-sangkur', 'siap']"
+115,Tokoh-2,['i siap saa-sangkur']
+115,Tokoh-3,['makejang siap']
+115,Tokoh-4,"['ni luh lancah', 'luh lancah']"
+115,Tokoh-5,"['i tukang emas', 'tukang emas']"
+115,Tokoh-6,"['i grungsung', 'i grungsang']"
+115,Tokoh-7,['jero tukang']
+115,Tokoh-8,"['beli pagul', 'bli pagul', 'beli', 'bli']"
+115,Tokoh-9,['i badeng']
+115,Tokoh-10,['i pagul']
+115,Tokoh-11,['i selem']
+115,Tokoh-12,['i biing']
+115,Tokoh-13,['siape']
+116,Tokoh-1,['pianakne ane paling keliha']
+116,Tokoh-2,"['pianakne i siap selem', 'pianak i siap seleme', 'i siap selem', 'siap selem', 'pianak', 'panak']"
+116,Tokoh-3,['pianakne kelihan']
+116,Tokoh-4,['pianakne lianan']
+116,Tokoh-5,"['cening doglagan', 'doglagan']"
+116,Tokoh-6,['jero para meong']
+116,Tokoh-7,['pianakne lenan']
+116,Tokoh-8,"['pianak-pianak', 'panak-panak']"
+116,Tokoh-9,"['i meng kuuk', 'meng kuuk']"
+116,Tokoh-10,['i doglagan']
+116,Tokoh-11,['jero meong']
+116,Tokoh-12,['meme']
+116,Tokoh-13,['me']
+117,Tokoh-1,"['memenne i ketimun mas', 'i ketimun mas', 'ketimun mas']"
+117,Tokoh-2,['jero pengangon bebek']
+117,Tokoh-3,['anak ngangon bebek']
+117,Tokoh-4,"['i pengangon bebek', 'i pangangon', 'i pengangon']"
+117,Tokoh-5,['men ketimun mas']
+117,Tokoh-6,"['i raksasa ento', 'i raksasa']"
+117,Tokoh-7,['pangangon ento']
+117,Tokoh-8,"['sang bikul', 'bikul']"
+117,Tokoh-9,"['sang meong', 'meong']"
+117,Tokoh-10,"['i bongol', 'bongol']"
+117,Tokoh-11,['i meong']
+117,Tokoh-12,['i bikul']
+117,Tokoh-13,"['i buta', 'buta']"
+117,Tokoh-14,['cening']
+117,Tokoh-15,['meonge']
+117,Tokoh-16,"['i meme', 'meme']"
+117,Tokoh-17,['memen']
+118,Tokoh-1,"['panjakne ida anake agung', 'ida anake agung', 'anake agung']"
+118,Tokoh-2,['anak luh bajang']
+118,Tokoh-3,['kurenan i agete']
+118,Tokoh-4,"['anake eluh ento', 'anake luh ento', 'anake luh']"
+118,Tokoh-5,['ida sang prabu']
+118,Tokoh-6,['papatih ida']
+118,Tokoh-7,['para panjak']
+118,Tokoh-8,['anake ento']
+118,Tokoh-9,['panjake']
+118,Tokoh-10,['ane luh']
+118,Tokoh-11,['i aget']
+118,Tokoh-12,['kurena']
+119,Tokoh-1,['yuyu berag aking']
+119,Tokoh-2,"['yuyune punika', 'yuyu punika']"
+119,Tokoh-3,['ida pedanda']
+119,Tokoh-4,['i lelipi']
+119,Tokoh-5,['pedando']
+119,Tokoh-6,['i guak']
+119,Tokoh-7,['i yuyu']
+120,Tokoh-1,"['cucune pekak dukuh', 'dukuh', 'pekak']"
+120,Tokoh-2,"['ida sang prabhu', 'ida sang prabu', 'sang prabu']"
+120,Tokoh-3,['niluh kancrung']
+120,Tokoh-4,['lauh kancrung']
+120,Tokoh-5,"['i pekak dukuh', 'i pekak']"
+120,Tokoh-6,"['beli lutung', 'lutung', 'beli']"
+120,Tokoh-7,['kebone gede']
+120,Tokoh-8,"['adi kekua', 'kekua', 'adi']"
+120,Tokoh-9,['i lutung']
+120,Tokoh-10,['i udang']
+120,Tokoh-11,['i kekua']
+120,Tokoh-12,['pareka']
+120,Tokoh-13,['i yuyu']
+120,Tokoh-14,['udange']
+120,Tokoh-15,['cucu']
+120,Tokoh-16,['kebo']
+120,Tokoh-17,['luh']
